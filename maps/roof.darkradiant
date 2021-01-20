@@ -1,0 +1,80 @@
+DarkRadiant Map Information File Version 2
+{
+	MapProperties
+	{
+		KeyValue { "EditTimeInSeconds" "4114" } 
+		KeyValue { "LastCameraAngle" "-44.1 213.6 0" } 
+		KeyValue { "LastCameraPosition" "546.994 158.962 52.7623" } 
+		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/wood/boards/rough_wood_darkbrown_dull_ns" } 
+	}
+	MapEditTimings
+	{
+		TotalSecondsEdited { 4114 }
+	}
+	SelectionGroups
+	{
+	}
+	SelectionGroupNodeMapping
+	{
+	}
+	Layers
+	{
+		Layer 0 { Default }
+		Layer 1 { roof }
+	}
+	NodeToLayerMapping
+	{
+		Node { 0 } // entity (world)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 1 } // brush (Brush)
+		Node { 1 } // brush (Brush)
+		Node { 1 } // brush (Brush)
+		Node { 1 } // brush (Brush)
+		Node { 1 } // brush (Brush)
+		Node { 1 } // brush (Brush)
+		Node { 1 } // brush (Brush)
+		Node { 1 } // brush (Brush)
+		Node { 1 } // brush (Brush)
+		Node { 1 } // brush (Brush)
+		Node { 1 } // brush (Brush)
+		Node { 1 } // brush (Brush)
+		Node { 1 } // brush (Brush)
+		Node { 1 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 1 } // entity (func_static_1307)
+		Node { 0 } // entity (func_static_1311)
+		Node { 1 } // entity (func_static_1308)
+		Node { 1 } // entity (func_static_1)
+		Node { 1 } // entity (func_static_3)
+		Node { 1 } // entity (func_static_4)
+		Node { 1 } // entity (func_static_5)
+		Node { 1 } // entity (func_static_6)
+		Node { 1 } // entity (func_static_7)
+		Node { 1 } // entity (func_static_8)
+		Node { 1 } // entity (func_static_9)
+		Node { 0 } // entity (ambient_world)
+		Node { 0 } // entity (atdm_readable_immobile_book01_1)
+		Node { 0 } // entity (atdm_target_addobjectives_1)
+	}
+	SelectionSets
+	{
+	}
+}
