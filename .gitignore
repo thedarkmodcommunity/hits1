@@ -1,4 +1,5 @@
 models
+*.dat
 *.aas32
 *.proc
 *.cm
