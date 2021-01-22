@@ -92,3 +92,165 @@ readables/man2/journal_cooper
 	"gui_page2"	: "guis/readables/books/book_hand_shoppinglist.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
+
+
+readables/man2/staff_note
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title"	:
+	{
+		"To all staff,"
+	}
+	"page1_body"	:
+	{
+		""
+		""
+		""
+		"Please access flat 3 using your ground floor entrance from this point forward."
+		""
+		"The Landlord,"
+		""
+		"L.T."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_mac_humaine.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/journal_thomas
+{
+	precache
+	"num_pages"	: "2"
+	"page1_left_title"	:
+	{
+		"11 January"
+	}
+	"page1_left_body"	:
+	{
+		""
+		""
+		"This is turning out to be a pretty good job. The pay isn't that great, but the free room and board makes up for it.  "
+		""
+		"With Lord Twistletoe buying up all these properties, I should have lots of work for the forseeable future."
+		""
+		""
+	}
+	"page1_right_title"	:
+	{
+		""
+	}
+	"page1_right_body"	:
+	{
+		"The tenants are nice enough, although that Mr. Percy in flat 4 can be a bit of nag.  He keeps asking when his security camera is going to be fixed. Not sure what he needs it for, I keep telling him as long as he keeps his window locked he should be fine.."
+		"."
+		""
+	}
+	"page2_left_title"	:
+	{
+		"13 January"
+	}
+	"page2_left_body"	:
+	{
+		""
+		""
+		"Met the rest of the staff here today.  Roland is the cook, although he only works for the Inglebys in flat 2.  We get along pretty well, and he sneaks me leftovers sometimes."
+	}
+	"page2_right_title"	:
+	{
+		""
+	}
+	"page2_right_body"	:
+	{
+		"Hales is the 'Chief of Security'.  We have no idea what her first name is.  She is strictly business and not terribly friendly.  Roland even tried to bring her some tarts, but she told him to 'bugger off'."
+	}
+	"gui_page1"	: "guis/readables/books/book_hand_nancy.gui"
+	"gui_page2"	: "guis/readables/books/book_hand_nancy.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/note_twistleton_to_hales
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title"	:
+	{
+		"Hales,"
+	}
+	"page1_body"	:
+	{
+		""
+		""
+		"Here is your payment as promised.  With respect to our little problem with that character from the inn, I had it taken care of.  Please come and see me regarding... next steps."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_mac_humaine.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/journal_roland
+{
+	precache
+	"num_pages"	: "3"
+	"page1_left_title"	:
+	{
+		"Thurs, Feb 4th"
+	}
+	"page1_left_body"	:
+	{
+		""
+		""
+		"Roland is a nice enough guy, but a bit naive. He didn't think it was at all strange that he was asked to build a trap door in the storage room.  I dared not ask where the tunnel underneath goes.  Hales literally stood over him the whole time as he was working, "
+	}
+	"page1_right_title"	:
+	{
+		""
+	}
+	"page1_right_body"	:
+	{
+		"giving me the evil eye every time I passed by them in the hallway."
+	}
+	"page2_left_title"	:
+	{
+		"Sunday, Feb 7th"
+	}
+	"page2_left_body"	:
+	{
+		""
+		""
+		"This weekend the Inglebys must have had their entire extended family over.  I was in the kitchen non stop from Friday evening to late tonight.  And they refused to pay me extra!  This is the third time they've done this!  I've decided to help myself to some of their "
+	}
+	"page2_right_title"	:
+	{
+		""
+	}
+	"page2_right_body"	:
+	{
+		"candlesticks.  They won't miss them, they have a whole crate of them stashed in the pantry."
+		""
+		"Between the Inglebys and that psycho Hales I'm not too sure how much longer I can take it here.  "
+	}
+	"page3_left_title"	:
+	{
+		"Wed. Jan 10th"
+	}
+	"page3_left_body"	:
+	{
+		""
+		""
+		"I saw Hales and Twistletoe talking all hush hush the other night out back while I was dumping some kitchen slops. Twistletoe seemed pretty agitated.   God knows what they were talking about, probably something to do with that bloody tunnel..."
+	}
+	"page3_right_title"	:
+	{
+		""
+	}
+	"page3_right_body"	:
+	{
+		""
+	}
+	"gui_page1"	: "guis/readables/books/book_hand_shoppinglist.gui"
+	"gui_page2"	: "guis/readables/books/book_hand_shoppinglist.gui"
+	"gui_page3"	: "guis/readables/books/book_hand_shoppinglist.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
