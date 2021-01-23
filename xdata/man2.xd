@@ -132,7 +132,7 @@ readables/man2/journal_thomas
 		""
 		"This is turning out to be a pretty good job. The pay isn't that great, but the free room and board makes up for it.  "
 		""
-		"With Lord Twistletoe buying up all these properties, I should have lots of work for the forseeable future."
+		"With Lord Twistleton buying up all these properties, I should have lots of work for the forseeable future."
 		""
 		""
 	}
@@ -201,7 +201,7 @@ readables/man2/journal_roland
 	{
 		""
 		""
-		"Roland is a nice enough guy, but a bit naive. He didn't think it was at all strange that he was asked to build a trap door in the storage room.  I dared not ask where the tunnel underneath goes.  Hales literally stood over him the whole time as he was working, "
+		"Thomas is a nice enough guy, but a bit naive. He didn't think it was at all strange that he was asked to build a trap door in the storage room.  I dared not ask where the tunnel underneath goes.  Hales literally stood over him the whole time as he was working, "
 	}
 	"page1_right_title"	:
 	{
@@ -219,7 +219,7 @@ readables/man2/journal_roland
 	{
 		""
 		""
-		"This weekend the Inglebys must have had their entire extended family over.  I was in the kitchen non stop from Friday evening to late tonight.  And they refused to pay me extra!  This is the third time they've done this!  I've decided to help myself to some of their "
+		"This weekend the Inglebys must have had their entire extended family over.  I was in the kitchen non stop from Friday evening to late tonight.  And they refused to pay me extra!  This is the third time they've done this!  As recompense I've decided to help myself to some of their "
 	}
 	"page2_right_title"	:
 	{
@@ -227,7 +227,7 @@ readables/man2/journal_roland
 	}
 	"page2_right_body"	:
 	{
-		"candlesticks.  They won't miss them, they have a whole crate of them stashed in the pantry."
+		"candlesticks."
 		""
 		"Between the Inglebys and that psycho Hales I'm not too sure how much longer I can take it here.  "
 	}
@@ -239,7 +239,7 @@ readables/man2/journal_roland
 	{
 		""
 		""
-		"I saw Hales and Twistletoe talking all hush hush the other night out back while I was dumping some kitchen slops. Twistletoe seemed pretty agitated.   God knows what they were talking about, probably something to do with that bloody tunnel..."
+		"I saw Hales and Twistleton talking all hush hush the other night out back while I was dumping some kitchen slops. Twistletoe seemed pretty agitated.   God knows what they were talking about, probably something to do with that bloody tunnel..."
 	}
 	"page3_right_title"	:
 	{
