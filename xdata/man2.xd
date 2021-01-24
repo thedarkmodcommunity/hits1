@@ -254,3 +254,140 @@ readables/man2/journal_roland
 	"gui_page3"	: "guis/readables/books/book_hand_shoppinglist.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
+
+
+readables/man2/journal_ingleby
+{
+	precache
+	"num_pages"	: "1"
+	"page1_left_title"	:
+	{
+		""
+	}
+	"page1_left_body"	:
+	{
+		"Finally everyone is off  to bed. I hope that cook didn't poison everyone, he didn't seem to pleased about having to work all weekend.  It clearly states in his contract he will occaisonally be expected to work extra hours."
+		""
+		"Either way he's been rather disagreeable the last few weeks, and I'm starting to"
+	}
+	"page1_right_title"	:
+	{
+		""
+	}
+	"page1_right_body"	:
+	{
+		" have my suspicions about him. Some of our silverware has gone missing so I'm putting everything in the safe from now on.  I will speak to Twistleton about getting him replaced in the morning..."
+	}
+	"gui_page1"	: "guis/readables/books/book_hand_ellianerelle.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/journal_twistleton
+{
+	precache
+	"num_pages"	: "4"
+	"page1_left_title"	:
+	{
+		"2nd August, 1634"
+	}
+	"page1_left_body"	:
+	{
+		""
+		""
+		"Ever since the Crown imposed those taxes on exports, I've been making a fortune. There is no shortage of grain or livestock in this country and overseas buyers are begging for this stuff.  Instead of being fleeced by the taxman,  local merchants are coming to me to broker the sale of their"
+	}
+	"page1_right_title"	:
+	{
+		""
+	}
+	"page1_right_body"	:
+	{
+		"wares."
+		""
+		"I've decided to invest my profits in the local property market, with my current house and the houses across the street being my first projects."
+		""
+	}
+	"page2_left_title"	:
+	{
+		"24 September, 1634"
+	}
+	"page2_left_body"	:
+	{
+		""
+		""
+		"Some unexpected good luck.  While renovating one of the houses across the road, one of the workers uncovered an old mining tunnel.  After some initial exploration, it appears that it passes directly underneath The Hare and Snare Inn, where I have publically (and reluctantly) been meeting with foreign merchants."
+	}
+	"page2_right_title"	:
+	{
+		""
+	}
+	"page2_right_body"	:
+	{
+		"If we can ensure this tunnel is safe, perhaps we can arrange for a more clandenstine operation."
+		""
+		"The innkeeper, Bennet, is fond of coin and won't be an obstacle."
+	}
+	"page3_left_title"	:
+	{
+		"16th October, 1634"
+	}
+	"page3_left_body"	:
+	{
+		""
+		""
+		"It's all falling into place now.  I've hired staff to look after my little housing development and one of them, Hales, is an ex-City Watch officer.  She got into a little bit of trouble and therefore has ended up in the 'private sector'.  She seems compentent enough, although a bit short-tempered."
+	}
+	"page3_right_title"	:
+	{
+		""
+	}
+	"page3_right_body"	:
+	{
+		"Either way, she is perfect for handling the dirty work for me, as I need to start keeping a lower profile."
+		""
+		"The public needs to believe I earn my fortune from property, not smuggling!"
+	}
+	"page4_left_title"	:
+	{
+		""
+	}
+	"page4_left_body"	:
+	{
+		""
+	}
+	"page4_right_title"	:
+	{
+		""
+	}
+	"page4_right_body"	:
+	{
+		""
+	}
+	"gui_page1"	: "guis/readables/books/book_calig_mac_humaine.gui"
+	"gui_page2"	: "guis/readables/books/book_calig_mac_humaine.gui"
+	"gui_page3"	: "guis/readables/books/book_calig_mac_humaine.gui"
+	"gui_page4"	: "guis/readables/books/book_calig_mac_humaine.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/note_twistleton_from_hales
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title"	:
+	{
+		"Sir,"
+	}
+	"page1_body"	:
+	{
+		""
+		""
+		"I'm afraid there's been an... incident. Someone was making a lot of inquiries about goings -on at the inn, and they weren't about 'commercial opportunities'.  I've uh, temporarily dealt with the situation however I seem to have misplaced my key to the tunnel.  I will come by tomorrow to borrow yours."
+		""
+		"Hales"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
