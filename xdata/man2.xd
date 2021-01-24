@@ -391,3 +391,24 @@ readables/man2/note_twistleton_from_hales
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
+
+
+readables/man2/note_thugs_from_hales
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		"You two morons need to clean up your mess in the next room.  I even brought you some shovels."
+		""
+		"When you finish that, come and see me for your wages and then I never want to see either of you again.  When you were hired I explained, in excruciating detail, how we prefer to work here.  In retrospect, perhaps I used too many words."
+		""
+		"Hales"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
