@@ -20,76 +20,9 @@ readables/man2/innkeeper_journal
 	{
 		""
 		""
-		"That fellow staying in room 2 is asking too many questions.  He was pestering the barmaid the other night about the other staff, and even asked if she ever sees Twistleton around.  I might have a word with Russett about him..."
+		"That fellow staying in room 2 is asking too many questions.  He was pestering the barmaid the other night about the other staff, and even asked if she ever sees Twistleton around.  I might have a word with Hales about him..."
 	}
 	"gui_page1"	: "guis/readables/books/book_hand_jd_hand.gui"
-	"snd_page_turn"	: "readable_page_turn"
-}
-
-
-readables/man2/note_twistleton_to_russett
-{
-	precache
-	"num_pages"	: "1"
-	"page1_title"	:
-	{
-		"Russett,"
-	}
-	"page1_body"	:
-	{
-		""
-		""
-		"Here is your payment as promised.  With respect to our little problem with that character from the inn, I had it taken care of.  Please come and see me regarding... next steps."
-	}
-	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_mac_humaine.gui"
-	"snd_page_turn"	: "readable_page_turn"
-}
-
-
-readables/man2/journal_cooper
-{
-	precache
-	"num_pages"	: "2"
-	"page1_left_title"	:
-	{
-		"03/02"
-	}
-	"page1_left_body"	:
-	{
-		""
-		""
-		"...arrived at the inn tonight.  Not a bad place really, just needs a bit of a work.  Certainly not the dive I was expecting."
-		""
-		"The innkeeper got a bit funny though when I asked how business was going."
-	}
-	"page1_right_title"	:
-	{
-		"05/02"
-	}
-	"page1_right_body"	:
-	{
-		""
-		""
-		"According to the locals, half this town is owned by 'Lord' Twistletoe, although the provenance of that title is suspect.  He apparently showed up about a year ago and started buying up property, starting with his house across the street."
-	}
-	"page2_left_title"	:
-	{
-		""
-	}
-	"page2_left_body"	:
-	{
-		"Either way I'm going to see what else I can turn up.  Between the twtichy inkeeper and this dodgy Twistletoe something is going on."
-	}
-	"page2_right_title"	:
-	{
-		""
-	}
-	"page2_right_body"	:
-	{
-		""
-	}
-	"gui_page1"	: "guis/readables/books/book_hand_shoppinglist.gui"
-	"gui_page2"	: "guis/readables/books/book_hand_shoppinglist.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -410,5 +343,53 @@ readables/man2/note_thugs_from_hales
 		"Hales"
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/journal_jacobs
+{
+	precache
+	"num_pages"	: "2"
+	"page1_left_title"	:
+	{
+		"03/02"
+	}
+	"page1_left_body"	:
+	{
+		""
+		""
+		"...arrived at the inn tonight.  Not a bad place really, just needs a bit of a work.  Certainly not the dive I was expecting."
+		""
+		"The innkeeper got a bit funny though when I asked how business was going."
+	}
+	"page1_right_title"	:
+	{
+		"05/02"
+	}
+	"page1_right_body"	:
+	{
+		""
+		""
+		"According to the locals, half this town is owned by 'Lord' Twistleton, although the provenance of that title is suspect.  He apparently showed up about a year ago and started buying up property, starting with his house across the street."
+	}
+	"page2_left_title"	:
+	{
+		""
+	}
+	"page2_left_body"	:
+	{
+		"Either way I'm going to see what else I can turn up.  Between the twtichy inkeeper and this dodgy Twistleton something is going on."
+	}
+	"page2_right_title"	:
+	{
+		""
+	}
+	"page2_right_body"	:
+	{
+		""
+	}
+	"gui_page1"	: "guis/readables/books/book_hand_shoppinglist.gui"
+	"gui_page2"	: "guis/readables/books/book_hand_shoppinglist.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
