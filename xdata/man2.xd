@@ -115,7 +115,9 @@ readables/man2/note_twistleton_to_hales
 	{
 		""
 		""
-		"Here is your payment as promised.  With respect to our little problem with that character from the inn, I had it taken care of.  Please come and see me regarding... next steps."
+		"Here is your payment as promised.  With respect to our little problem, please come and see me regarding... next steps."
+		""
+		"L.T."
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_mac_humaine.gui"
 	"snd_page_turn"	: "readable_page_turn"
@@ -219,7 +221,7 @@ readables/man2/journal_ingleby
 readables/man2/journal_twistleton
 {
 	precache
-	"num_pages"	: "4"
+	"num_pages"	: "3"
 	"page1_left_title"	:
 	{
 		"2nd August, 1634"
@@ -281,26 +283,9 @@ readables/man2/journal_twistleton
 		""
 		"The public needs to believe I earn my fortune from property, not smuggling!"
 	}
-	"page4_left_title"	:
-	{
-		""
-	}
-	"page4_left_body"	:
-	{
-		""
-	}
-	"page4_right_title"	:
-	{
-		""
-	}
-	"page4_right_body"	:
-	{
-		""
-	}
 	"gui_page1"	: "guis/readables/books/book_calig_mac_humaine.gui"
 	"gui_page2"	: "guis/readables/books/book_calig_mac_humaine.gui"
 	"gui_page3"	: "guis/readables/books/book_calig_mac_humaine.gui"
-	"gui_page4"	: "guis/readables/books/book_calig_mac_humaine.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -419,5 +404,25 @@ readables/man2/percy_rich
 		""
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_mac_humaine.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/note_twistleton_spy
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		"Reminder: "
+		""
+		"    Tell Ingleby to stop leaving his guest bedroom window open."
+		""
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_mac_humaine.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
