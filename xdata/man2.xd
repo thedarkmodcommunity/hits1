@@ -253,7 +253,7 @@ readables/man2/journal_twistleton
 	{
 		""
 		""
-		"Some unexpected good luck.  While renovating one of the houses across the road, one of the workers uncovered an old mining tunnel.  After some initial exploration, it appears that it passes directly underneath The Hare and Snare Inn, where I have publically (and reluctantly) been meeting with foreign merchants."
+		"Some unexpected good luck.  While renovating one of the houses across the road, one of the workers uncovered an old mining tunnel.  After some initial exploration, it appears that it passes directly underneath The Hare in the Snare Inn, where I have publically (and reluctantly) been meeting with foreign merchants."
 	}
 	"page2_right_title"	:
 	{
@@ -366,7 +366,7 @@ readables/man2/journal_jacobs
 	}
 	"page2_left_body"	:
 	{
-		"Either way I'm going to see what else I can turn up.  Between the twtichy inkeeper and this dodgy Twistleton something is going on."
+		"Either way I'm going to see what else I can turn up.  Between the twitchy inkeeper and this dodgy Twistleton character something is going on."
 	}
 	"page2_right_title"	:
 	{
@@ -376,8 +376,8 @@ readables/man2/journal_jacobs
 	{
 		""
 	}
-	"gui_page1"	: "guis/readables/books/book_hand_shoppinglist.gui"
-	"gui_page2"	: "guis/readables/books/book_hand_shoppinglist.gui"
+	"gui_page1"	: "guis/readables/books/book_hand_ellianerelle.gui"
+	"gui_page2"	: "guis/readables/books/book_hand_ellianerelle.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
