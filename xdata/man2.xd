@@ -115,7 +115,9 @@ readables/man2/note_twistleton_to_hales
 	{
 		""
 		""
-		"Here is your payment as promised.  With respect to our little problem, please come and see me regarding... next steps."
+		"Here is your 'bonus' as promised."
+		""
+		"I've received your note. I trust there is nothing to worry about? We will dicuss when you arrive tomorrow to pick up the key."
 		""
 		"L.T."
 	}
@@ -424,5 +426,30 @@ readables/man2/note_twistleton_spy
 		""
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_mac_humaine.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/note_williams
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		"Capt Williams,"
+		""
+		"The suspicious activity seems to be centered around The Hare in the Snare Inn.  We think foreigners are involved."
+		""
+		"Try to keep a low profile for now.  Tell the innkeeper you are in town to train the local watch or something."
+		""
+		"Report back in three days."
+		""
+		"Cmdr Strickland"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }

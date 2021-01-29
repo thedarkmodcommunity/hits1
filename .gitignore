@@ -2,6 +2,7 @@ models
 savegames
 *.dat
 *.aas32
+*.aas_rat
 *.proc
 *.cm
 *.bak
