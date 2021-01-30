@@ -56713,7 +56713,7 @@ brushDef3
 {
 "classname" "speaker"
 "name" "speaker_2"
-"origin" "436 1346 25"
+"origin" "436 1346 -80"
 "s_looping" "1"
 "s_maxdistance" "9.365001"
 "s_shader" "animal_crickets01_loop"

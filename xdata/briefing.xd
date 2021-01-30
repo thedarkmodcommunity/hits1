@@ -1,0 +1,16 @@
+maps/man2/mission_briefing
+{
+ "num_pages": "1"
+ 
+ "page1_body" :
+ {
+   "  The Hare in the Snare"
+   ""
+   "An old friend of mine, Jacobs, invited me to a small town up north.  He figures there are some opportunities for men of our ilk."
+   ""
+   "It's not common for thieves to share, but we go way back and he owes me a favour."
+   ""
+   "I am to meet him at The Hare in the Snare Inn on Bedford Road."
+  }
+
+}
