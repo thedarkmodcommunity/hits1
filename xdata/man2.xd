@@ -75,8 +75,7 @@ readables/man2/journal_thomas
 	}
 	"page1_right_body"	:
 	{
-		"The tenants are nice enough, although that Mr. Percy in flat 4 can be a bit of nag.  He keeps asking when his security camera is going to be fixed. Not sure what he needs it for, I keep telling him as long as he keeps his window locked he should be fine.."
-		"."
+		"The tenants are nice enough, although that Mr. Percy in flat 4 can be a bit of nag.  He keeps asking when his security camera is going to be fixed. Not sure what he needs it for, I keep telling him as long as he keeps his window locked he should be fine..."
 		""
 	}
 	"page2_left_title"	:
@@ -176,7 +175,7 @@ readables/man2/journal_roland
 	{
 		""
 		""
-		"I saw Hales and Twistleton talking all hush hush the other night out back while I was dumping some kitchen slops. Twistleton seemed pretty agitated.   God knows what they were talking about, probably something to do with that bloody tunnel..."
+		"I saw Hales and Twistleton talking all hush hush the other night out back while I was dumping some kitchen slops.  God knows what they were talking about, probably something to do with that bloody tunnel..."
 	}
 	"page3_right_title"	:
 	{
@@ -232,7 +231,7 @@ readables/man2/journal_twistleton
 	{
 		""
 		""
-		"Ever since the Crown imposed those taxes on exports, I've been making a fortune. There is no shortage of grain or livestock in this country and overseas buyers are begging for the stuff.  Instead of being fleeced by the taxman,  local merchants are coming to me to broker the sale of their"
+		"Ever since the Crown imposed those taxes on exports, I've been making a fortune. There is no shortage of grain or livestock in this country and overseas buyers are willing to pay over the odds for it.  Instead of being fleeced by the taxman,  local merchants are coming to me to broker the "
 	}
 	"page1_right_title"	:
 	{
@@ -240,7 +239,7 @@ readables/man2/journal_twistleton
 	}
 	"page1_right_body"	:
 	{
-		"wares."
+		"sale of their wares."
 		""
 		"I've decided to invest my profits in the local property market, with my current house and the houses across the street being my first projects."
 		""
@@ -449,6 +448,86 @@ readables/man2/note_williams
 		"Report back in three days."
 		""
 		"Cmdr Strickland"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/ledger_smugglers
+{
+	precache
+	"num_pages"	: "2"
+	"page1_left_title"	:
+	{
+		""
+	}
+	"page1_left_body"	:
+	{
+		"27/11/1634"
+		"Ship to: R. Bashar"
+		""
+		"Goods          Qty          Rcvd"
+		"-------------------------"
+		"Wheat          90kg       L2 14s"
+		"Leather        30kg       L4 5s      "
+		"Wool            40kg       L6 11s"
+		""
+		""
+	}
+	"page1_right_title"	:
+	{
+		""
+	}
+	"page1_right_body"	:
+	{
+		"02/12/1634"
+		"Ship to: M. Ludwig"
+		""
+		"Goods          Qty          Rcvd"
+		"-------------------------"
+		"Timber        110kg       L3 7s      "
+		"Lead             32kg       L9 16s"
+	}
+	"page2_left_title"	:
+	{
+		""
+	}
+	"page2_left_body"	:
+	{
+		"...more ledger entries..."
+	}
+	"page2_right_title"	:
+	{
+		""
+	}
+	"page2_right_body"	:
+	{
+		""
+	}
+	"gui_page1"	: "guis/readables/books/book_calig_mac_humaine.gui"
+	"gui_page2"	: "guis/readables/books/book_calig_mac_humaine.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/note_parker
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		"Parker,"
+		""
+		"Finish up whatever you're doing and take a few days off, we've had a security breach."
+		""
+		"Oh and don't bother preparing the wages for those goons down below. They won't be coming back, and won't be in need of coin where they're headed..."
+		""
+		"Hales"
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
