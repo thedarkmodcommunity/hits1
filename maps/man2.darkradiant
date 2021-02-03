@@ -1,5 +1,16 @@
 DarkRadiant Map Information File Version 2
 {
+	MapProperties
+	{
+		KeyValue { "EditTimeInSeconds" "622134" } 
+		KeyValue { "LastCameraAngle" "-31.8 200.555 0" } 
+		KeyValue { "LastCameraPosition" "436.108 -330.806 267.857" } 
+		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/wood/boards/rough_wood_brown" } 
+	}
+	MapEditTimings
+	{
+		TotalSecondsEdited { 622134 }
+	}
 	SelectionGroups
 	{
 		SelectionGroup 3 { "" }
@@ -920,17 +931,6 @@ DarkRadiant Map Information File Version 2
 		Node { ( 2699 ) ( 445 ) } // entity (sign_text7)
 		Node { ( 2710 ) ( 435 ) } // entity (sign_text8)
 		Node { ( 2711 ) ( 436 ) } // entity (sign_text9)
-	}
-	MapProperties
-	{
-		KeyValue { "EditTimeInSeconds" "621949" } 
-		KeyValue { "LastCameraAngle" "-11.4 168.155 0" } 
-		KeyValue { "LastCameraPosition" "154.77 424.999 187.754" } 
-		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/wood/boards/rough_wood_brown" } 
-	}
-	MapEditTimings
-	{
-		TotalSecondsEdited { 621949 }
 	}
 	Layers
 	{
@@ -6358,6 +6358,7 @@ DarkRadiant Map Information File Version 2
 		Node { 6 } // entity (williams_footlocker)
 		Node { 6 } // brush (Brush)
 		Node { 0 } // entity (atdm_difficulty_settings_1)
+		Node { 6 } // entity (atdm_lamp_oil_wall_dirtymetal_lit_21)
 	}
 	SelectionSets
 	{
