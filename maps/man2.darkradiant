@@ -1,12 +1,5 @@
 DarkRadiant Map Information File Version 2
 {
-	MapProperties
-	{
-		KeyValue { "EditTimeInSeconds" "621219" } 
-		KeyValue { "LastCameraAngle" "-21.3 25.3552 0" } 
-		KeyValue { "LastCameraPosition" "-442.773 259.193 279.892" } 
-		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/wood/boards/rough_wood_brown" } 
-	}
 	SelectionGroups
 	{
 		SelectionGroup 3 { "" }
@@ -122,7 +115,6 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 396 { "" }
 		SelectionGroup 397 { "" }
 		SelectionGroup 398 { "" }
-		SelectionGroup 401 { "" }
 		SelectionGroup 402 { "" }
 		SelectionGroup 404 { "" }
 		SelectionGroup 405 { "" }
@@ -150,6 +142,7 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 445 { "" }
 		SelectionGroup 446 { "" }
 		SelectionGroup 447 { "" }
+		SelectionGroup 448 { "" }
 	}
 	SelectionGroupNodeMapping
 	{
@@ -557,8 +550,8 @@ DarkRadiant Map Information File Version 2
 		Node { ( 1407 ) ( 176 ) } // entity (func_static_977)
 		Node { ( 1408 ) ( 177 ) } // entity (atdm_handle_curved_rotate_double_right_10)
 		Node { ( 1409 ) ( 177 ) } // entity (func_static_138)
-		Node { ( 1410 ) ( 401 ) } // entity (atdm_handle_curved_rotate_double_right_11)
-		Node { ( 1411 ) ( 401 ) } // entity (percy_back_door)
+		Node { ( 1410 ) ( 448 ) } // entity (atdm_handle_curved_rotate_double_right_11)
+		Node { ( 1411 ) ( 448 ) } // entity (percy_back_door)
 		Node { ( 1414 ) ( 180 ) } // entity (atdm_handle_curved_rotate_double_right_13)
 		Node { ( 1415 ) ( 180 ) } // entity (func_static_1002)
 		Node { ( 1418 ) ( 404 ) } // entity (atdm_handle_curved_rotate_double_right_15)
@@ -925,12 +918,19 @@ DarkRadiant Map Information File Version 2
 		Node { ( 2679 ) ( 427 ) } // entity (atdm_handle_curved_rotate_double_right_1)
 		Node { ( 2680 ) ( 427 ) } // entity (func_static_1873)
 		Node { ( 2699 ) ( 445 ) } // entity (sign_text7)
-		Node { ( 2711 ) ( 435 ) } // entity (sign_text8)
-		Node { ( 2712 ) ( 436 ) } // entity (sign_text9)
+		Node { ( 2710 ) ( 435 ) } // entity (sign_text8)
+		Node { ( 2711 ) ( 436 ) } // entity (sign_text9)
+	}
+	MapProperties
+	{
+		KeyValue { "EditTimeInSeconds" "621949" } 
+		KeyValue { "LastCameraAngle" "-11.4 168.155 0" } 
+		KeyValue { "LastCameraPosition" "154.77 424.999 187.754" } 
+		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/wood/boards/rough_wood_brown" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 621219 }
+		TotalSecondsEdited { 621949 }
 	}
 	Layers
 	{
@@ -6149,8 +6149,6 @@ DarkRadiant Map Information File Version 2
 		Node { 6 } // entity (func_static_1882)
 		Node { 13 } // entity (atdm_target_setobjective_visibility_2)
 		Node { 13 } // entity (obj_complete_jacobs_relay)
-		Node { 0 } // entity (williams_desk)
-		Node { 0 } // brush (Brush)
 		Node { 2 } // entity (speaker_3)
 		Node { 0 } // entity (sign_text8)
 		Node { 0 } // patch (Patch)
@@ -6357,6 +6355,9 @@ DarkRadiant Map Information File Version 2
 		Node { 9 } // entity (path_corner_23)
 		Node { 0 } // entity (func_static_452)
 		Node { 0 } // entity (func_static_449)
+		Node { 6 } // entity (williams_footlocker)
+		Node { 6 } // brush (Brush)
+		Node { 0 } // entity (atdm_difficulty_settings_1)
 	}
 	SelectionSets
 	{
