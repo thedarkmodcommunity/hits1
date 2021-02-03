@@ -1,0 +1,71 @@
+// Each section is a rectangle: rect X,Y,W,H where X=left margin, Y=top margin, W=width, H=height.)
+
+windowDef Desktop
+{
+	rect	0,0,640,480    // (Leave at 0,0,640,480)
+
+	windowDef ScreenPicture
+	{
+		rect	0,0,640,480    // (Leave at 0,0,640,480 as it scales)
+		visible	1
+		background	"guis/assets/loading.tga"  //   (Enter your screenshot here)
+	}
+ 
+	windowDef FMTitle
+	{
+	 	rect         0,0,640,480    // (Leave at 0,0,640,480 so you can space out your title anywhere.)
+		text         "\n\n\n\n\nThe Hare in the Snare"         //   (Enter your FM title.  \n means new line)
+		textscale    0.85               // (font size)
+		font         "fonts/mac_humaine"     // (change to any of the fonts in the Dark Mod fonts folder)
+		textalign    1                 // 0=left, 1 = centre, 2=right (space out to adjust)
+		forecolor    0.8,0.75,0.5,0.5       // text color R,G,B,transparent (0 to 1 each)
+	}
+ 
+
+	windowDef FMText
+	{
+	 	rect         0,0,640,480  // (Leave at 0,0,640,480 so you can space out your text anywhere.)
+		text         "\n\n\n\n\n\n\n\n\n\n\nby Frost_Salamander"
+		textscale    0.5               // (font size)
+		font         "fonts/mac_humaine"     // (change to any of the fonts in the Dark Mod fonts folder)
+		textalign    1                // 0=left, 1 = centre, 2=right (space out to adjust)
+		forecolor    0.75,0.75,0.5,0.5      // text color R,G,B,transparent (0 to 1 each)
+	}
+
+
+	windowDef ProgressBarBorder
+	{
+		rect	192,450,256,32
+		visible	("gui::map_loading"<1)     // (only visible while loading)
+		background	"guis/assets/generic_loading_bar1.tga"  // (the progress bar border image)
+	}
+
+	windowDef FMLoadingText
+	{
+		rect	243,458,155,16
+		text         "Mission Loading"
+		textscale    .2
+		font         "fonts/medusa"
+		textalign    1
+		forecolor    0.7,0.7,0,1      // text color R,G,B,transparent (0 to 1 each)
+		visible	("gui::map_loading"<1)     // (only visible while loading)
+	}
+
+	windowDef FMLoaded
+	{
+		rect	160,458,320,16
+		text         "Mission Loaded - Please Wait"
+		textscale    .2
+		font         "fonts/medusa"
+		textalign    1
+		forecolor    0.99,0.99,0.99,0.85      // text color R,G,B,transparent (0 to 1 each)
+		visible	("gui::map_loading">=1)     // (only visible after loaded)
+	}
+
+	windowDef ProgressBar
+	{
+		rect	245,459,( "gui::map_loading" * 152 ),13  // (bar width grows with load progress.)
+		backcolor    0.8, 0.3, 0, 0.5  // (color of progress bar)
+		visible	("gui::map_loading"<1)     // (only visible while loading)
+	}
+}

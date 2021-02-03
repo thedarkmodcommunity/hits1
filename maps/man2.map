@@ -55937,8 +55937,8 @@ patchDef3
 "name" "note_to_twistleton_from_hales"
 "bind" "bureau_drawerC3"
 "inv_name" "#str_20001"
-"origin" "45.7397 619.647 123.5"
-"rotation" "0.223122 -0.974791 0 0.974791 0.223122 0 0 0 1"
+"origin" "58.9675 725.451 92.5692"
+"rotation" "0 0.419283 0.907856 0 0.907856 -0.419283 -1 0 0"
 "xdata_contents" "readables/man2/note_twistleton_from_hales"
 }
 // entity 2593

@@ -3,21 +3,37 @@ param (
 )
 
 $rev="_v$version"
-$pkg="C:\Temp\dm_staging\dmmission1\hareinthesnare$rev"
+
+$devMissionName = 'dmmission1'
+$missionName = 'hareinthesnare'
+$missionDir = "C:\games\darkmod_latest\fms\$devMissionName"
+$stagingDir = 'C:\Temp\dm_staging'
+$stagingMissionDir = "$stagingDir\$devMissionName"
+
+$pkg = "$stagingMissionDir\$missionName$rev"
+$i18npkg = "$stagingMissionDir\$missionName$rev" + "_i18n"
 
 # clean staging directory and copy latest code
-remove-item -path C:\Temp\dm_staging\* -Filter * -Force -Recurse
-copy-item -path C:\games\darkmod_latest\fms\dmmission1 -destination C:\Temp\dm_staging -recurse
+remove-item -path $stagingDir\* -Filter * -Force -Recurse
+copy-item -path $missionDir -destination $stagingDir -recurse
 
 # remove unwanted files
-remove-item -path C:\Temp\dm_staging\dmmission1 -include .git,models,savegames,.gitignore,build.ps1,consolehistory.dat,man2.darkradiant,man2.darkradiant.bak,man2.xd.bkup -Force -Recurse
+remove-item -path $stagingMissionDir -include .git,models,savegames,.gitignore,build.ps1,consolehistory.dat,man2.darkradiant,man2.bak,man2.darkradiant.bak,man2.xd.bkup -Force -Recurse
 
-# compress and rename
+# compress and rename main pk4
 $compress = @{
-    Path = "C:\Temp\dm_staging\dmmission1\*"
+    Path = "$stagingMissionDir\*"
     CompressionLevel = "Optimal"
     DestinationPath = "$pkg.zip"
 }
 Compress-Archive @compress
-
 rename-item -path "$pkg.zip" -newname "$pkg.pk4"
+
+# compress and rename i18n pl4
+$compressi18n = @{
+    Path =  "$stagingMissionDir\strings"
+    CompressionLevel = "Optimal"
+    DestinationPath = "$i18npkg.zip"
+}
+Compress-Archive @compressi18n
+rename-item -path "$i18npkg.zip" -newname "$i18npkg.pk4"
