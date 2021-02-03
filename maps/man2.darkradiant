@@ -2,14 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "622372" } 
-		KeyValue { "LastCameraAngle" "-24.9 184.655 0" } 
-		KeyValue { "LastCameraPosition" "187.384 700.861 176.437" } 
+		KeyValue { "EditTimeInSeconds" "622897" } 
+		KeyValue { "LastCameraAngle" "-0.899997 355.055 0" } 
+		KeyValue { "LastCameraPosition" "499.336 -114.582 27.6943" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/wood/boards/rough_wood_brown" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 622372 }
+		TotalSecondsEdited { 622897 }
 	}
 	SelectionGroups
 	{
@@ -1840,6 +1840,7 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
+		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 0 } // entity (CompassEasy2)
@@ -6359,6 +6360,7 @@ DarkRadiant Map Information File Version 2
 		Node { 6 } // brush (Brush)
 		Node { 0 } // entity (atdm_difficulty_settings_1)
 		Node { 6 } // entity (atdm_lamp_oil_wall_dirtymetal_lit_21)
+		Node { 11 } // entity (func_static_1904)
 	}
 	SelectionSets
 	{

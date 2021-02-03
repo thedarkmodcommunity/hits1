@@ -1583,11 +1583,11 @@ brushDef3
 brushDef3
 {
 ( 0 0 1 -40 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_trim_brown_dull" 0 0 0
-( 0 1 0 118 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_trim_brown_dull" 0 0 0
-( 1 0 0 -800 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_trim_brown_dull" 0 0 0
+( 0 1 0 150 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_trim_brown_dull" 0 0 0
 ( 0 0 -1 32 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_trim_brown_dull" 0 0 0
 ( 0 -1 0 -716 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_trim_brown_dull" 0 0 0
 ( -1 0 0 256 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_trim_brown_dull" 0 0 0
+( 1 0 0 -396 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_trim_brown_dull" 0 0 0
 }
 }
 // primitive 131
@@ -10790,6 +10790,18 @@ brushDef3
 ( -1 0 0 27 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/planks_worn_brown" 0 0 0
 }
 }
+// primitive 890
+{
+brushDef3
+{
+( 0 0 1 -40 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_trim_brown_dull" 0 0 0
+( 0 1 0 118 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_trim_brown_dull" 0 0 0
+( 1 0 0 -800 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_trim_brown_dull" 0 0 0
+( 0 0 -1 32 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_trim_brown_dull" 0 0 0
+( 0 -1 0 -716 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_trim_brown_dull" 0 0 0
+( -1 0 0 396 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_trim_brown_dull" 0 0 0
+}
+}
 }
 // entity 1
 {
@@ -15975,7 +15987,7 @@ brushDef3
 "classname" "func_static"
 "name" "func_static_84"
 "model" "models/darkmod/architecture/supports/bracket_wooden05_hook1.lwo"
-"origin" "326.12 -105.02 -9.5"
+"origin" "326.12 -105.02 -15.5"
 "rotation" "-1 0 0 0 -1 0 0 0 1"
 "skin" "rough_wood_darkbrown_dull"
 }
@@ -36386,7 +36398,7 @@ patchDef3
 "nodiffuse" "0"
 "noshadows" "1"
 "nospecular" "0"
-"origin" "328 -62 -7"
+"origin" "328 -62 -20"
 "parallel" "0"
 }
 // entity 1677
@@ -59287,4 +59299,12 @@ brushDef3
 "name" "atdm_lamp_oil_wall_dirtymetal_lit_21"
 "origin" "389.222 -341.24 127"
 "rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 2916
+{
+"classname" "func_static"
+"name" "func_static_1904"
+"model" "models/darkmod/architecture/modules/exteriors/ext_timber01/timber01_horiz_128_spacer02.lwo"
+"origin" "328.25 -193 -96"
+"rotation" "1 0 0 0 1 0 0 0 1"
 }
