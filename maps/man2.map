@@ -36550,7 +36550,7 @@ patchDef3
 "classname" "path_corner"
 "name" "path_corner_1"
 "angle" "88.055389"
-"origin" "-82.233 95.089 -112"
+"origin" "-162.233 95.089 -112"
 "target0" "path_wait_1"
 }
 // entity 1660
@@ -36566,7 +36566,7 @@ patchDef3
 "classname" "path_wait"
 "name" "path_wait_1"
 "angle" "-1.944580"
-"origin" "-81.182 96.173 -20"
+"origin" "-161.182 96.173 -20"
 "target0" "path_corner_2"
 "wait" "5"
 "wait_max" "10"
