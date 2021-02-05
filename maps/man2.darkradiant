@@ -989,14 +989,17 @@ DarkRadiant Map Information File Version 2
 	}
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "633049" } 
-		KeyValue { "LastCameraAngle" "-31.2 278.255 0" } 
-		KeyValue { "LastCameraPosition" "193.342 -575.352 -28.8775" } 
-		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/nature/dirt/dirt_packed_muddy" } 
+		KeyValue { "EditTimeInSeconds" "636116" } 
+		KeyValue { "LastCameraAngle" "-13.2 14.255 0" } 
+		KeyValue { "LastCameraPosition" "1127.68 153.082 107.501" } 
+		KeyValue { "LastShaderClipboardMaterial" "textures/water_source/water_colored" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 633049 }
+		TotalSecondsEdited { 636116 }
+	}
+	SelectionSets
+	{
 	}
 	Layers
 	{
@@ -6457,8 +6460,6 @@ DarkRadiant Map Information File Version 2
 		Node { 10 } // entity (func_static_1588)
 		Node { 13 } // entity (atdm_torch_wall_6)
 		Node { 13 } // entity (atdm_torch_wall_8)
-	}
-	SelectionSets
-	{
+		Node { 0 } // entity (WaterArrowsExpert1)
 	}
 }
