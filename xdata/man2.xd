@@ -86,7 +86,7 @@ readables/man2/journal_thomas
 	{
 		""
 		""
-		"Met the rest of the staff here today.  Roland is the cook, although he only works for the Inglebys in flat 2.  We get along pretty well, and he sneaks me leftovers sometimes."
+		"Met the rest of the staff here today.  Roland is the cook, although he only works for the Inglebys in flat 3.  We get along pretty well, and he sneaks me leftovers sometimes."
 	}
 	"page2_right_title"	:
 	{
@@ -108,11 +108,11 @@ readables/man2/note_twistleton_to_hales
 	"num_pages"	: "1"
 	"page1_title"	:
 	{
-		"Hales,"
+		""
 	}
 	"page1_body"	:
 	{
-		""
+		"Hales,"
 		""
 		"Here is your 'bonus' as promised."
 		""
@@ -530,5 +530,30 @@ readables/man2/note_parker
 		"Hales"
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/journal_ingleby_sr
+{
+	precache
+	"num_pages"	: "1"
+	"page1_left_title"	:
+	{
+		""
+	}
+	"page1_left_body"	:
+	{
+		"Well I suppose this 'flat' isn't a terrible place to live, although it's not the proper house that my son should be living in.  Gerald explained that living closer to the centre of town is what 'men of influence' do these days..."
+	}
+	"page1_right_title"	:
+	{
+		""
+	}
+	"page1_right_body"	:
+	{
+		"What on earth did that fool of a cook serve us this evening?  I've spent half the night visiting the toilet..."
+	}
+	"gui_page1"	: "guis/readables/books/book_calig_mac_humaine.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
