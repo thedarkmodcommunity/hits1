@@ -2,6 +2,7 @@ v0.14:
 
 - fixed different textures on floor/ceiling in top floor of inn
 - fixed geometry poking out from green house at end of street
+- placed brushes over all stairs to prevent player sticking
 - https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.08.28.jpg: Z-fighting in DM model: no fix possible
 - https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.15.10.jpg: fixed
 - https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.16.21.jpg: fixed, result of translating without texture lock on
