@@ -1,8 +1,4 @@
-param (
-    [string]$version = '0.0'
-)
-
-$rev="_v$version"
+$rev="_v0.14"
 
 $devMissionName = 'dmmission1'
 $missionName = 'hareinthesnare'
@@ -18,7 +14,7 @@ remove-item -path $stagingDir\* -Filter * -Force -Recurse
 copy-item -path $missionDir -destination $stagingDir -recurse
 
 # remove unwanted files
-remove-item -path $stagingMissionDir -include .git,models,savegames,.gitignore,build.ps1,consolehistory.dat,man2.darkradiant,man2.bak,man2.darkradiant.bak,man2.xd.bkup -Force -Recurse
+remove-item -path $stagingMissionDir -include .git,models,savegames,.gitignore,build.ps1,changelog.txt,consolehistory.dat,man2.darkradiant,man2.bak,man2.darkradiant.bak,man2.xd.bkup -Force -Recurse
 
 # compress and rename main pk4
 $compress = @{
