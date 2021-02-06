@@ -1,0 +1,40 @@
+v0.14:
+
+- fixed different textures on floor/ceiling in top floor of inn
+- fixed geometry poking out from green house at end of street
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.08.28.jpg: Z-fighting in DM model: no fix possible
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.15.10.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.16.21.jpg: fixed, result of translating without texture lock on
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.20.19.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.22.05.jpg: raised floor, fixes gap but not clipping (too much rework to fix both)
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.22.29.jpg: can't find, didn't fix
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.24.15.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.26.36.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.26.45.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.28.08.jpg: can't find, didn't fix
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.28.33.jpg: fixed, also changed Percy's floor texture in kitchen/bathroom to match sitting room
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.36.57.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.38.22.jpg: part of the model, won't fix
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.45.57.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.47.16.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_12.50.43.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_13.18.04.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_13.18.44.jpg: don't know where this light is coming from.  That room is completely sealed off (when the window is shut), and there are no other light sources in the room.
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_13.28.15.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_13.29.27.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_13.46.33.jpg: again not sure what causes this as the room is completely sealed. But as it's a window is it a bad thing?
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_13.53.10.jpg: not sure where this is, but if it's on the stairs then am going to leave it as pillars look terrible there.
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_13.54.07.jpg: fixed, also fixed the desk next to it
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_13.57.30.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_13.59.41.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_14.01.29.jpg: won't fix.  Minor and would involve re-alignment with adjacent wall which has open window, visportal, etc
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_14.07.41.jpgL sort of fixed.  Plugged with solid brush but still slightly visible for some reason.  Maybe something weird with the models.  Also changed the candle there to a larger one.
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_14.10.23.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_14.17.42.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_14.17.52.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_14.18.13.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_14.19.06.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_14.22.58.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_14.23.20.jpg: fixed
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_14.34.57.jpg: fixed, replaced with static model
+- https://www.dropbox.com/s/8wosb5b76ovvpo3/HareInTheSnareBetaScreenies.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-06_14.49.00.jpg: fixed
