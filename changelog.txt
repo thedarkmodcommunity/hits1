@@ -1,3 +1,7 @@
+v0.15:
+
+- added torch and sign to front of inn, and moved objective trigger to the side of inn
+
 v0.14:
 
 - fixed different textures on floor/ceiling in top floor of inn
