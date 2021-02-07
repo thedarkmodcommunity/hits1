@@ -116,7 +116,7 @@ readables/man2/note_twistleton_to_hales
 		""
 		"Here is your 'bonus' as promised."
 		""
-		"I've received your note. I trust there is nothing to worry about? We will dicuss when you arrive tomorrow to pick up the key."
+		"I've received your note. I trust there is nothing to worry about? Please come see at once to discuss."
 		""
 		"L.T."
 	}
@@ -294,7 +294,7 @@ readables/man2/journal_twistleton
 readables/man2/note_twistleton_from_hales
 {
 	precache
-	"num_pages"	: "1"
+	"num_pages"	: "2"
 	"page1_title"	:
 	{
 		""
@@ -303,11 +303,28 @@ readables/man2/note_twistleton_from_hales
 	{
 		"Sir,"
 		""
-		"I'm afraid there's been an... incident. Someone was making a lot of inquiries about goings -on at the inn, and they weren't about 'commercial opportunities'.  I've uh, temporarily dealt with the situation however I seem to have misplaced my key to the tunnel.  I will come by tomorrow to borrow yours."
+		"I'm afraid there's been an... incident. "
+		""
+		"Bennet the innkeeper informed me that someone by the name of 'Jacobs' was making a lot of inquiries about goings -on at the inn, and they weren't about commercial opportunities."
+		""
+		"As I was preparing to investigate, I caught the very same fellow snooping around Highclere House."
+		""
+		"I took him down to the tunnel to let the Daltons have a go at"
+	}
+	"page2_title"	:
+	{
+		""
+	}
+	"page2_body"	:
+	{
+		"extracting any information about what he's doing here, however they got a bit carried away."
+		""
+		"Rest assured, this will be dealt with and you shall not hear anymore about it again."
 		""
 		"Hales"
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -365,7 +382,9 @@ readables/man2/journal_jacobs
 	}
 	"page2_left_body"	:
 	{
-		"Either way I'm going to see what else I can turn up.  Between the twitchy inkeeper and this dodgy Twistleton character something is going on."
+		"He's also acquired and renovated all of Morden Place, calling it 'Highclere House' and letting it out as flats to wealthier business-types who have more money than sense."
+		""
+		"Either way I'm going to see what else I can turn up.  Between the twitchy inkeeper and this dodgy Twistleton character "
 	}
 	"page2_right_title"	:
 	{
@@ -373,7 +392,9 @@ readables/man2/journal_jacobs
 	}
 	"page2_right_body"	:
 	{
+		"something is going on, and perhaps there is more to be had here than pilfering a few trinkets from a rich noble."
 		""
+		"I'll start by asking around in the tavern and then maybe having a nose around this Highclere House place..."
 	}
 	"gui_page1"	: "guis/readables/books/book_hand_ellianerelle.gui"
 	"gui_page2"	: "guis/readables/books/book_hand_ellianerelle.gui"
@@ -544,7 +565,9 @@ readables/man2/journal_ingleby_sr
 	}
 	"page1_left_body"	:
 	{
-		"Well I suppose this 'flat' isn't a terrible place to live, although it's not the proper house that my son should be living in.  Gerald explained that living closer to the centre of town is what 'men of influence' do these days..."
+		"Well I suppose this 'flat' isn't a terrible place to live, although it's not the proper house that befits an Ingleby.  Gerald explained that living closer to the centre of town is what 'men of influence' do these days."
+		""
+		"I've never heard of this Lord Twistleton chap, the landlord.  I'll have to ask around about him when we return home.  "
 	}
 	"page1_right_title"	:
 	{
@@ -552,6 +575,8 @@ readables/man2/journal_ingleby_sr
 	}
 	"page1_right_body"	:
 	{
+		"At least he lives close by.  In fact, I can see someone fooling around in his attic across the street."
+		""
 		"What on earth did that fool of a cook serve us this evening?  I've spent half the night visiting the toilet..."
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_mac_humaine.gui"
