@@ -202,9 +202,9 @@ readables/man2/journal_ingleby
 	}
 	"page1_left_body"	:
 	{
-		"Finally everyone is off  to bed. I hope that cook didn't poison everyone, he didn't seem too pleased about having to work all weekend.  It clearly states in his contract he will occaisonally be expected to work extra hours."
+		"Finally everyone is off  to bed! I hope that cook didn't poison everyone, he didn't seem too pleased about having to work all weekend.  It clearly states in his contract he will occasionally be expected to work extra hours."
 		""
-		"Either way he's been rather disagreeable the last few weeks, and I'm starting to"
+		"Either way he's been rather disagreeable the last few weeks and I'm starting to  have my suspicions about him. Some of our silverware has gone missing so I'm putting everything in the"
 	}
 	"page1_right_title"	:
 	{
@@ -212,9 +212,9 @@ readables/man2/journal_ingleby
 	}
 	"page1_right_body"	:
 	{
-		" have my suspicions about him. Some of our silverware has gone missing so I'm putting everything in the safe from now on.  I will speak to Twistleton about getting him replaced in the morning..."
+		"safe from now on.  I will speak to Twistleton about getting him replaced in the morning..."
 	}
-	"gui_page1"	: "guis/readables/books/book_hand_ellianerelle.gui"
+	"gui_page1"	: "guis/readables/books/book_calig_camberic.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -301,15 +301,15 @@ readables/man2/note_twistleton_from_hales
 	}
 	"page1_body"	:
 	{
+		""
+		""
 		"Sir,"
 		""
 		"I'm afraid there's been an... incident. "
 		""
-		"Bennet the innkeeper informed me that someone by the name of 'Jacobs' was making a lot of inquiries about goings -on at the inn, and they weren't about commercial opportunities."
+		"Bennet the innkeeper informed me that someone by the name of Jacobs was making a lot of inquiries about goings -on at the inn, and they weren't about 'commercial opportunities'."
 		""
-		"As I was preparing to investigate, I caught the very same fellow snooping around Highclere House."
-		""
-		"I took him down to the tunnel to let the Daltons have a go at"
+		"As I was preparing to investigate, I caught the very same fellow snooping around Highclere House.  He was easily "
 	}
 	"page2_title"	:
 	{
@@ -317,7 +317,10 @@ readables/man2/note_twistleton_from_hales
 	}
 	"page2_body"	:
 	{
-		"extracting any information about what he's doing here, however they got a bit carried away."
+		""
+		"disarmed,but clammed up when questioned."
+		""
+		"I took him down into the tunnel and handed him over to the Daltons for further interrogation, but unfortunately they got a bit carried away."
 		""
 		"Rest assured, this will be dealt with and you shall not hear anymore about it again."
 		""

@@ -1,6 +1,10 @@
 v0.15:
 
-- added torch and sign to front of inn, and moved objective trigger to the side of inn
+- greatly simplied objectives:
+    - removed initial 'meet jacobs outside the inn' objective
+    - no objective dependencies, they trigger on readables instead to account for different player paths
+    - reworked the readables
+- added torch and sign to front of inn
 - brushed over flagstones in the streets
 - different textures for street and sidewalks
 - tidied up portals and geometry inside mansion near front door
@@ -17,11 +21,23 @@ v0.15:
 - filled in darkmod.txt and readme.txt
 - fully monsterclipped all stairs in inn and Highclere house flats
 - made sure all rooms in inn have same texture
-- 
+- fixed spelling mistake in Ingleby readable and change to more readable font
+- fixed wrong texture in staff rooms floor
+- replaced cupboard in Ingleby bedroom (was too big and causing AI pathing issues)
+- fixed goblet and candle near Percy's window
+- fixed upside down newspaper in Hales' room
+- fixed grandfather clock clipping into wall in Percy's flat
+- fixed misaligned texture on trapdoor
+- fixed too high text on Hales' note to LT
+- put stuff in Ingleby's guest room wardrobe
+
+Screenshot feedback:
+
 - Cambridge Spy's screenshots:
     - https://www.dropbox.com/s/93v026fyj80uo3k/HareInTheSnareBetaScreenies2.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-07_14.21.30.jpg: fixed
     - https://www.dropbox.com/s/93v026fyj80uo3k/HareInTheSnareBetaScreenies2.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-07_14.21.34.jpg: fixed
     - https://www.dropbox.com/s/93v026fyj80uo3k/HareInTheSnareBetaScreenies2.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-07_14.22.41.jpg: fixed
+
 - Amadeus' screenshots (some of these also covered above):
     - https://drive.google.com/file/d/1GsKtqF_yBrvvfjxMNULlukpjpYEIbPgP/view?usp=sharing: fixed. brushed over stones and new texture for sidewalks
     - https://drive.google.com/file/d/172okLAvsTcsfhv-gE6Qj9CkPC1jwQhTd/view?usp=sharing: fixed as above
@@ -40,19 +56,24 @@ v0.15:
     - https://drive.google.com/file/d/1sthelmrlBeFNjyELX86ocfO0vCLogyOj/view?usp=sharing: fixed
     - https://drive.google.com/file/d/1ZoYLAXmzR0Q44EPlWjZRaOCoL4PnvO6N/view?usp=sharing: fixed (on all sliding windows)
     - https://drive.google.com/file/d/1sGTBWXO3PtPXYt8oxGBEtuw61Jy5efmv/view?usp=sharing: fixed (visportal added and room sealed)
-    - https://drive.google.com/file/d/1lHkHL9nHsH91BIHgGR-bl0OdrhLBBUt6/view?usp=sharing: removed trapdoor key (see notes above)
-
+    - https://drive.google.com/file/d/1lHkHL9nHsH91BIHgGR-bl0OdrhLBBUt6/view?usp=sharing: fixed. removed trapdoor key (see notes above)
+    - https://drive.google.com/file/d/1gIaSr__31zkH3lVXFK1IAOWTUEJX5IFf/view?usp=sharing: fixed. added/replaced some edibles
+    - https://drive.google.com/file/d/1NFlxRSob3kY7MLUA-FhkZKnMi_Nc7F0d/view?usp=sharing: fixed. replaced cheese and bread with edible versions
+    - https://drive.google.com/file/d/1-KKeUG72SjgAaHjnSijdGhSnzDx9yzFx/view?usp=sharing: are they twins?  They are now :-) Meet the Daltons!
+    - https://drive.google.com/file/d/18zs93CpebL50jBu5VD-Kkh2asYr-Lech/view?usp=sharing: fixed. changed spyglass to loot entity (shiny was only skin available on the model)
+    - https://drive.google.com/file/d/1hEXm4usNZ3j8iZ10j17RqBVX06_z7J6C/view?usp=sharing: fixed: added new house in gap area
+    - https://drive.google.com/file/d/1wZzGwhgp8g_8nfftWpv2LBMifdnNj2Rw/view?usp=sharing: fixed: replaced modules with brush wall
+    - https://drive.google.com/file/d/1ZEm4AwvjKAnIj0FZmVyWz161Tl2sDgt2/view?usp=sharing: fixed: monsterclipped outdoor area
+    - https://drive.google.com/file/d/18L8YejsZs4_9-ro7nciodQCzxF70p_29/view?usp=sharing: fixed. Added blurb and credits
 
 Outstanding / not addressed issues:
  - https://drive.google.com/file/d/1dMc05HMHP_GESVPG8YLPBt4k0iFL79Yl/view?usp=sharing: nice idea but will leave for now
- - https://drive.google.com/file/d/1gIaSr__31zkH3lVXFK1IAOWTUEJX5IFf/view?usp=sharing: can't find how to make food edible???
- - https://drive.google.com/file/d/1NFlxRSob3kY7MLUA-FhkZKnMi_Nc7F0d/view?usp=sharing: more food - how is this done?
  - https://drive.google.com/file/d/1yO8Ow38bfqcUXr2ty4y9qU0aMQZa6OtD/view?usp=sharing: again nice idea but will leave for now
  - https://drive.google.com/file/d/1NojoWowyz4iUDPsKThln6wskntY3NKH_/view?usp=sharing: front door portal now closed (red) but ones behind it still green (???)
- - https://drive.google.com/file/d/1n_7vTMvYVokGJIjaDuHJDDYXQnDTsLtd/view?usp=sharing: not sure how many we need?  What benefit is there since there is already one right behind this spot?
- - https://drive.google.com/file/d/1CwqI0N2L4ukcyF3dmCps3WG1NIcFyzHv/view?usp=sharing
- - https://drive.google.com/file/d/18eGO9YzyOdrpucT-qamI4V4i1W9_tHER/view?usp=sharing: still needs doing but not sure how
- - https://drive.google.com/file/d/1lHkHL9nHsH91BIHgGR-bl0OdrhLBBUt6/view?usp=sharing: partially addressed (some locks/keys removed). This particular lock is because I want the player to read T's journal and get the full story before proceeding.
+ - https://drive.google.com/file/d/1n_7vTMvYVokGJIjaDuHJDDYXQnDTsLtd/view?usp=sharing: There is already a visportal in this spot.  Not sure what else is needed?
+ - https://drive.google.com/file/d/18eGO9YzyOdrpucT-qamI4V4i1W9_tHER/view?usp=sharing: see above comment re: visportals
+ - https://drive.google.com/file/d/1fAR9aan_AGORMkv1CBeTuVZwGDAqaHRB/view?usp=sharing: that hallway, it's a long story, but mostly it's closed off because the floors are uneven and it would be a nightmare to fix. THe note explains it's a shared hallway and introduces the staff.
+ - https://drive.google.com/file/d/18zs93CpebL50jBu5VD-Kkh2asYr-Lech/view?usp=sharing: that shiny skin seems to be the only one available
 
 v0.14:
 
