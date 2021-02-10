@@ -7,7 +7,7 @@ General fixes to address issues raised by all testers:
     - no objective dependencies, they trigger on readables instead to account for different player paths
     - reworked the readables
 - added location zones to use with ambients and removed speakers
-- added ambient sound to all zones
+- added ambient sound to most zones
 - added torch and sign to front of inn
 - brushed over flagstones in the streets
 - different textures for street and sidewalks
@@ -21,7 +21,6 @@ General fixes to address issues raised by all testers:
 - make T's safe pickable and remove safe key
 - remove storage room key and move trapdoor key to Hales' footlocker
 - make pub AIs friendly (except for Williams)
-- enhance Jacobs' journal entries
 - filled in darkmod.txt and readme.txt
 - fully monsterclipped all stairs in inn and Highclere house flats
 - made sure all rooms in inn have same texture
@@ -35,6 +34,9 @@ General fixes to address issues raised by all testers:
 - fixed too high text on Hales' note to LT
 - put stuff in Ingleby's guest room wardrobe
 - replaced a light in the inn with a painting
+- removed a light in Williams' room in the inn
+- added more visportals in inn
+- added more random hidden loot
 
 Screenshot feedback:
 

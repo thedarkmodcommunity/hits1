@@ -17871,7 +17871,7 @@ brushDef3
 {
 "classname" "atdm:playertools_health_potion"
 "name" "atdm_playertools_health_potion_3"
-"origin" "148.25 1015 -5"
+"origin" "148.25 1015 -13"
 "rotation" "1 0 0 0 1 0 0 0 1"
 }
 // entity 451
@@ -39673,7 +39673,7 @@ patchDef3
 "classname" "func_static"
 "name" "func_static_2269"
 "model" "models/darkmod/lights/extinguishable/candle_01.ase"
-"origin" "151.406 1029.23 -14.4344"
+"origin" "152.656 1029.61 -22.9344"
 "rotation" "1 0 0 0 1 0 0 0 1"
 "skin" "tdm_candle_unlit"
 }
@@ -39682,7 +39682,7 @@ patchDef3
 "classname" "func_static"
 "name" "func_static_2270"
 "model" "models/darkmod/lights/extinguishable/candle_01.ase"
-"origin" "154.266 1033.07 -3.613"
+"origin" "154.266 1033.07 -11.613"
 "rotation" "0 1 0 0 0 -1 -1 0 0"
 "skin" "tdm_candle_unlit"
 }
@@ -39691,7 +39691,7 @@ patchDef3
 "classname" "func_static"
 "name" "func_static_2271"
 "model" "models/darkmod/lights/extinguishable/candle_01.ase"
-"origin" "150.026 1027.3 -14.6244"
+"origin" "150.026 1027.3 -22.9994"
 "rotation" "1 0 0 0 1 0 0 0 1"
 "skin" "tdm_candle_unlit"
 }
@@ -39700,7 +39700,7 @@ patchDef3
 "classname" "func_static"
 "name" "func_static_2272"
 "model" "models/darkmod/wearables/folded_cloth01.lwo"
-"origin" "150.821 1009.77 -16"
+"origin" "150.821 1009.77 -24"
 "rotation" "0 -1 0 1 0 0 0 0 1"
 "skin" "wearables/coarse_cloth"
 }
@@ -39709,7 +39709,7 @@ patchDef3
 "classname" "func_static"
 "name" "func_static_2273"
 "model" "models/darkmod/wearables/folded_cloth01.lwo"
-"origin" "151.111 1009.76 -18.976"
+"origin" "151.111 1009.76 -26.976"
 "rotation" "-0.98669 -0.000144822 -0.162612 0 -1 0.000890598 -0.162612 0.000878744 0.98669"
 "skin" "wearables/coarse_cloth"
 }
@@ -39718,7 +39718,7 @@ patchDef3
 "classname" "func_static"
 "name" "func_static_1697"
 "model" "models/darkmod/furniture/shelves/wall_shelf_ornate1.lwo"
-"origin" "160 1021 -11"
+"origin" "160 1021 -19"
 "rotation" "-1 0 0 0 -1 0 0 0 1"
 }
 // entity 2041
@@ -39726,7 +39726,7 @@ patchDef3
 "classname" "func_static"
 "name" "func_static_1698"
 "model" "models/darkmod/furniture/shelves/wall_shelf_ornate1.lwo"
-"origin" "163 1021 -25"
+"origin" "163 1021 -33"
 "rotation" "-1 0 0 0 -1 0 0 0 1"
 }
 // entity 2042
@@ -61466,5 +61466,28 @@ brushDef3
 "classname" "atdm:moveable_loot_purse"
 "name" "atdm_moveable_loot_purse_3"
 "origin" "522 -634 -23"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 3033
+{
+"classname" "atdm:moveable_loot_ring_gold_emerald"
+"name" "atdm_moveable_loot_ring_gold_emerald_1"
+"origin" "147.375 1018.25 -27"
+"rotation" "0.74003 -0.672574 0 0.672574 0.74003 0 0 0 1"
+}
+// entity 3034
+{
+"classname" "func_static"
+"name" "func_static_1788"
+"model" "models/darkmod/lights/extinguishable/candle_01.ase"
+"origin" "151.776 1025.3 -22.9994"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "tdm_candle_unlit"
+}
+// entity 3035
+{
+"classname" "atdm:moveable_loot_diamond_small"
+"name" "atdm_moveable_loot_diamond_small_1"
+"origin" "464 360 110.25"
 "rotation" "1 0 0 0 1 0 0 0 1"
 }

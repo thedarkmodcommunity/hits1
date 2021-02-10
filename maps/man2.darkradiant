@@ -177,6 +177,7 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 523 { "" }
 		SelectionGroup 524 { "" }
 		SelectionGroup 525 { "" }
+		SelectionGroup 527 { "" }
 	}
 	SelectionGroupNodeMapping
 	{
@@ -590,6 +591,7 @@ DarkRadiant Map Information File Version 2
 		Node { ( 419 ) ( 338 ) } // entity (func_static_2384)
 		Node { ( 420 ) ( 338 ) } // entity (func_static_2385)
 		Node { ( 421 ) ( 338 ) } // entity (func_static_2386)
+		Node { ( 450 ) ( 527 ) } // entity (atdm_playertools_health_potion_3)
 		Node { ( 478 ) ( 414 ) } // entity (func_static_421)
 		Node { ( 511 ) ( 484 485 ) } // entity (func_static_446)
 		Node { ( 512 ) ( 485 ) } // entity (func_static_447)
@@ -952,6 +954,8 @@ DarkRadiant Map Information File Version 2
 		Node { ( 2032 ) ( 335 ) } // entity (func_static_37)
 		Node { ( 2033 ) ( 335 ) } // entity (func_static_1696)
 		Node { ( 2034 ) ( 335 ) } // entity (func_static_1695)
+		Node { ( 2036 ) ( 527 ) } // entity (func_static_2270)
+		Node { ( 2040 ) ( 527 ) } // entity (func_static_1697)
 		Node { ( 2054 ) ( 443 ) } // entity (atdm_lamp_oil_wall_lit_14)
 		Node { ( 2082 ) ( 447 ) } // entity (twistleton_study_key)
 		Node { ( 2083 ) ( 520 ) } // entity (mansion_front_door_key)
@@ -1238,14 +1242,14 @@ DarkRadiant Map Information File Version 2
 	}
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "695163" } 
-		KeyValue { "LastCameraAngle" "-29.7 190.8 0" } 
-		KeyValue { "LastCameraPosition" "71.486 121.23 68.8741" } 
+		KeyValue { "EditTimeInSeconds" "696030" } 
+		KeyValue { "LastCameraAngle" "-21.9 256.8 0" } 
+		KeyValue { "LastCameraPosition" "469.698 395.039 115.967" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/metal/detailed/bars_rivets_steel" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 695163 }
+		TotalSecondsEdited { 696030 }
 	}
 	Layers
 	{
@@ -6934,6 +6938,9 @@ DarkRadiant Map Information File Version 2
 		Node { 2 } // entity (func_static_1963)
 		Node { 2 } // entity (func_static_1964)
 		Node { 2 } // entity (atdm_moveable_loot_purse_3)
+		Node { 0 } // entity (atdm_moveable_loot_ring_gold_emerald_1)
+		Node { 9 } // entity (func_static_1788)
+		Node { 0 } // entity (atdm_moveable_loot_diamond_small_1)
 	}
 	SelectionSets
 	{
