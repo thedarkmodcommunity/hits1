@@ -34,6 +34,7 @@ General fixes to address issues raised by all testers:
 - fixed misaligned texture on trapdoor
 - fixed too high text on Hales' note to LT
 - put stuff in Ingleby's guest room wardrobe
+- replaced a light in the inn with a painting
 
 Screenshot feedback:
 
@@ -70,12 +71,12 @@ Screenshot feedback:
     - https://drive.google.com/file/d/1wZzGwhgp8g_8nfftWpv2LBMifdnNj2Rw/view?usp=sharing: fixed: replaced modules with brush wall
     - https://drive.google.com/file/d/1ZEm4AwvjKAnIj0FZmVyWz161Tl2sDgt2/view?usp=sharing: fixed: monsterclipped outdoor area
     - https://drive.google.com/file/d/18L8YejsZs4_9-ro7nciodQCzxF70p_29/view?usp=sharing: fixed. Added blurb and credits
+    - https://drive.google.com/file/d/1n_7vTMvYVokGJIjaDuHJDDYXQnDTsLtd/view?usp=sharing: Added extra visportal on each street
+    - https://drive.google.com/file/d/18eGO9YzyOdrpucT-qamI4V4i1W9_tHER/view?usp=sharing: Added extra visportal on each street
 
 Outstanding / not addressed issues:
  - https://drive.google.com/file/d/1dMc05HMHP_GESVPG8YLPBt4k0iFL79Yl/view?usp=sharing: nice idea but will leave for now
  - https://drive.google.com/file/d/1yO8Ow38bfqcUXr2ty4y9qU0aMQZa6OtD/view?usp=sharing: again nice idea but will leave for now
- - https://drive.google.com/file/d/1n_7vTMvYVokGJIjaDuHJDDYXQnDTsLtd/view?usp=sharing: There is already a visportal in this spot.  Not sure what else is needed?
- - https://drive.google.com/file/d/18eGO9YzyOdrpucT-qamI4V4i1W9_tHER/view?usp=sharing: see above comment re: visportals
  - https://drive.google.com/file/d/1fAR9aan_AGORMkv1CBeTuVZwGDAqaHRB/view?usp=sharing: that hallway, it's a long story, but mostly it's closed off because the floors are uneven and it would be a nightmare to fix. The note explains it's a shared hallway and introduces the staff.
 
 v0.14:

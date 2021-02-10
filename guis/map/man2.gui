@@ -8,12 +8,12 @@ windowDef Desktop
 	{
 		rect	0,0,640,480    // (Leave at 0,0,640,480 as it scales)
 		visible	1
-		background	"guis/assets/loading.tga"  //   (Enter your screenshot here)
+		background	"guis/assets/loading_screen_new.tga"  //   (Enter your screenshot here)
 	}
  
 	windowDef FMTitle
 	{
-	 	rect         0,0,640,480    // (Leave at 0,0,640,480 so you can space out your title anywhere.)
+	 	rect         0,0,640,480
 		text         "\n\n\n\n\nThe Hare in the Snare"         //   (Enter your FM title.  \n means new line)
 		textscale    0.85               // (font size)
 		font         "fonts/mac_humaine"     // (change to any of the fonts in the Dark Mod fonts folder)

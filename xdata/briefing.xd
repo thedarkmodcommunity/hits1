@@ -4,11 +4,13 @@ maps/man2/mission_briefing
  
  "page1_body" :
  {
-   "An old friend of mine, Jacobs, has invited me to a small town up north.  A wealthy lord has recently taken up residence there, and that means opportunity for men of our ilk."
+   "An old friend of mine, Jacobs, recently got in touch.  He said a wealthy lord has recently moved into a rough part of town and has been shaking things up."
    ""
-   "It's not common for thieves to share, but we go way back and he owes me a favour."
+   "He's driven the locals out and property prices up.  Sounds like an opportunity for men like us."
    ""
-   "I am to meet him at The Hare in the Snare Inn on Bedford Road."
+   "Jacobs said he would check things out and be in touch, but it's been a couple of weeks since I've heard from him."
+   ""
+   "It's time to investigate.  He said he was staying at The Hare in the Snare Inn on Bedford Road."
   }
 
 }
