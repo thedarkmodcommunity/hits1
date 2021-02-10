@@ -241,8 +241,7 @@ readables/man2/journal_twistleton
 	{
 		"sale of their wares."
 		""
-		"I've decided to invest my profits in the local property market, with my current house and the houses across the street being my first projects."
-		""
+		"I've decided to invest my profits in the local property market.  First I will renovate my current house, and then I will convert the houses across the street into flats.  I shall call them 'Highclere House'!"
 	}
 	"page2_left_title"	:
 	{
@@ -545,6 +544,8 @@ readables/man2/note_parker
 	}
 	"page1_body"	:
 	{
+		""
+		""
 		"Parker,"
 		""
 		"Finish up whatever you're doing and take a few days off, we've had a security breach."
