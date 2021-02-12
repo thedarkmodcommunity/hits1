@@ -1,16 +1,23 @@
 maps/man2/mission_briefing
 {
- "num_pages": "1"
+ "num_pages": "2"
  
  "page1_body" :
  {
+   ""
+   ""
+   ""
    "An old friend of mine, Jacobs, recently got in touch.  He said a wealthy lord has recently moved into a rough part of town and has been shaking things up."
    ""
    "He's driven the locals out and property prices up.  Sounds like an opportunity for men like us."
+  }
+ "page2_body" :
+ {
+   ""
+   ""
    ""
    "Jacobs said he would check things out and be in touch, but it's been a couple of weeks since I've heard from him."
    ""
    "It's time to investigate.  He said he was staying at The Hare in the Snare Inn on Bedford Road."
   }
-
 }

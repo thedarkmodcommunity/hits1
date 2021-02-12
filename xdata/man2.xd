@@ -65,28 +65,30 @@ readables/man2/journal_thomas
 		""
 		"This is turning out to be a pretty good job. The pay isn't that great, but the free room and board makes up for it.  "
 		""
-		"With Lord Twistleton buying up all these properties, I should have lots of work for the forseeable future."
+		"With Lord Twistleton buying up all these properties, I should have lots of work for the forseeable future.  The tenants all seem to be well-to-do folks, and everyone seems to want some sort of secret room installed.  "
 		""
 		""
 	}
 	"page1_right_title"	:
 	{
-		""
-	}
-	"page1_right_body"	:
-	{
-		"The tenants are nice enough, although that Mr. Percy in flat 4 can be a bit of nag.  He keeps asking when his security camera is going to be fixed. Not sure what he needs it for, I keep telling him as long as he keeps his window locked he should be fine..."
-		""
-	}
-	"page2_left_title"	:
-	{
 		"13 January"
 	}
-	"page2_left_body"	:
+	"page1_right_body"	:
 	{
 		""
 		""
 		"Met the rest of the staff here today.  Roland is the cook, although he only works for the Inglebys in flat 3.  We get along pretty well, and he sneaks me leftovers sometimes."
+		""
+		"Hales is the 'Chief of Security'.  We have no idea what her first name is.  She is strictly business and not terribly friendly.  Roland even tried to bring her some "
+	}
+	"page2_left_title"	:
+	{
+		""
+	}
+	"page2_left_body"	:
+	{
+		""
+		"tarts, but she told him to 'bugger off'."
 	}
 	"page2_right_title"	:
 	{
@@ -94,7 +96,7 @@ readables/man2/journal_thomas
 	}
 	"page2_right_body"	:
 	{
-		"Hales is the 'Chief of Security'.  We have no idea what her first name is.  She is strictly business and not terribly friendly.  Roland even tried to bring her some tarts, but she told him to 'bugger off'."
+		""
 	}
 	"gui_page1"	: "guis/readables/books/book_hand_nancy.gui"
 	"gui_page2"	: "guis/readables/books/book_hand_nancy.gui"
@@ -569,7 +571,7 @@ readables/man2/journal_ingleby_sr
 	}
 	"page1_left_body"	:
 	{
-		"Well I suppose this 'flat' isn't a terrible place to live, although it's not the proper house that befits an Ingleby.  Gerald explained that living closer to the centre of town is what 'men of influence' do these days."
+		"Well I suppose this 'flat' isn't a terrible place to live, although it's not the proper house that befits an Ingleby.  Gerald explained that living closer to the centre of town is what 'men of influence' do these days.  He has done well since his time in the Guards."
 		""
 		"I've never heard of this Lord Twistleton chap, the landlord.  I'll have to ask around about him when we return home.  "
 	}

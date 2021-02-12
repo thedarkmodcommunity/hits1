@@ -11,6 +11,16 @@ $darkmodtxt = "$stagingMissionDir\darkmod.txt"
 $pkg = "$stagingMissionDir\$missionName$revSuffix"
 $i18npkg = "$stagingMissionDir\$missionName$revSuffix" + "_i18n"
 
+$playerStart = Read-Host -Prompt 'Did you reset the player start position?'
+if ( $playerStart -notin "Y","y") {
+    exit 1
+}
+
+$masterKey = Read-Host -Prompt 'Did you disable the master key?'
+if ( $masterKey -notin "Y","y") {
+    exit 1
+}
+
 # clean staging directory and copy latest code
 remove-item -path $stagingDir\* -Filter * -Force -Recurse
 copy-item -path $missionDir -destination $stagingDir -recurse
