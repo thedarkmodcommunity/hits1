@@ -1,1 +1,4 @@
 Title: The Hare in the Snare
+Version: [VERSION]
+Author: Frost_Salamander
+Description: Head up north with an acquaintance to help him plunder new territory

@@ -65,28 +65,30 @@ readables/man2/journal_thomas
 		""
 		"This is turning out to be a pretty good job. The pay isn't that great, but the free room and board makes up for it.  "
 		""
-		"With Lord Twistleton buying up all these properties, I should have lots of work for the forseeable future."
+		"With Lord Twistleton buying up all these properties, I should have lots of work for the forseeable future.  The tenants all seem to be well-to-do folks, and everyone seems to want some sort of secret room installed.  "
 		""
 		""
 	}
 	"page1_right_title"	:
 	{
-		""
-	}
-	"page1_right_body"	:
-	{
-		"The tenants are nice enough, although that Mr. Percy in flat 4 can be a bit of nag.  He keeps asking when his security camera is going to be fixed. Not sure what he needs it for, I keep telling him as long as he keeps his window locked he should be fine..."
-		""
-	}
-	"page2_left_title"	:
-	{
 		"13 January"
 	}
-	"page2_left_body"	:
+	"page1_right_body"	:
 	{
 		""
 		""
 		"Met the rest of the staff here today.  Roland is the cook, although he only works for the Inglebys in flat 3.  We get along pretty well, and he sneaks me leftovers sometimes."
+		""
+		"Hales is the 'Chief of Security'.  We have no idea what her first name is.  She is strictly business and not terribly friendly.  Roland even tried to bring her some "
+	}
+	"page2_left_title"	:
+	{
+		""
+	}
+	"page2_left_body"	:
+	{
+		""
+		"tarts, but she told him to 'bugger off'."
 	}
 	"page2_right_title"	:
 	{
@@ -94,7 +96,7 @@ readables/man2/journal_thomas
 	}
 	"page2_right_body"	:
 	{
-		"Hales is the 'Chief of Security'.  We have no idea what her first name is.  She is strictly business and not terribly friendly.  Roland even tried to bring her some tarts, but she told him to 'bugger off'."
+		""
 	}
 	"gui_page1"	: "guis/readables/books/book_hand_nancy.gui"
 	"gui_page2"	: "guis/readables/books/book_hand_nancy.gui"
@@ -116,7 +118,7 @@ readables/man2/note_twistleton_to_hales
 		""
 		"Here is your 'bonus' as promised."
 		""
-		"I've received your note. I trust there is nothing to worry about? We will dicuss when you arrive tomorrow to pick up the key."
+		"I've received your note. I trust there is nothing to worry about? Please come see at once to discuss."
 		""
 		"L.T."
 	}
@@ -202,9 +204,9 @@ readables/man2/journal_ingleby
 	}
 	"page1_left_body"	:
 	{
-		"Finally everyone is off  to bed. I hope that cook didn't poison everyone, he didn't seem too pleased about having to work all weekend.  It clearly states in his contract he will occaisonally be expected to work extra hours."
+		"Finally everyone is off  to bed! I hope that cook didn't poison everyone, he didn't seem too pleased about having to work all weekend.  It clearly states in his contract he will occasionally be expected to work extra hours."
 		""
-		"Either way he's been rather disagreeable the last few weeks, and I'm starting to"
+		"Either way he's been rather disagreeable the last few weeks and I'm starting to  have my suspicions about him. Some of our silverware has gone missing so I'm putting everything in the"
 	}
 	"page1_right_title"	:
 	{
@@ -212,9 +214,9 @@ readables/man2/journal_ingleby
 	}
 	"page1_right_body"	:
 	{
-		" have my suspicions about him. Some of our silverware has gone missing so I'm putting everything in the safe from now on.  I will speak to Twistleton about getting him replaced in the morning..."
+		"safe from now on.  I will speak to Twistleton about getting him replaced in the morning..."
 	}
-	"gui_page1"	: "guis/readables/books/book_hand_ellianerelle.gui"
+	"gui_page1"	: "guis/readables/books/book_calig_camberic.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -241,8 +243,7 @@ readables/man2/journal_twistleton
 	{
 		"sale of their wares."
 		""
-		"I've decided to invest my profits in the local property market, with my current house and the houses across the street being my first projects."
-		""
+		"I've decided to invest my profits in the local property market.  First I will renovate my current house, and then I will convert the houses across the street into flats.  I shall call them 'Highclere House'!"
 	}
 	"page2_left_title"	:
 	{
@@ -294,20 +295,40 @@ readables/man2/journal_twistleton
 readables/man2/note_twistleton_from_hales
 {
 	precache
-	"num_pages"	: "1"
+	"num_pages"	: "2"
 	"page1_title"	:
 	{
 		""
 	}
 	"page1_body"	:
 	{
+		""
+		""
 		"Sir,"
 		""
-		"I'm afraid there's been an... incident. Someone was making a lot of inquiries about goings -on at the inn, and they weren't about 'commercial opportunities'.  I've uh, temporarily dealt with the situation however I seem to have misplaced my key to the tunnel.  I will come by tomorrow to borrow yours."
+		"I'm afraid there's been an... incident. "
+		""
+		"Bennet the innkeeper informed me that someone by the name of Jacobs was making a lot of inquiries about goings -on at the inn, and they weren't about 'commercial opportunities'."
+		""
+		"As I was preparing to investigate, I caught the very same fellow snooping around Highclere House.  He was easily "
+	}
+	"page2_title"	:
+	{
+		""
+	}
+	"page2_body"	:
+	{
+		""
+		"disarmed,but clammed up when questioned."
+		""
+		"I took him down into the tunnel and handed him over to the Daltons for further interrogation, but unfortunately they got a bit carried away."
+		""
+		"Rest assured, this will be dealt with and you shall not hear anymore about it again."
 		""
 		"Hales"
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -365,7 +386,9 @@ readables/man2/journal_jacobs
 	}
 	"page2_left_body"	:
 	{
-		"Either way I'm going to see what else I can turn up.  Between the twitchy inkeeper and this dodgy Twistleton character something is going on."
+		"He's also acquired and renovated all of Morden Place, calling it 'Highclere House' and letting it out as flats to wealthier business-types who have more money than sense."
+		""
+		"Either way I'm going to see what else I can turn up.  Between the twitchy inkeeper and this dodgy Twistleton character "
 	}
 	"page2_right_title"	:
 	{
@@ -373,7 +396,9 @@ readables/man2/journal_jacobs
 	}
 	"page2_right_body"	:
 	{
+		"something is going on, and perhaps there is more to be had here than pilfering a few trinkets from a rich noble."
 		""
+		"I'll start by asking around in the tavern and then maybe having a nose around this Highclere House place..."
 	}
 	"gui_page1"	: "guis/readables/books/book_hand_ellianerelle.gui"
 	"gui_page2"	: "guis/readables/books/book_hand_ellianerelle.gui"
@@ -419,6 +444,8 @@ readables/man2/note_twistleton_spy
 	}
 	"page1_body"	:
 	{
+		""
+		""
 		"Reminder: "
 		""
 		"    Tell Ingleby to stop leaving his guest bedroom window open."
@@ -521,6 +548,8 @@ readables/man2/note_parker
 	}
 	"page1_body"	:
 	{
+		""
+		""
 		"Parker,"
 		""
 		"Finish up whatever you're doing and take a few days off, we've had a security breach."
@@ -544,7 +573,9 @@ readables/man2/journal_ingleby_sr
 	}
 	"page1_left_body"	:
 	{
-		"Well I suppose this 'flat' isn't a terrible place to live, although it's not the proper house that my son should be living in.  Gerald explained that living closer to the centre of town is what 'men of influence' do these days..."
+		"Well I suppose this 'flat' isn't a terrible place to live, although it's not the proper house that befits an Ingleby.  Gerald explained that living closer to the centre of town is what 'men of influence' do these days.  He has done well since his time in the Guards."
+		""
+		"I've never heard of this Lord Twistleton chap, the landlord.  I'll have to ask around about him when we return home.  "
 	}
 	"page1_right_title"	:
 	{
@@ -552,6 +583,8 @@ readables/man2/journal_ingleby_sr
 	}
 	"page1_right_body"	:
 	{
+		"At least he lives close by.  In fact, I can see someone fooling around in his attic across the street."
+		""
 		"What on earth did that fool of a cook serve us this evening?  I've spent half the night visiting the toilet..."
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_mac_humaine.gui"
