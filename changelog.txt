@@ -2,6 +2,9 @@ v0.16:
 
 General fixes/improvements in addition to screenshot fixes:
 
+- added inn master key
+- made tunnels accessible from the inn
+- changed lighting in mansion to electic with switches.
 - fixed light leak in Ingleby guest bedroom and z-fighting just outside under window.
 - re-did stairs noclip ramps
 - re-did staircase area in inn going down to the ground floor with brushwork.
@@ -10,21 +13,29 @@ General fixes/improvements in addition to screenshot fixes:
 - added a bunch more loot paintings
 - added journal for Percy
 - fixed bug where you could frob the large painting in Twistleton' study through the wall of the bedroom
+- prevent rat from falling down ladder in attic
+- visportal Percy's bathroom
+- alter path node of 2nd guard AI outside
 
 
 - Amadeus' screenshots
-    - https://drive.google.com/file/d/1_IoOgJtsEDxUaYxX1lRixJQaA-jz9IWN/view?usp=sharing: fixed
-    - https://drive.google.com/file/d/1MUWosdCnkjbrAGE7-BKFDSVJMZh-oHpD/view?usp=sharing: fixed
-    - https://drive.google.com/file/d/1JGrQfka_1laj35Xa8k34Cn_FM4TWK2Xj/view?usp=sharing: fixed
-    - https://drive.google.com/file/d/1Gr9_q4HoN272jKiPVwtqrNf8zqCOnW_O/view?usp=sharing: fixed
-    - https://drive.google.com/file/d/1dpCKkAJr0WNNzdMuUmMPhWkFbi_ZUikd/view?usp=sharing: fixed
-    - https://drive.google.com/file/d/18PzVx_Ix_tJSq6M9NUxoTpu9cLJCBa_0/view?usp=sharing: fixed
-    - https://drive.google.com/file/d/18Nmi5fdGNzZIHNSXxkDxSjZkBJAV4d6S/view?usp=sharing: fixed, redid them all
+    - https://drive.google.com/file/d/1_IoOgJtsEDxUaYxX1lRixJQaA-jz9IWN/view?usp=sharing: fixed. dodgy brushwork in Percy's
+    - https://drive.google.com/file/d/1MUWosdCnkjbrAGE7-BKFDSVJMZh-oHpD/view?usp=sharing: fixed. z-fighting on railings
+    - https://drive.google.com/file/d/1JGrQfka_1laj35Xa8k34Cn_FM4TWK2Xj/view?usp=sharing: fixed. capping of wall modules
+    - https://drive.google.com/file/d/1Gr9_q4HoN272jKiPVwtqrNf8zqCOnW_O/view?usp=sharing: fixed. portalled inn room
+    - https://drive.google.com/file/d/1dpCKkAJr0WNNzdMuUmMPhWkFbi_ZUikd/view?usp=sharing: fixed. weird stair texture
+    - https://drive.google.com/file/d/18PzVx_Ix_tJSq6M9NUxoTpu9cLJCBa_0/view?usp=sharing: fixed. safe textures
+    - https://drive.google.com/file/d/18Nmi5fdGNzZIHNSXxkDxSjZkBJAV4d6S/view?usp=sharing: fixed. redid all stair clip brushes
+    - https://drive.google.com/file/d/1BTFs7miuk5SUQ0LQ8s24rCHx8iyQ-VB3/view?usp=sharing: mansion lights, WIP
+    - https://drive.google.com/file/d/1ERbE-tm9Dvad3B_w_vHhudeKiyf9WMGG/view?usp=sharing: z-fighting on exterior walls, WIP
 
 
     no changes:
-    - https://drive.google.com/file/d/1lGRiDLN4gKm6geSWSYVtN6_cDJ_2COmc/view?usp=sharing: guard will alert on some open doors on expert difficulty
-    - https://drive.google.com/file/d/1K-F_Z4iKW97g2VvbaPWR1NAsP8Dbh8UU/view?usp=sharing: weird one.  It's a standard candle entity and has noshadows_lit set to 1.  I even tried setting the spawnargs e.g. "set noshadows_lit on light_candle_circle01" and no dice.
+    - https://drive.google.com/file/d/1lGRiDLN4gKm6geSWSYVtN6_cDJ_2COmc/view?usp=sharing: guard alert on open doors: guard will alert on some open doors on expert difficulty
+    - https://drive.google.com/file/d/1K-F_Z4iKW97g2VvbaPWR1NAsP8Dbh8UU/view?usp=sharing: light leak. weird one:
+        - closing the window (portal) stops the leak making me think that it's not a 'noshadows' light. Also setting noshadows and noshadows_lit on the entity flame makes no difference at all.
+        - the candle casts shadows (you can see this)
+        - thought it might be something to do with the transparent window texture, but changing to an opaque one makes no difference
 
 v0.15:
 

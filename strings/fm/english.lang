@@ -21,7 +21,7 @@
 	"#str_20017"	"Someone needs to pay for this! Find evidence of the perpetrator and place it in Capt Williams' footlocker in his room in the inn (optional)"
 	"#str_20018"	"Get 5000 loot (optional)"
 	"#str_20019"	"Get 6000 loot (optional)"
-	"#str_20020"	"Storage room key"
+	"#str_20020"	"Hales' key"
 	"#str_20021"	"Thomas' journal"
 	"#str_20022"	"Twistleton safe key"
 	"#str_20023"	"Tunnel storage room key"
@@ -29,7 +29,6 @@
 	"#str_20025"	"Note to thugs"
 	"#str_20026"	"Note to Accountant"
 	"#str_20027"	"Twistleton mansion key"
-	"#str_20028"	"Trap door key"
 	"#str_20029"	"An old friend of mine, Jacobs, has invited me to a small town up north.  A wealthy lord has recently taken up residence there, and that means opportunity for men of our ilk.\n\nIt's not common for thieves to share, but we go way back and he owes me a favour.\n\nI am to meet him at The Hare in the Snare Inn on Bedford Road.\n"
 	"#str_20030"	"13/01\n"
 	"#str_20031"	"\n\nThis arrangement with Lord Twistleton is proving beneficial indeed.  I may finally be able to fix this place up. It was once the finest inn in the region, but the previous owner let it fall into disrepair.\n"
@@ -82,4 +81,6 @@
 	"#str_20078"	"\n\n\nPlease access flat 3 using your ground floor entrance from this point forward.\n\nThe Landlord,\n\nL.T.\n"
 	"#str_20079"	"Ingleby Sr's journal"
 	"#str_20080"	"Percy's journal"
+	"#str_20081"	"Inn master key"
+	"#str_20082"	"Inn secret key"
 }

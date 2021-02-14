@@ -1,7 +1,7 @@
 readables/man2/innkeeper_journal
 {
 	precache
-	"num_pages"	: "1"
+	"num_pages"	: "2"
 	"page1_left_title"	:
 	{
 		"13/01"
@@ -21,8 +21,28 @@ readables/man2/innkeeper_journal
 		""
 		""
 		"That fellow staying in room 2 is asking too many questions.  He was pestering the barmaid the other night about the other staff, and even asked if she ever sees Twistleton around.  I might have a word with Hales about him..."
+		""
+		"And what on earth is that Captain Williams doing here? He said he's here on official business with the local officers, but he's making me nervous.  He refused to use our footlockers, instead"
+	}
+	"page2_left_title"	:
+	{
+		""
+	}
+	"page2_left_body"	:
+	{
+		""
+		"insisting that the one he brought for 'training equipment' is all he needs."
+	}
+	"page2_right_title"	:
+	{
+		""
+	}
+	"page2_right_body"	:
+	{
+		""
 	}
 	"gui_page1"	: "guis/readables/books/book_hand_jd_hand.gui"
+	"gui_page2"	: "guis/readables/books/book_hand_jd_hand.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -65,30 +85,32 @@ readables/man2/journal_thomas
 		""
 		"This is turning out to be a pretty good job. The pay isn't that great, but the free room and board makes up for it.  "
 		""
-		"With Lord Twistleton buying up all these properties, I should have lots of work for the forseeable future.  The tenants all seem to be well-to-do folks, and everyone seems to want some sort of secret room installed.  "
+		"With Lord Twistleton buying up all these properties, I should have lots of work for the forseeable future."
+		""
+		"The tenants all seem to be well-to-do folks, and everyone seems to want some sort of special"
 		""
 		""
 	}
 	"page1_right_title"	:
 	{
-		"13 January"
+		""
 	}
 	"page1_right_body"	:
+	{
+		""
+		"work done in their flat.  It's certainly keeping me busy!"
+	}
+	"page2_left_title"	:
+	{
+		"13 January"
+	}
+	"page2_left_body"	:
 	{
 		""
 		""
 		"Met the rest of the staff here today.  Roland is the cook, although he only works for the Inglebys in flat 3.  We get along pretty well, and he sneaks me leftovers sometimes."
 		""
 		"Hales is the 'Chief of Security'.  We have no idea what her first name is.  She is strictly business and not terribly friendly.  Roland even tried to bring her some "
-	}
-	"page2_left_title"	:
-	{
-		""
-	}
-	"page2_left_body"	:
-	{
-		""
-		"tarts, but she told him to 'bugger off'."
 	}
 	"page2_right_title"	:
 	{
@@ -97,6 +119,7 @@ readables/man2/journal_thomas
 	"page2_right_body"	:
 	{
 		""
+		"tarts, but she told him to 'bugger off'."
 	}
 	"gui_page1"	: "guis/readables/books/book_hand_nancy.gui"
 	"gui_page2"	: "guis/readables/books/book_hand_nancy.gui"
@@ -466,6 +489,8 @@ readables/man2/note_williams
 	}
 	"page1_body"	:
 	{
+		""
+		""
 		"Capt Williams,"
 		""
 		"The suspicious activity seems to be centered around The Hare in the Snare Inn.  We think foreigners are involved."
@@ -476,7 +501,7 @@ readables/man2/note_williams
 		""
 		"Cmdr Strickland"
 	}
-	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"gui_page1"	: "guis/readables/scrolls/scroll_calig_medusa.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -603,7 +628,9 @@ readables/man2/journal_percy
 	"page1_left_body"	:
 	{
 		""
-		"That Thomas chap is taking forever to fix my security camera!  How else am I to protect myself from whatever cretin choses to invade my property and help themselves to my valuables?  Perhaps I should look into these hidden rooms that that some of the others have..."
+		"That Thomas chap is taking forever to fix my security camera!  How else am I to protect myself from whatever cretin choses to invade my property and help themselves to my valuables?"
+		""
+		"Perhaps I should look into these hidden rooms that that some of the others have..."
 		""
 	}
 	"page1_right_title"	:
