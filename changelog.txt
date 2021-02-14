@@ -1,3 +1,30 @@
+v0.16:
+
+General fixes/improvements in addition to screenshot fixes:
+
+- fixed light leak in Ingleby guest bedroom and z-fighting just outside under window.
+- re-did stairs noclip ramps
+- re-did staircase area in inn going down to the ground floor with brushwork.
+- fixed exit objecive having dependency on optional ones
+- added rope to enable climbing up west side of Morden Place.
+- added a bunch more loot paintings
+- added journal for Percy
+- fixed bug where you could frob the large painting in Twistleton' study through the wall of the bedroom
+
+
+- Amadeus' screenshots
+    - https://drive.google.com/file/d/1_IoOgJtsEDxUaYxX1lRixJQaA-jz9IWN/view?usp=sharing: fixed
+    - https://drive.google.com/file/d/1MUWosdCnkjbrAGE7-BKFDSVJMZh-oHpD/view?usp=sharing: fixed
+    - https://drive.google.com/file/d/1JGrQfka_1laj35Xa8k34Cn_FM4TWK2Xj/view?usp=sharing: fixed
+    - https://drive.google.com/file/d/1Gr9_q4HoN272jKiPVwtqrNf8zqCOnW_O/view?usp=sharing: fixed
+    - https://drive.google.com/file/d/1dpCKkAJr0WNNzdMuUmMPhWkFbi_ZUikd/view?usp=sharing: fixed
+    - https://drive.google.com/file/d/18PzVx_Ix_tJSq6M9NUxoTpu9cLJCBa_0/view?usp=sharing: fixed
+
+
+    no changes:
+    - https://drive.google.com/file/d/1lGRiDLN4gKm6geSWSYVtN6_cDJ_2COmc/view?usp=sharing: guard will alert on some open doors on expert difficulty
+    - https://drive.google.com/file/d/1K-F_Z4iKW97g2VvbaPWR1NAsP8Dbh8UU/view?usp=sharing: NOT SUR
+
 v0.15:
 
 General fixes to address issues raised by all testers:

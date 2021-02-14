@@ -590,3 +590,31 @@ readables/man2/journal_ingleby_sr
 	"gui_page1"	: "guis/readables/books/book_calig_mac_humaine.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
+
+
+readables/man2/journal_percy
+{
+	precache
+	"num_pages"	: "1"
+	"page1_left_title"	:
+	{
+		""
+	}
+	"page1_left_body"	:
+	{
+		""
+		"That Thomas chap is taking forever to fix my security camera!  How else am I to protect myself from whatever cretin choses to invade my property and help themselves to my valuables?  Perhaps I should look into these hidden rooms that that some of the others have..."
+		""
+	}
+	"page1_right_title"	:
+	{
+		""
+	}
+	"page1_right_body"	:
+	{
+		""
+		"Thanks to Lord Twistleton, at least most of the filth can't afford to live here anymore and have left the area. "
+	}
+	"gui_page1"	: "guis/readables/books/book_calig_mac_humaine.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
