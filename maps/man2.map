@@ -58737,6 +58737,8 @@ patchDef3
 "origin" "596 262 358"
 "rotation" "1 0 0 0 1 0 0 0 1"
 "noshadows" "0"
+"set noshadows on light_candle_circle01" "1"
+"set noshadows_lit on light_candle_circle01" "1"
 }
 // entity 2851
 {

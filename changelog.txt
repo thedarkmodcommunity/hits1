@@ -19,11 +19,12 @@ General fixes/improvements in addition to screenshot fixes:
     - https://drive.google.com/file/d/1Gr9_q4HoN272jKiPVwtqrNf8zqCOnW_O/view?usp=sharing: fixed
     - https://drive.google.com/file/d/1dpCKkAJr0WNNzdMuUmMPhWkFbi_ZUikd/view?usp=sharing: fixed
     - https://drive.google.com/file/d/18PzVx_Ix_tJSq6M9NUxoTpu9cLJCBa_0/view?usp=sharing: fixed
+    - https://drive.google.com/file/d/18Nmi5fdGNzZIHNSXxkDxSjZkBJAV4d6S/view?usp=sharing: fixed, redid them all
 
 
     no changes:
     - https://drive.google.com/file/d/1lGRiDLN4gKm6geSWSYVtN6_cDJ_2COmc/view?usp=sharing: guard will alert on some open doors on expert difficulty
-    - https://drive.google.com/file/d/1K-F_Z4iKW97g2VvbaPWR1NAsP8Dbh8UU/view?usp=sharing: NOT SUR
+    - https://drive.google.com/file/d/1K-F_Z4iKW97g2VvbaPWR1NAsP8Dbh8UU/view?usp=sharing: weird one.  It's a standard candle entity and has noshadows_lit set to 1.  I even tried setting the spawnargs e.g. "set noshadows_lit on light_candle_circle01" and no dice.
 
 v0.15:
 
