@@ -2999,7 +2999,7 @@ brushDef3
 ( 0 1 0 -667 ) ( ( 7.97296076286347e-19 0.01302083302289248 0 ) ( -0.01302083302289248 7.97296076286347e-19 0.01302083302289248 ) ) "textures/darkmod/wood/boards/rough_wood_brown_dull" 0 0 0
 ( 1 0 0 -1432 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_wood_brown_dull" 0 0 0
 ( 0 0 -1 36 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_wood_brown_dull" 0 0 0
-( 0 -1 0 647 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_wood_brown_dull" 0 0 0
+( 0 -1 0 649 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_wood_brown_dull" 0 0 0
 ( -1 0 0 1352 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/rough_wood_brown_dull" 0 0 0
 }
 }
@@ -4425,7 +4425,7 @@ brushDef3
 {
 brushDef3
 {
-( 0 0 1 -40 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 0 1 -32 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 255.9921875 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
 ( 1 0 0 -280 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
 ( 0 -1 0 -712 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
 ( -1 0 0 276 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
@@ -15693,17 +15693,19 @@ patchDef3
 {
 "classname" "func_static"
 "name" "func_static_214"
-"model" "models/darkmod/architecture/modules/exteriors/ext_timber01/ext_timber01_bay_window01.lwo"
-"origin" "136 200 -124"
+"model" "models/darkmod/architecture/modules/exteriors/ext_timber01/ext_timber01_bay_window02.lwo"
+"origin" "137 200 -112"
 "rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "timber01_blocks_mixedsize01_litwindows"
 }
 // entity 213
 {
 "classname" "func_static"
 "name" "func_static_216"
-"model" "models/darkmod/architecture/modules/exteriors/ext_timber01/ext_timber01_bay_window01.lwo"
-"origin" "392 200 -124"
+"model" "models/darkmod/architecture/modules/exteriors/ext_timber01/ext_timber01_bay_window02.lwo"
+"origin" "392 200 -112"
 "rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "timber01_blocks_mixedsize01_litwindows"
 }
 // entity 214
 {
@@ -15717,9 +15719,10 @@ patchDef3
 {
 "classname" "func_static"
 "name" "func_static_234"
-"model" "models/darkmod/architecture/modules/exteriors/ext_timber01/ext_timber01_bay_window01.lwo"
-"origin" "635.586 439.229 -132"
+"model" "models/darkmod/architecture/modules/exteriors/ext_timber01/ext_timber01_bay_window02.lwo"
+"origin" "644.586 439.229 -112"
 "rotation" "0 1 0 -1 0 0 0 0 1"
+"skin" "timber01_blocks_mixedsize01_litwindows"
 }
 // entity 216
 {
@@ -15766,7 +15769,7 @@ patchDef3
 "nodiffuse" "0"
 "noshadows" "0"
 "nospecular" "0"
-"origin" "624 452 -36"
+"origin" "624 439 -36"
 "parallel" "0"
 }
 // entity 220
@@ -18841,7 +18844,7 @@ brushDef3
 "classname" "func_static"
 "name" "func_static_497"
 "model" "models/darkmod/containers/barrell_med_closed.lwo"
-"origin" "921 1190 -107.622"
+"origin" "921 1190 -111.872"
 "rotation" "1 0 0 0 1 0 0 0 1"
 }
 // entity 568
@@ -21427,7 +21430,7 @@ brushDef3
 "classname" "atdm:handle_curved_rotate_double_right"
 "name" "atdm_handle_curved_rotate_double_right_7"
 "bind" "func_static_697"
-"origin" "470.299 -423.023 86"
+"origin" "470.674 -423.023 86"
 "rotation" "1 0 0 0 1 0 0 0 1"
 }
 // entity 753
@@ -21439,7 +21442,7 @@ brushDef3
 "lock_pins" "5"
 "locked" "1"
 "model" "models/darkmod/architecture/doors/set01_3panel_1.lwo"
-"origin" "426.615 -420.848 40"
+"origin" "426.99 -420.848 40"
 "rotation" "-1 0 0 0 -1 0 0 0 1"
 "used_by" "inn_master_key"
 }
@@ -21728,7 +21731,7 @@ brushDef3
 "classname" "func_static"
 "name" "func_static_728"
 "model" "models/darkmod/readables/book_red1_small.lwo"
-"origin" "1013.97 -2.04338 85.0702"
+"origin" "1013.97 -2.04338 84.0702"
 "rotation" "0.497164 -0.867656 0 0.867656 0.497164 0 0 0 1"
 "skin" "open_book_anatomy"
 }
@@ -30426,7 +30429,7 @@ patchDef2
 "classname" "atdm:handle_curved_rotate_double_right"
 "name" "atdm_handle_curved_rotate_double_right_20"
 "bind" "func_static_1026"
-"origin" "1153.9 502.896 232"
+"origin" "1153.4 502.896 232"
 "rotation" "1 0 0 0 1 0 0 0 1"
 "skin" "ornate_wood_shell_wallpaper"
 }
@@ -30435,7 +30438,7 @@ patchDef2
 "classname" "atdm:mover_door"
 "name" "func_static_1026"
 "model" "models/darkmod/architecture/doors/set01_3panel_1.lwo"
-"origin" "1110.22 505.066 186"
+"origin" "1109.72 505.066 186"
 "rotation" "-1 0 0 0 -1 0 0 0 1"
 "skin" "ornate_wood_shell_wallpaper"
 }
@@ -31446,21 +31449,21 @@ patchDef2
 {
 "classname" "atdm:loot_coinstack_medium_silver"
 "name" "atdm_loot_coinstack_medium_silver_1"
-"origin" "1086 120 -69"
+"origin" "1086 120 -70.125"
 "rotation" "1 0 0 0 1 0 0 0 1"
 }
 // entity 1432
 {
 "classname" "atdm:loot_coinstack_medium_silver"
 "name" "atdm_loot_coinstack_medium_silver_2"
-"origin" "1087 119 -69"
+"origin" "1087 119 -70.125"
 "rotation" "1 0 0 0 1 0 0 0 1"
 }
 // entity 1433
 {
 "classname" "atdm:loot_coinstack_medium"
 "name" "atdm_loot_coinstack_medium_silver_3"
-"origin" "1086 118 -69"
+"origin" "1086 118 -70.125"
 "rotation" "1 0 0 0 1 0 0 0 1"
 }
 // entity 1434
@@ -34936,7 +34939,7 @@ patchDef3
 "lock_pins" "5"
 "locked" "1"
 "model" "models/darkmod/architecture/doors/set01_3panel_1.lwo"
-"origin" "1027.55 250.726 40"
+"origin" "1027.05 250.726 40"
 "rotation" "1 0 0 0 1 0 0 0 1"
 "skin" "ornate_wood_shell_wallpaper"
 }
@@ -36837,7 +36840,7 @@ brushDef3
 "classname" "atdm:handle_curved_rotate_double_right"
 "name" "atdm_handle_curved_rotate_double_right_24"
 "bind" "door_inglebys"
-"origin" "1412.9 647.896 86"
+"origin" "1413.15 647.896 86"
 "rotation" "1 0 0 0 1 0 0 0 1"
 "skin" "green_wallpaper"
 }
@@ -36849,7 +36852,7 @@ brushDef3
 "lock_pins" "5"
 "locked" "1"
 "model" "models/darkmod/architecture/doors/set01_3panel_1.lwo"
-"origin" "1369.22 650.066 40"
+"origin" "1369.47 650.066 40"
 "rotation" "-1 0 0 0 -1 0 0 0 1"
 "shouldBeClosed" "1"
 "skin" "green_wallpaper"
@@ -37968,7 +37971,7 @@ patchDef3
 {
 "classname" "atdm:readable_immobile_book_open01"
 "name" "atdm_readable_immobile_book_open01_1"
-"origin" "1194 745.967 78"
+"origin" "1194 745.967 77.5"
 "rotation" "0.964684 -0.263409 0 0.263409 0.964684 0 0 0 1"
 "xdata_contents" "readables/man2/journal_ingleby"
 }
@@ -39262,7 +39265,7 @@ patchDef3
 "lock_picktype" "-"
 "lock_pins" "0"
 "locked" "1"
-"origin" "527.75 -102.375 -448"
+"origin" "527.625 -105.375 -448"
 "pickable" "0"
 "rotate" "0 90 0"
 "rotation" "1 0 0 0 1 0 0 0 1"
@@ -39275,7 +39278,7 @@ patchDef3
 "classname" "atdm:handle_curved_rotate_double_right"
 "name" "doorhandle_96x48x3hinge_1"
 "bind" "tunnel_storage_room_door"
-"origin" "572.125 -102.25 -397.625"
+"origin" "572 -105.25 -397.625"
 "rotation" "1 0 0 0 1 0 0 0 1"
 }
 // entity 2082
@@ -60048,7 +60051,7 @@ brushDef3
 "bind" "chest_spring1"
 "immune_to_target_setfrobable" "1"
 "model" "models/darkmod/door_related/lockbox_lever_02.ase"
-"origin" "1447.84 284.84 205.25"
+"origin" "1447.84 284.84 207.25"
 "rotate" "45 0 0"
 "rotation" "1 0 0 0 -1 0 0 0 -1"
 "solid" "0"
@@ -63702,8 +63705,9 @@ patchDef3
 {
 "classname" "info_location"
 "name" "location_inn_kitchen"
-"ambient" "snd_pub"
+"ambient" "snd_inn"
 "origin" "416 -584 -56"
+"volume" "-10"
 }
 // entity 3077
 {
@@ -63715,8 +63719,8 @@ patchDef3
 {
 "classname" "info_location"
 "name" "location_ingleby_kitchen"
-"origin" "1456 520 112"
 "ambient" "snd_ingleby"
+"origin" "1456 520 112"
 }
 // entity 3079
 {
@@ -63741,6 +63745,7 @@ patchDef3
 {
 "classname" "info_location"
 "name" "location_highclere_hall"
+"ambient" "snd_percy"
 "origin" "1100 320 120"
 }
 // entity 3083
@@ -63753,8 +63758,8 @@ patchDef3
 {
 "classname" "info_location"
 "name" "location_ingleby_upstairs"
-"origin" "1152 596 260"
 "ambient" "snd_ingleby"
+"origin" "1152 596 260"
 }
 // entity 3085
 {
@@ -63778,20 +63783,58 @@ patchDef3
 {
 "classname" "info_location"
 "name" "location_ingleby_bedroom1"
-"origin" "1128 764 260"
 "ambient" "snd_ingleby"
+"origin" "1128 764 260"
 }
 // entity 3089
 {
 "classname" "info_location"
 "name" "location_ingleby_bedroom2"
-"origin" "960 564 260"
 "ambient" "snd_ingleby"
+"origin" "960 564 260"
 }
 // entity 3090
 {
 "classname" "info_location"
 "name" "location_ingleby_bathroom"
-"origin" "1128 460 260"
 "ambient" "snd_ingleby"
+"origin" "1128 460 260"
+}
+// entity 3091
+{
+"classname" "func_static"
+"name" "func_static_1675"
+"model" "func_static_1675"
+"origin" "125 1343 0"
+// primitive 0
+{
+brushDef3
+{
+( 0 0 1 -8 ) ( ( 0.01302083281593192 0 0 ) ( 0 0.01302083281593192 0.1822916567325592 ) ) "textures/darkmod/stone/cobblestones/cobblestones_rounded_blue" 0 0 0
+( 0 1 0 -121 ) ( ( 0.01302083281593192 0 0 ) ( 0 0.01302083281593192 255.8177032470703 ) ) "textures/darkmod/stone/cobblestones/cobblestones_rounded_blue" 0 0 0
+( 1 0 0 -127 ) ( ( 0.01302083281593192 0 0 ) ( 0 0.01302083281593192 255.8177032470703 ) ) "textures/darkmod/stone/cobblestones/cobblestones_rounded_blue" 0 0 0
+( 0 0 -1 -8 ) ( ( 0.01302083281593192 0 0 ) ( 0 0.01302083281593192 0 ) ) "textures/darkmod/stone/cobblestones/cobblestones_rounded_blue" 0 0 0
+( 0 -1 0 -121 ) ( ( 0.01302083281593192 0 0.02604166604578495 ) ( 0 0.01302083281593192 255.8177032470703 ) ) "textures/darkmod/stone/cobblestones/cobblestones_rounded_blue" 0 0 0
+( -1 0 0 -127 ) ( ( 0.01302083281593192 0 0.1822916567325592 ) ( 0 0.01302083281593192 255.8177032470703 ) ) "textures/darkmod/stone/cobblestones/cobblestones_rounded_blue" 0 0 0
+}
+}
+}
+// entity 3092
+{
+"classname" "func_static"
+"name" "func_static_1678"
+"model" "func_static_1678"
+"origin" "39 1190 0"
+// primitive 0
+{
+brushDef3
+{
+( 0 0 1 -8 ) ( ( 0.01302083281593192 0 0 ) ( 0 0.01302083281593192 0.1822916567325592 ) ) "textures/darkmod/stone/cobblestones/cobblestones_rounded_blue" 0 0 0
+( 0 1 0 -32 ) ( ( 0.01302083281593192 0 0 ) ( 0 0.01302083281593192 0 ) ) "textures/darkmod/stone/cobblestones/cobblestones_rounded_blue" 0 0 0
+( 1 0 0 -27 ) ( ( 0.01302083281593192 0 0 ) ( 0 0.01302083281593192 0 ) ) "textures/darkmod/stone/cobblestones/cobblestones_rounded_blue" 0 0 0
+( 0 0 -1 -8 ) ( ( 0.01302083281593192 0 0 ) ( 0 0.01302083281593192 0 ) ) "textures/darkmod/stone/cobblestones/cobblestones_rounded_blue" 0 0 0
+( 0 -1 0 -32 ) ( ( 0.01302083281593192 0 0 ) ( 0 0.01302083281593192 0 ) ) "textures/darkmod/stone/cobblestones/cobblestones_rounded_blue" 0 0 0
+( -1 0 0 -27 ) ( ( 0.01302083281593192 0 0 ) ( 0 0.01302083281593192 0 ) ) "textures/darkmod/stone/cobblestones/cobblestones_rounded_blue" 0 0 0
+}
+}
 }

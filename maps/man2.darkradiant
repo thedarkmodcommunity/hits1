@@ -2,10 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "766238" } 
-		KeyValue { "LastCameraAngle" "-1.19999 101.7 0" } 
-		KeyValue { "LastCameraPosition" "1079.21 675.255 286.705" } 
-		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/metal/detailed/bars_rivets_steel" } 
+		KeyValue { "EditTimeInSeconds" "768492" } 
+		KeyValue { "LastCameraAngle" "3.90002 82.2 0" } 
+		KeyValue { "LastCameraPosition" "440.078 -495.487 95.8208" } 
+		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/stone/cobblestones/cobblestones_rounded_blue" } 
+	}
+	MapEditTimings
+	{
+		TotalSecondsEdited { 768492 }
 	}
 	SelectionGroups
 	{
@@ -169,11 +173,13 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 565 { "" }
 		SelectionGroup 566 { "" }
 		SelectionGroup 568 { "" }
-		SelectionGroup 569 { "" }
 		SelectionGroup 570 { "" }
 		SelectionGroup 571 { "" }
 		SelectionGroup 572 { "" }
 		SelectionGroup 573 { "" }
+		SelectionGroup 575 { "" }
+		SelectionGroup 576 { "" }
+		SelectionGroup 577 { "" }
 	}
 	SelectionGroupNodeMapping
 	{
@@ -395,9 +401,7 @@ DarkRadiant Map Information File Version 2
 		Node { ( 110 ) ( 341 ) } // entity (func_static_649)
 		Node { ( 111 ) ( 341 ) } // entity (func_static_650)
 		Node { ( 112 ) ( 341 ) } // entity (func_static_651)
-		Node { ( 215 ) ( 569 ) } // entity (func_static_234)
 		Node { ( 216 ) ( 245 ) } // entity (func_static_236)
-		Node { ( 219 ) ( 569 ) } // entity (light_5)
 		Node { ( 227 ) ( 480 ) } // entity (func_static_241)
 		Node { ( 228 ) ( 480 ) } // entity (func_static_239)
 		Node { ( 232 ) ( 481 ) } // entity (func_static_244)
@@ -554,6 +558,8 @@ DarkRadiant Map Information File Version 2
 		Node { ( 716 ) ( 211 ) } // entity (func_static_644)
 		Node { ( 731 ) ( 61 ) } // entity (atdm_handle_curved_rotate_double_right_4)
 		Node { ( 732 ) ( 61 ) } // entity (func_static_682)
+		Node { ( 752 ) ( 577 ) } // entity (atdm_handle_curved_rotate_double_right_7)
+		Node { ( 753 ) ( 577 ) } // entity (func_static_697)
 		Node { ( 760 ) ( 68 ) } // entity (func_static_701)
 		Node { ( 761 ) ( 68 ) } // entity (func_static_702)
 		Node { ( 786 ) ( 71 ) } // entity (Clock1)
@@ -785,6 +791,8 @@ DarkRadiant Map Information File Version 2
 		Node { ( 1774 ) ( 284 ) } // entity (func_static_1602)
 		Node { ( 1813 ) ( 288 ) } // entity (atdm_handle_curved_rotate_double_right_23)
 		Node { ( 1814 ) ( 288 ) } // entity (func_static_1587)
+		Node { ( 1815 ) ( 575 ) } // entity (atdm_handle_curved_rotate_double_right_24)
+		Node { ( 1816 ) ( 575 ) } // entity (door_inglebys)
 		Node { ( 1818 ) ( 333 ) } // entity (func_static_1615)
 		Node { ( 1819 ) ( 333 ) } // entity (func_static_1616)
 		Node { ( 1820 ) ( 333 ) } // entity (func_static_1617)
@@ -883,6 +891,8 @@ DarkRadiant Map Information File Version 2
 		Node { ( 2072 ) ( 455 ) } // entity (func_static_1275)
 		Node { ( 2073 ) ( 455 ) } // entity (func_static_1279)
 		Node { ( 2074 ) ( 455 ) } // entity (func_static_1731)
+		Node { ( 2080 ) ( 576 ) } // entity (tunnel_storage_room_door)
+		Node { ( 2081 ) ( 576 ) } // entity (doorhandle_96x48x3hinge_1)
 		Node { ( 2082 ) ( 387 ) } // entity (func_static_1736)
 		Node { ( 2083 ) ( 387 ) } // entity (tunnel_storage_key)
 		Node { ( 2086 ) ( 570 ) } // entity (atdm_torch_wall_7)
@@ -1111,10 +1121,6 @@ DarkRadiant Map Information File Version 2
 		Node { ( 3012 ) ( 565 ) } // entity (atdm_mover_lever_9)
 		Node { ( 3020 ) ( 563 ) } // entity (func_static_678)
 		Node { ( 3021 ) ( 563 ) } // entity (atdm_mover_lever_1)
-	}
-	MapEditTimings
-	{
-		TotalSecondsEdited { 766238 }
 	}
 	Layers
 	{
@@ -2152,28 +2158,28 @@ DarkRadiant Map Information File Version 2
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
-		Node { 2 } // patch (Patch)
-		Node { 2 } // patch (Patch)
-		Node { 2 } // patch (Patch)
-		Node { 2 } // patch (Patch)
+		Node { 10 } // patch (Patch)
+		Node { 10 } // patch (Patch)
+		Node { 10 } // patch (Patch)
+		Node { 10 } // patch (Patch)
 		Node { 2 } // brush (Brush)
-		Node { 2 } // patch (Patch)
-		Node { 2 } // brush (Brush)
-		Node { 2 } // brush (Brush)
+		Node { 10 } // patch (Patch)
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
+		Node { 2 } // brush (Brush)
+		Node { 2 } // brush (Brush)
+		Node { 10 } // brush (Brush)
+		Node { 10 } // brush (Brush)
+		Node { 10 } // brush (Brush)
+		Node { 10 } // brush (Brush)
 		Node { 0 } // brush (Brush)
+		Node { 10 } // brush (Brush)
 		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
+		Node { 10 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
@@ -6648,22 +6654,22 @@ DarkRadiant Map Information File Version 2
 		Node { 10 } // brush (Brush)
 		Node { 2 } // entity (atdm_mover_door_sliding_1)
 		Node { 2 } // brush (Brush)
-		Node { 2 } // entity (atdm_loot_painting_medium_1)
-		Node { 2 } // entity (atdm_loot_painting_round_1)
-		Node { 2 } // entity (atdm_loot_painting_1)
-		Node { 2 } // entity (func_static_1868)
-		Node { 2 } // entity (func_static_1967)
-		Node { 2 } // entity (func_static_1968)
-		Node { 2 } // entity (func_static_1969)
-		Node { 2 } // entity (func_static_1970)
-		Node { 2 } // entity (func_static_1971)
+		Node { 10 } // entity (atdm_loot_painting_medium_1)
+		Node { 10 } // entity (atdm_loot_painting_round_1)
+		Node { 10 } // entity (atdm_loot_painting_1)
+		Node { 10 } // entity (func_static_1868)
+		Node { 10 } // entity (func_static_1967)
+		Node { 10 } // entity (func_static_1968)
+		Node { 10 } // entity (func_static_1969)
+		Node { 10 } // entity (func_static_1970)
+		Node { 10 } // entity (func_static_1971)
 		Node { 2 } // entity (ChestFrobControl_7)
 		Node { 2 } // brush (Brush)
-		Node { 2 } // entity (chest_spring1_lid)
-		Node { 2 } // entity (chest_spring1)
-		Node { 2 } // entity (FrobLockHandle7)
-		Node { 2 } // entity (atdm_moveable_loot_dagger_gold_1)
-		Node { 2 } // entity (func_static_1972)
+		Node { 10 } // entity (chest_spring1_lid)
+		Node { 10 } // entity (chest_spring1)
+		Node { 10 } // entity (FrobLockHandle7)
+		Node { 10 } // entity (atdm_moveable_loot_dagger_gold_1)
+		Node { 10 } // entity (func_static_1972)
 		Node { 0 } // entity (func_static_1963)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // entity (func_static_254)
@@ -6983,6 +6989,10 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (location_ingleby_bedroom1)
 		Node { 0 } // entity (location_ingleby_bedroom2)
 		Node { 0 } // entity (location_ingleby_bathroom)
+		Node { 0 } // entity (func_static_1675)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // entity (func_static_1678)
+		Node { 0 } // brush (Brush)
 	}
 	SelectionSets
 	{

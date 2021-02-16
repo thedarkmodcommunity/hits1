@@ -15,7 +15,6 @@ General fixes/improvements:
 - added rope to enable climbing up west side of Morden Place.
 - added a bunch more loot paintings
 - added journal for Percy
-- fixed bug where you could frob the large painting in Twistleton' study through the wall of the bedroom
 - prevent rat from falling down ladder in attic
 - visportal Percy's bathroom
 - alter path node of 2nd guard AI outside
@@ -23,6 +22,32 @@ General fixes/improvements:
 - made Williams friendly to the player (inline with the other pub AI)
 - stopped innkeeper from walking downstairs (he's not friendly and would spoil your visit to the now-friendly pub area, plus the guard is enough enemy AI on the inn 1st floor)
 - visportalled pub toilets
+
+- Cambridge Spy's screenshots:
+    fixed:
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.08.32.jpg: z-fighting on inn railing
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.11.36.jpg: door gap inn room 4
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.14.46.jpg: z-fighting outside inn room 2
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.27.53.jpg: misaligned door in Percy's upstairs
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.29.24.jpg: floating book
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.30.26.jpg: floating coins
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.32.12.jpg: bottomless model
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.35.20.jpg: no ground
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.35.50.jpg: floating barrel
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.38.22.jpg: floating book
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.40.15.jpg: gap at top of stairs
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.44.11.jpg: door gap Ingleby bathroom
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.52.17.jpg: frob painting through wall
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_20.10.04.jpg: bay window poking through mansion window
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_20.33.10.jpg: misaligned lock
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_20.34.00.jpg: door gap Ingleby kitchen
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_20.34.20.jpg: z-fighting Ingleby kitchen
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_20.44.54.jpg: Hales note missing 'me'
+    - 
+
+    no change:
+
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_20.52.48.jpg: this door doesn't exactly fit the frame. Leaving as is
 
 - Amadeus' screenshots
     - https://drive.google.com/file/d/1_IoOgJtsEDxUaYxX1lRixJQaA-jz9IWN/view?usp=sharing: fixed. dodgy brushwork in Percy's
