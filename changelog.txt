@@ -2,6 +2,7 @@ v0.16:
 
 General fixes/improvements:
 
+- added EFX
 - added inn master key
 - made tunnels accessible from the inn
 - changed lighting in mansion to electic with switches.
