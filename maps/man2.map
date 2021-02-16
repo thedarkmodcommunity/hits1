@@ -13712,8 +13712,8 @@ brushDef3
 {
 brushDef3
 {
-( 0 0 1 -32 ) ( ( 0.01302083302289248 0 0 ) ( 0 0.01302083302289248 255.9869791669771 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
-( 0 1 0 167 ) ( ( 0.01302083302289248 0 255.9869791669771 ) ( 0 0.01302083302289248 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 0 1 -32 ) ( ( 0.01302083302289248 0 0 ) ( 0 0.01302083302289248 255.9869842529297 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 1 0 167 ) ( ( 0.01302083302289248 0 255.9869842529297 ) ( 0 0.01302083302289248 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
 ( 1 0 0 -396 ) ( ( 0.01302083302289248 0 0 ) ( 0 0.01302083302289248 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
 ( 0 0 -1 -112 ) ( ( 0.01302083302289248 0 0 ) ( 0 0.01302083302289248 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
 ( 0 -1 0 -274 ) ( ( 0.01302083302289248 0 0.01302083302289248 ) ( 0 0.01302083302289248 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
@@ -59577,7 +59577,7 @@ patchDef3
 // entity 2903
 {
 "classname" "info_location"
-"name" "location_ingleby"
+"name" "location_ingleby_lounge"
 "ambient" "snd_ingleby"
 "origin" "1040 744 96"
 }
@@ -63704,4 +63704,94 @@ patchDef3
 "name" "location_inn_kitchen"
 "ambient" "snd_pub"
 "origin" "416 -584 -56"
+}
+// entity 3077
+{
+"classname" "info_locationseparator"
+"name" "info_locationseparator_21"
+"origin" "1336 576 88"
+}
+// entity 3078
+{
+"classname" "info_location"
+"name" "location_ingleby_kitchen"
+"origin" "1456 520 112"
+"ambient" "snd_ingleby"
+}
+// entity 3079
+{
+"classname" "info_locationseparator"
+"name" "info_locationseparator_22"
+"origin" "1000 904 88"
+}
+// entity 3080
+{
+"classname" "info_location"
+"name" "location_ingleby_guestroom"
+"ambient" "snd_ingleby"
+"origin" "952 1024 128"
+}
+// entity 3081
+{
+"classname" "info_locationseparator"
+"name" "info_locationseparator_23"
+"origin" "1000 252 96"
+}
+// entity 3082
+{
+"classname" "info_location"
+"name" "location_highclere_hall"
+"origin" "1100 320 120"
+}
+// entity 3083
+{
+"classname" "info_locationseparator"
+"name" "info_locationseparator_24"
+"origin" "1272 664 256"
+}
+// entity 3084
+{
+"classname" "info_location"
+"name" "location_ingleby_upstairs"
+"origin" "1152 596 260"
+"ambient" "snd_ingleby"
+}
+// entity 3085
+{
+"classname" "info_locationseparator"
+"name" "info_locationseparator_25"
+"origin" "1136 664 256"
+}
+// entity 3086
+{
+"classname" "info_locationseparator"
+"name" "info_locationseparator_26"
+"origin" "1056 584 256"
+}
+// entity 3087
+{
+"classname" "info_locationseparator"
+"name" "info_locationseparator_27"
+"origin" "1128 504 256"
+}
+// entity 3088
+{
+"classname" "info_location"
+"name" "location_ingleby_bedroom1"
+"origin" "1128 764 260"
+"ambient" "snd_ingleby"
+}
+// entity 3089
+{
+"classname" "info_location"
+"name" "location_ingleby_bedroom2"
+"origin" "960 564 260"
+"ambient" "snd_ingleby"
+}
+// entity 3090
+{
+"classname" "info_location"
+"name" "location_ingleby_bathroom"
+"origin" "1128 460 260"
+"ambient" "snd_ingleby"
 }

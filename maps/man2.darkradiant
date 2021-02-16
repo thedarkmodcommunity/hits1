@@ -1,5 +1,12 @@
 DarkRadiant Map Information File Version 2
 {
+	MapProperties
+	{
+		KeyValue { "EditTimeInSeconds" "766238" } 
+		KeyValue { "LastCameraAngle" "-1.19999 101.7 0" } 
+		KeyValue { "LastCameraPosition" "1079.21 675.255 286.705" } 
+		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/metal/detailed/bars_rivets_steel" } 
+	}
 	SelectionGroups
 	{
 		SelectionGroup 3 { "" }
@@ -1105,16 +1112,9 @@ DarkRadiant Map Information File Version 2
 		Node { ( 3020 ) ( 563 ) } // entity (func_static_678)
 		Node { ( 3021 ) ( 563 ) } // entity (atdm_mover_lever_1)
 	}
-	MapProperties
-	{
-		KeyValue { "EditTimeInSeconds" "765524" } 
-		KeyValue { "LastCameraAngle" "-4.2 159.3 0" } 
-		KeyValue { "LastCameraPosition" "214.409 -528.997 -24.3537" } 
-		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/metal/detailed/bars_rivets_steel" } 
-	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 765524 }
+		TotalSecondsEdited { 766238 }
 	}
 	Layers
 	{
@@ -6610,7 +6610,7 @@ DarkRadiant Map Information File Version 2
 		Node { 13 } // entity (info_locationseparator_5)
 		Node { 13 } // entity (location_staff)
 		Node { 13 } // entity (info_locationseparator_6)
-		Node { 13 } // entity (location_ingleby)
+		Node { 13 } // entity (location_ingleby_lounge)
 		Node { 13 } // entity (info_locationseparator_7)
 		Node { 13 } // entity (info_locationseparator_8)
 		Node { 13 } // entity (info_locationseparator_9)
@@ -6969,6 +6969,20 @@ DarkRadiant Map Information File Version 2
 		Node { 13 } // entity (location_inn_stairs)
 		Node { 13 } // entity (info_locationseparator_20)
 		Node { 13 } // entity (location_inn_kitchen)
+		Node { 13 } // entity (info_locationseparator_21)
+		Node { 0 } // entity (location_ingleby_kitchen)
+		Node { 13 } // entity (info_locationseparator_22)
+		Node { 13 } // entity (location_ingleby_guestroom)
+		Node { 13 } // entity (info_locationseparator_23)
+		Node { 0 } // entity (location_highclere_hall)
+		Node { 0 } // entity (info_locationseparator_24)
+		Node { 0 } // entity (location_ingleby_upstairs)
+		Node { 0 } // entity (info_locationseparator_25)
+		Node { 0 } // entity (info_locationseparator_26)
+		Node { 0 } // entity (info_locationseparator_27)
+		Node { 0 } // entity (location_ingleby_bedroom1)
+		Node { 0 } // entity (location_ingleby_bedroom2)
+		Node { 0 } // entity (location_ingleby_bathroom)
 	}
 	SelectionSets
 	{

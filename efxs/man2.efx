@@ -25,7 +25,7 @@ eaxreverb "location_mansion_bathroom" {
   preset WOODEN_MEDIUMROOM
 }
 eaxreverb "location_mansion_attic" {
-  preset WOODEN_SMALLROOM
+  preset WOODEN_CUPBOARD
 }
 eaxreverb "location_mansion_bedroom" {
   preset WOODEN_LARGEROOM
@@ -44,4 +44,34 @@ eaxreverb "location_inn_kitchen" {
 }
 eaxreverb "location_inn_smuggler_office" {
   preset WOODEN_SMALLROOM
+}
+eaxreverb "location_percy" {
+  preset WOODEN_SMALLROOM
+}
+eaxreverb "location_staff" {
+  preset WOODEN_SMALLROOM
+}
+eaxreverb "location_ingleby_kitchen" {
+  preset WOODEN_SMALLROOM
+}
+eaxreverb "location_ingleby_lounge" {
+  preset WOODEN_MEDIUMROOM
+}
+eaxreverb "location_ingleby_guestroom" {
+  preset WOODEN_SMALLROOM
+}
+eaxreverb "location_highclere_hall" {
+  preset WOODEN_HALL
+}
+eaxreverb "location_ingleby_upstairs" {
+  preset WOODEN_HALL
+}
+eaxreverb "location_ingleby_bedroom1" {
+  preset WOODEN_SMALLROOM
+}
+eaxreverb "location_ingleby_bedroom2" {
+  preset WOODEN_SMALLROOM
+}
+eaxreverb "location_ingleby_bathroom" {
+  preset WOODEN_CUPBOARD
 }
