@@ -11,6 +11,11 @@ $darkmodtxt = "$stagingMissionDir\darkmod.txt"
 $pkg = "$stagingMissionDir\$missionName$revSuffix"
 $i18npkg = "$stagingMissionDir\$missionName$revSuffix" + "_i18n"
 
+$dmap = Read-Host -Prompt 'Did you delete and recompile the map files?'
+if ( $dmap -notin "Y","y") {
+    exit 1
+}
+
 $playerStart = Read-Host -Prompt 'Did you reset the player start position?'
 if ( $playerStart -notin "Y","y") {
     exit 1

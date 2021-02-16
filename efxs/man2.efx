@@ -1,0 +1,47 @@
+Version 2
+
+eaxreverb "location_garden" {
+  preset OUTDOORS_BACKYARD
+}
+eaxreverb "location_streets" {
+  preset CITY_STREETS
+}
+eaxreverb "location_tunnels" {
+  preset DUSTYROOM
+}
+eaxreverb "location_mansion_lounge" {
+  preset WOODEN_LARGEROOM
+}
+eaxreverb "location_mansion_hallway" {
+  preset WOODEN_HALL
+}
+eaxreverb "location_mansion_kitchen" {
+  preset WOODEN_SMALLROOM
+}
+eaxreverb "location_mansion_bathroom" {
+  preset WOODEN_SMALLROOM
+}
+eaxreverb "location_mansion_bathroom" {
+  preset WOODEN_MEDIUMROOM
+}
+eaxreverb "location_mansion_attic" {
+  preset WOODEN_SMALLROOM
+}
+eaxreverb "location_mansion_bedroom" {
+  preset WOODEN_LARGEROOM
+}
+eaxreverb "location_inn" {
+  preset WOODEN_MEDIUMROOM
+}
+eaxreverb "location_inn_stairs" {
+  preset WOODEN_LARGEROOM
+}
+eaxreverb "location_inn_pub" {
+  preset WOODEN_MEDIUMROOM
+}
+eaxreverb "location_inn_kitchen" {
+  preset WOODEN_SMALLROOM
+}
+eaxreverb "location_inn_smuggler_office" {
+  preset WOODEN_SMALLROOM
+}

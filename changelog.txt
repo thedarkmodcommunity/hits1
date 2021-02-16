@@ -18,7 +18,9 @@ General fixes/improvements:
 - prevent rat from falling down ladder in attic
 - visportal Percy's bathroom
 - alter path node of 2nd guard AI outside
-
+- added some personal items in the attic
+- made Williams friendly to the player (inline with the other pub AI)
+- stopped innkeeper from walking downstairs (he's not friendly and would spoil your visit to the now-friendly pub area, plus the guard is enough enemy AI on the inn 1st floor)
 
 - Amadeus' screenshots
     - https://drive.google.com/file/d/1_IoOgJtsEDxUaYxX1lRixJQaA-jz9IWN/view?usp=sharing: fixed. dodgy brushwork in Percy's
