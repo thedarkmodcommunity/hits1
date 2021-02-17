@@ -709,3 +709,22 @@ readables/man2/newspaper_missing_persons
 	"gui_page1"	: "guis/readables/sheets/newspaper_bridgeport03.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
+
+
+readables/man2/note_hales_to_thugs_mess
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		""
+		""
+		"Clean this mess up, etc..."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
