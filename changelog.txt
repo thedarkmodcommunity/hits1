@@ -22,6 +22,7 @@ General fixes/improvements:
 - made Williams friendly to the player (inline with the other pub AI)
 - stopped innkeeper from walking downstairs (he's not friendly and would spoil your visit to the now-friendly pub area, plus the guard is enough enemy AI on the inn 1st floor)
 - visportalled pub toilets
+- moved torch outside thug room and rotated thugs away from door
 
 - Cambridge Spy's screenshots:
     fixed:
