@@ -4,32 +4,26 @@ maps/man2/mission_briefing
  
  "page1_body" :
  {
+   "Thief,"
    ""
+   "We share a mutual acquiantance in one of your affiliates who goes by the name of Jacobs."
    ""
-   "Thieves.  We don't have many that we would call friends."
+   "He has often spoken of you with pride and kindness, and it isonly through payment to a number of related petty criminal enterprises that I hope this letter now finds you before it's too late."
    ""
-   "The one who would come closest to that for myself is a man called Jacobs."
-   ""
-   "He was a mentor of sorts.  My skills eventually surpassed his and I no longer needed his guidance."
+   "I write to inform you that Jacobs has gone missing and I now fear the worst for him. It may surprise you to learn that he, a thief, has found a friend in me, a Captain of the City Watch. Rest assured however that I am of no threat"
   }
  "page2_body" :
  {
+   "to you, as I find myself in pursuit of a far greater evil than mere thievery."
    ""
+   "Jacobs last made contact with me from The Hare and the Snare Inn shortly before his disappearance. I have since taken up his former lodgings in room number two, but have found my uniform to be of hindrance to my investigation. A less direct approach is required."
    ""
-   "We still remain in touch however."
-   ""
-   "When we last spoke he mentioned that a wealthy lord has recently moved into a rough part of town and has been shaking things up."
-   ""
-   "This Lord has driven the locals out and property prices up."
-   ""
-   "Jacobs reckons he should be an easy target, and set off to check things out."
+   "I shall spend every evening in the inn's tavern until very late. Within my room is a locked chest that contains all the incentive you need to begin your search. Please make haste for Jacobs' sake, and make every effort to avoid direct contact with me should you enter the tavern. I shall"
  }
  "page3_body" :
  {
+   "not acknowledge your presence."
    ""
-   ""
-   "It has been a few days since I've heard from him."
-   ""
-   "It's time to investigate.  I understand he was staying at The Hare in the Snare Inn on Bedford Road..."
+   "Captain Williams, City Watch"
  }
 }

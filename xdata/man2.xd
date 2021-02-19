@@ -659,11 +659,9 @@ readables/man2/newspaper_coal_shortage
 	{
 		""
 		""
-		"Mayor Goddard has warned of yet another increase in the price of coal, as \"the shortage will likely extend further than initially expected\" over the coming months."
+		"    Mayor Goddard has warned of yet another increase in the price of coal, as \"the shortage will likely extend further than \"initially expected\" over the coming months."
 		""
-		"    Many of the City's residents and businesses alike have already complained of \"suffocating\" price hikes that have placed undue strain upon public wellbeing and profits. "
-		""
-		"    The Mayor went on to reassure those who "
+		"    The Mayor went on to assure those who gathered in protest that they would \"not be deprived of coal, only required to pay a little more for it.\" When pressed to provide an nswer as to what sum he considered to be \"a little more\", Mayor Goddard replied that \"only time will tell,\" and further pleaded for"
 	}
 	"page1_right_title"	:
 	{
@@ -672,9 +670,7 @@ readables/man2/newspaper_coal_shortage
 	"page1_right_body"	:
 	{
 		""
-		"gathered in protest that they \"would not be deprived of coal, only required to pay a little more for it.\" When pushed to provide an answer as to what sum he considered to be \"a little more\", Mayor Goddard replied that \"only time will tell\", and further pleaded for the gathered souls to quietly return to their homes. "
-		""
-		"    \"Fat bloody chance,\" said City resident Maudry Woodhouse, who wished to remain anonymous."
+		"the gathered souls to quietly return to their homes. \"Fat bloody chance,\" said city resident Mauldy Woodhouse, who wished to remain anonymous."
 	}
 	"gui_page1"	: "guis/readables/sheets/newspaper_bridgeport02.gui"
 	"snd_page_turn"	: "readable_page_turn"
@@ -693,9 +689,9 @@ readables/man2/newspaper_missing_persons
 	{
 		""
 		""
-		"    The spate of mysterious disappearances continues as yet more street dwellers have seemingly vanished from various slums across the City."
-		"    Commander Halsted of the City Watch reports that the number of missing persons has been greatly exaggerated by the public, and warns against \"jumping to conclusions\" as to the cause of the disappearances."
-		"    When asked if the City Watch had opened an investigation into the matter, the Commander replied that details of the case were not for public knowledge."
+		"    A spate of mysterious disappearances of steet dwellers has prompted the Commander of the City Watch to pass public comment. Commander Fleeting reports that the number of missing persons has been greatly exaggerated by the public, and warns against \"jumping to conclusions\" as to the cause of the disappearances."
+		""
+		"    When asked if the City Watch had opened an investigation inot the matter, the Commander replied that details of the case were not for public knowledge."
 	}
 	"page1_right_title"	:
 	{
@@ -703,8 +699,9 @@ readables/man2/newspaper_missing_persons
 	}
 	"page1_right_body"	:
 	{
-		"    \"Take it up with the Mayor,\" he said, before handing the floor to Lord Buckley of the Merchants Guild."
-		"    Lord Buckley then promptly applauded the City Watch for a marked decrease in crime, something he attributed to \"fine police work\" before going on to deny that any such drop in crime could possibly be related to the dwindling number of street dwellers, stating \"I hadn't noticed any were missing, since I rarely notice them at all.\""
+		"    Lord Pottinger of the Merchants Guild then took to the podium in order to applaud the City Watch for a marked decrease in crime."
+		""
+		"    He attributed the recently published crime report to \"fine police work\", before going on to deny that any such drop in crime could possibly be related to the dwindling number of street dwellers. He stated \"I hadn't noticed any were missing, since I rarely notice them at all.\""
 	}
 	"gui_page1"	: "guis/readables/sheets/newspaper_bridgeport03.gui"
 	"snd_page_turn"	: "readable_page_turn"
@@ -714,7 +711,7 @@ readables/man2/newspaper_missing_persons
 readables/man2/note_hales_to_thugs_mess
 {
 	precache
-	"num_pages"	: "1"
+	"num_pages"	: "2"
 	"page1_title"	:
 	{
 		""
@@ -723,8 +720,26 @@ readables/man2/note_hales_to_thugs_mess
 	{
 		""
 		""
-		"Clean this mess up, etc..."
+		"Clean this mess up!"
+		""
+		"I told you two to keep him quiet, not cut out his bloody tongue. Was that really necessary? You couldn't just gag him? It's already difficult enough to keep them all under control without them having to hear the screams of a man having his tongue severed. Your poor mother must have dropped you two on your heads when you were little troll babies."
+		""
+		"I have ensured that this Jacobs has been shipped off with all the others. You had better hope "
+	}
+	"page2_title"	:
+	{
+		""
+	}
+	"page2_body"	:
+	{
+		""
+		"they're not required to speak when they get to wherever they're all being sent to. If they send him back I'll send the pair of you out as his replacement!"
+		""
+		"Make sure you pile the dead ones into the pit for burning. And I'd better not find out that any died because of something you did. You morons are on very thin ice."
+		""
+		"Hales"
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }

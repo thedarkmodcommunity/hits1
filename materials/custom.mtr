@@ -1,0 +1,15 @@
+textures/darkmod/decals/papers/coal_shortage
+{
+    //DECAL_MACRO       // this includes the following settings:
+    //polygonOffset 1   // this causes the poster to appear black for some reason
+    //discrete
+	//sort decal
+ 	//noShadows
+
+	qer_editorimage	textures/darkmod/decals/papers/coal_shortage
+    diffusemap      textures/darkmod/decals/papers/coal_shortage
+    bumpmap         _flat
+    specularmap     _black
+    nonsolid
+	noimpact
+}
