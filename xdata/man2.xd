@@ -743,3 +743,39 @@ readables/man2/note_hales_to_thugs_mess
 	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
+
+
+readables/man2/moor_note
+{
+	precache
+	"num_pages"	: "2"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		""
+		"Ahemut,"
+		""
+		"    Our dealings with Bridgeport are of much secrecy. So much so that not even Lord Twistleton is to be told the destination of the labourers. Do not mention Ridgeback Bridge or the barges, even in the slightest. All they need to know is what they already see, an iron wagon taking the labourers away. They do not need to know where it goes."
+		""
+		"    This instruction comes from our business associates in Bridgeport itself. You know who I am referring to. Just make"
+	}
+	"page2_title"	:
+	{
+		""
+	}
+	"page2_body"	:
+	{
+		""
+		"sure the barges keep getting a steady supply, and keep Lord Twistleton reassured that we are commending him to his masters."
+		""
+		"    Do your job well, and perhaps we might negotiate your son's marriage upon your return. Fail in your job, and perhaps we might discuss his funeral."
+		""
+		"Vazir Sahib"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
