@@ -1,0 +1,63 @@
+voice_001
+{
+	editor_displayFolder  map_specific
+         omnidirectional
+	sound/map_specific/Voice_001.ogg
+    no_efx
+}
+voice_002
+{
+	editor_displayFolder  map_specific
+         omnidirectional
+	sound/map_specific/Voice_002.ogg
+    no_efx
+}
+voice_003
+{
+	editor_displayFolder  map_specific
+         omnidirectional
+	sound/map_specific/Voice_003.ogg
+    no_efx
+}
+voice_004
+{
+	editor_displayFolder  map_specific
+         omnidirectional
+	sound/map_specific/Voice_004.ogg
+    no_efx
+}
+voice_005
+{
+	editor_displayFolder  map_specific
+         omnidirectional
+	sound/map_specific/Voice_005.ogg
+    no_efx
+}
+voice_006
+{
+	editor_displayFolder  map_specific
+         omnidirectional
+	sound/map_specific/Voice_006.ogg
+    no_efx
+}
+voice_007
+{
+	editor_displayFolder  map_specific
+         omnidirectional
+	sound/map_specific/Voice_007.ogg
+    no_efx
+}
+voice_008
+{
+	editor_displayFolder  map_specific
+         omnidirectional
+	sound/map_specific/Voice_008.ogg
+    no_efx
+}
+voice_009
+{
+	editor_displayFolder  map_specific
+         omnidirectional
+	sound/map_specific/Voice_009.ogg
+    no_efx
+}
