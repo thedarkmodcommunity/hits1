@@ -180,7 +180,7 @@ readables/man2/journal_roland
 	"page1_body"	:
 	{
 		""
-		"    Twas you! Oh Builder forgive me, my little girl. I have failed as a father. To see you living upon the streets these years past, so ashamed was I that I turned my head and hurried on by. So ashamed am I still. Twas you that felt my belt when your mother left us. Twas you that felt my fists."
+		"    Twas you! Oh Builder forgive me, my little girl. To see you living upon the streets these years past, so ashamed was I that I turned my head and hurried on by. So ashamed am I still. Twas you that felt my belt when your mother left us. Twas you that felt my fists."
 		""
 		"    Oh Builder forgive me, for those times are but nothing compared to the night gone by when I cracked my door and saw you being pushed along with all the others. The poor and the weak. Led to that hell beyond the trapdoor by those merciless thugs. And you saw me. You recognised me. And I saw all hope vanish from your face, as you would have known for certain that your own papa would not lift a finger to help you."
 		""
@@ -195,7 +195,7 @@ readables/man2/journal_roland
 		""
 		"darling Yulia."
 		""
-		"I am a coward and I shall meet a coward's end. I have purchased enough rat poison to kill an ox, and upon the morrow I shall take it from behind the stove and place it in my morning tea. I shan't ever see you again, my daughter, for if there is life after death I shall be going to a different place than thee."
+		"I am a coward and I shall meet a coward's end. I have purchased enough rat poison to kill an ox, and upon the morrow I shall take it in my morning tea. I shan't ever see you again, my daughter, for if there is life after death I shall be going to a different place than thee."
 		""
 		"Builder forgive me."
 	}
@@ -820,7 +820,7 @@ readables/man2/note_hales_to_thugs_mess
 		""
 		"I told you two to keep him quiet, not cut out his bloody tongue. Was that really necessary? You couldn't just gag him? It's already difficult enough to keep them all under control without them having to hear the screams of a man having his tongue severed. Your poor mother must have dropped you two on your heads when you were little troll babies."
 		""
-		"I have ensured that this Jacobs has been shipped off with all the others. You had better hope "
+		"I have ensured that this Jacobs has been shipped off with all the others. You had better hope they're not required to speak when they get to "
 	}
 	"page2_title"	:
 	{
@@ -829,14 +829,14 @@ readables/man2/note_hales_to_thugs_mess
 	"page2_body"	:
 	{
 		""
-		"they're not required to speak when they get to wherever they're all being sent to. If they send him back I'll send the pair of you out as his replacement!"
+		"wherever they're all being sent to. If they send him back I'll send the pair of you out as his replacement!"
 		""
 		"Make sure you pile the dead ones into the pit for burning. And I'd better not find out that any died because of something you did. You morons are on very thin ice."
 		""
 		"Hales"
 	}
-	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
-	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
+	"gui_page2"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -937,7 +937,7 @@ readables/man2/note_from_williams
 		""
 		"holes into which they seem to have vanished."
 		"    Jacobs specifically informed me of the room he had taken here, which is why I rented it myself and searched it thoroughly upon my arrival. Please take this key that he left behind and find out where it fits. He did not hide it here without good reason."
-		"    Since my presence at the inn will have given cause to halt any untoward activities for the temporary duration of my stay, it is imperative that you now set about finding Jacobs right away. He is a most vital witness."
+		"    Since my presence at the inn will have given cause to halt any untoward activities for the temporary duration of my stay, it is imperative that you now set about finding out what happened to Jacobs. He is a most vital witness."
 		"    Also see what you can dig up about Lord Twistleton, who resides in the manor across "
 	}
 	"page3_title"	:
@@ -999,6 +999,10 @@ readables/man2/journal_hales
 	{
 		""
 		"he was packed in with those sorry louts below."
+		""
+		""
+		""
+		"Reminder: Get rid of Jacobs' confiscated belongings. Don't need any evidence lying about!"
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_summertime.gui"
 	"gui_page2"	: "guis/readables/books/book_calig_summertime.gui"
@@ -1228,5 +1232,92 @@ readables/man2/note_alley_door
 		"Hales "
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/ingleby_spy_journal
+{
+	precache
+	"num_pages"	: "3"
+	"page1_left_title"	:
+	{
+		""
+	}
+	"page1_left_body"	:
+	{
+		""
+		"Day 19"
+		""
+		"All day in private study."
+		""
+		"No visitors. "
+	}
+	"page1_right_title"	:
+	{
+		""
+	}
+	"page1_right_body"	:
+	{
+		""
+		"Day 20"
+		""
+		"All day in private study. "
+		""
+		"Visitor: Hales. "
+		""
+		"Much yelling, unclear (door shut). T visibly shaken afterwards."
+	}
+	"page2_left_title"	:
+	{
+		""
+	}
+	"page2_left_body"	:
+	{
+		""
+		"Day 21"
+		""
+		"All day in private study."
+		""
+		"No visitors."
+	}
+	"page2_right_title"	:
+	{
+		""
+	}
+	"page2_right_body"	:
+	{
+		""
+		"Day 22"
+		""
+		"All day in private study (sigh!)."
+		""
+		"No visitors."
+	}
+	"page3_left_title"	:
+	{
+		""
+	}
+	"page3_left_body"	:
+	{
+		""
+		"Day 23"
+		""
+		"All day in p... He’s on his bloody balcony with a spyglass, the sneaky bastard! "
+	}
+	"page3_right_title"	:
+	{
+		""
+	}
+	"page3_right_body"	:
+	{
+		""
+		"Day 24"
+		""
+		"All day in private study? Can’t be certain after yesterday. I’d better rethink my strategy. "
+	}
+	"gui_page1"	: "guis/readables/books/book_calig_camberic.gui"
+	"gui_page2"	: "guis/readables/books/book_calig_camberic.gui"
+	"gui_page3"	: "guis/readables/books/book_calig_camberic.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
