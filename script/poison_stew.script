@@ -1,0 +1,4 @@
+object obj_poisoned_stew
+{
+    void init();
+}

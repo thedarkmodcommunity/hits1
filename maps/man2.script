@@ -1,0 +1,27 @@
+void poison_stew(entity stew)
+{
+    sys.println("You frobbed the stew!");
+
+    string isPoisoned = stew.getKey("poisoned");
+
+    sys.println("poisoned is " + isPoisoned);
+
+    if (isPoisoned == "1") 
+    {
+        sys.println("This stew is poisoned!");
+    }
+    else
+    {
+         sys.println("This stew is NOT poisoned!");
+    }
+
+    // done, prevent further frobbing
+    stew.setFrobable(0);
+    stew.startSound("snd_addpoison", SND_CHANNEL_UNUSED, false);
+	sys.wait(1);
+}
+
+void main()
+{
+	sys.waitFrame();
+}
