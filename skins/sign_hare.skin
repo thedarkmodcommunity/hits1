@@ -1,0 +1,5 @@
+skin sign_shield_hare
+{
+    model models/darkmod/decorative/signs/sign_half_round_01.ase
+    sign_half_round_wine textures/darkmod/wood/signs/sign_shield_hare
+}

@@ -1,28 +1,28 @@
 textures/darkmod/decals/papers/coal_shortage
 {
-    //DECAL_MACRO       // this includes the following settings:
-    //polygonOffset 1   // this causes the poster to appear black for some reason
-    discrete
+	//DECAL_MACRO       // this includes the following settings:
+	//polygonOffset 1   // this causes the poster to appear black for some reason
+	discrete
 	sort decal
  	noShadows
 
 	qer_editorimage	textures/darkmod/decals/papers/coal_shortage
-    diffusemap      textures/darkmod/decals/papers/coal_shortage
-    bumpmap         _flat
-    specularmap     _black
-    nonsolid
+	diffusemap      textures/darkmod/decals/papers/coal_shortage
+	bumpmap         _flat
+	specularmap     _black
+	nonsolid
 	noimpact
 }
 
 textures/darkmod/decals/papers/missing
 {
 	qer_editorimage	textures/darkmod/decals/papers/missing
-    diffusemap      textures/darkmod/decals/papers/missing
-    bumpmap         _flat
-    specularmap     _black
-    nonsolid
+	diffusemap      textures/darkmod/decals/papers/missing
+	bumpmap         _flat
+	specularmap     _black
+	nonsolid
 	noimpact
-    discrete
+	discrete
 	sort decal
  	noShadows
 }
@@ -30,33 +30,78 @@ textures/darkmod/decals/papers/missing
 textures/darkmod/decals/signs/hare1
 {
 	qer_editorimage	textures/darkmod/decals/signs/hare_sign_001_512
-    bumpmap         _flat
-    specularmap     _black
-    nonsolid
+	bumpmap         _flat
+	specularmap     _black
+	nonsolid
 	noimpact
-    discrete
+	discrete
 	sort decal
  	noShadows
-    {
-        blend diffusemap
-        map textures/darkmod/decals/signs/hare_sign_001_512
-        alphatest 0.5
-    }
+	{
+		blend diffusemap
+		map textures/darkmod/decals/signs/hare_sign_001_512
+		alphatest 0.5
+	}
 }
 
 textures/darkmod/decals/signs/hare2
 {
 	qer_editorimage	textures/darkmod/decals/signs/hare_sign_002_512
-    bumpmap         _flat
-    specularmap     _black
-    nonsolid
+	bumpmap         _flat
+	specularmap     _black
+	nonsolid
 	noimpact
-    discrete
+	discrete
 	sort decal
  	noShadows
-    {
-        blend diffusemap
-        map textures/darkmod/decals/signs/hare_sign_002_512
-        alphatest 0.5
-    }
+	{
+		blend diffusemap
+		map textures/darkmod/decals/signs/hare_sign_002_512
+		alphatest 0.5
+	}
+}
+
+textures/darkmod/wood/signs/sign_shield_hare
+{   qer_editorimage	textures/darkmod/wood/signs/sign_shield_hare
+	wood
+
+	diffusemap  textures/darkmod/wood/signs/sign_shield_hare
+	bumpmap     _flat
+	{   if ( parm11 > 0 )
+		blend       gl_dst_color, gl_one
+		map         _white
+		rgb         0.40 * parm11
+	}
+	{   if ( parm11 > 0 )
+		blend       add
+		map         textures/darkmod/wood/signs/sign_shield_hare
+		rgb         0.15 * parm11
+	}
+}
+
+teddy_bear_model
+{
+	surftype15
+	noselfshadow
+
+	{
+		blend	diffusemap
+		map		textures/darkmod/map_specific/teddy_bear_diffuse
+		alphaTest 0.5
+	}
+
+	bumpmap		textures/darkmod/map_specific/teddy_bear_bump
+
+	{
+		if ( parm11 > 0 )
+		blend       gl_dst_color, gl_one
+		map         _white
+		rgb         0.40 * parm11
+	}
+	{
+		if ( parm11 > 0 )
+		blend       add
+		map         textures/darkmod/map_specific/teddy_bear_diffuse
+		rgb         0.15 * parm11
+	}
 }

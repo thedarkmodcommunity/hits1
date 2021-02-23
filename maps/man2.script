@@ -1,24 +1,31 @@
 void poison_stew(entity stew)
 {
-    sys.println("You frobbed the stew!");
+    sys.println("You acted on: " + stew.getName());
 
-    string isPoisoned = stew.getKey("poisoned");
+    // Only allow this if you've found Jacobs
+    float objectiveState = $player1.getObjectiveState(1);
+    sys.println("objective state: " + objectiveState);
 
-    sys.println("poisoned is " + isPoisoned);
-
-    if (isPoisoned == "1") 
+    if (objectiveState == 1)
     {
-        sys.println("This stew is poisoned!");
+        // done, prevent further frobbing
+        stew.setFrobable(0);
+        stew.startSound("snd_addpoison", SND_CHANNEL_UNUSED, false);
+        sys.wait(2);
+
+        sys.println("You have completed the objective!");
+
+        // play the voiceover and give it time to finish
+        sys.trigger($obj_poison_relay);
+        sys.wait(4);
+
+        // objective complete
+        $player1.setObjectiveState(4, 1);
     }
     else
     {
-         sys.println("This stew is NOT poisoned!");
+         sys.println("The objective is not ready!");
     }
-
-    // done, prevent further frobbing
-    stew.setFrobable(0);
-    stew.startSound("snd_addpoison", SND_CHANNEL_UNUSED, false);
-	sys.wait(1);
 }
 
 void main()
