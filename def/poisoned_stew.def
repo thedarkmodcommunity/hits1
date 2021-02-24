@@ -10,7 +10,7 @@ entityDef atdm:poisoned_stew
 	"solid"							"1"
 	
 	//Interaction
-	"frobable"						"1"
+	"frobable"						"0" // we set this later
 	"used_action_script"            "poison_stew"
 	"used_by"                       "rat_poison"
 

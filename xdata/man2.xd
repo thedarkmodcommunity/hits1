@@ -77,15 +77,14 @@ readables/man2/journal_thomas
 	"num_pages"	: "2"
 	"page1_left_title"	:
 	{
-		"11 January"
+		""
 	}
 	"page1_left_body"	:
 	{
 		""
+		"    I am going to be in so much trouble. Not been here a month, me, and already I’m in the kacky bucket. Why did I go and stick my nose in? "
 		""
-		"My first week has not gone well. Something is very unpleasant about this place. Hales is always so serious and I am not so ashamed to admit that she frightens me. And they say there are two brothers who work for her who are even worse! Luckily I haven't run into them yet."
-		""
-		"    The cook always behaves like a man with one foot in the grave. I swear he almost burst into tears"
+		"    They all been saying the cook’s got one foot in the grave already, so when I sees him packing rat poison in the larder with that look of death on his face, I get the most terrible feeling that something bad is to happen. So what did I do? I waited 'til he was gone, then I went "
 	}
 	"page1_right_title"	:
 	{
@@ -94,10 +93,9 @@ readables/man2/journal_thomas
 	"page1_right_body"	:
 	{
 		""
-		"when I saw him laying down the rat poison."
-		"    The innkeeper never speaks to me unless he needs something done, and the barmaid treats me as though I am about to steal everything not nailed down the moment she turns her back. Has everyone been sucking lemons all day long?"
+		"to pour that poison down the sink. But then I heard someone coming and I was so scared it might be Hales that I tossed it into the coal sacks in storage and hurried back to my room. "
 		""
-		"    I wish that was the worst of it. I have also been woken by the sounds of"
+		"    Stupid Thomas, because when I went back the next day to find it, all the coal sacks was gone! And I don't know where they been taken. Where is all the coal being used in this place? I can’t ask the innkeeper cos he'll"
 	}
 	"page2_left_title"	:
 	{
@@ -106,9 +104,10 @@ readables/man2/journal_thomas
 	"page2_left_body"	:
 	{
 		""
-		"people crying out, sometimes screaming, somewhere nearby. It seems to have stopped now that the Watch Captain has taken board in room two, but whatever is going on I do not wish to find out."
+		"want to know what I done, and I dare not ask Hales cos she'll show me where it is and I am not sure I really want to know. "
 		""
-		"    Will they notice if I run away? I won't get my pay, but losing it is a small price for being free of this place. I just hope they don't send Hales and her two thugs after me."
+		"    The cook doesn’t seem to have noticed yet, but soon he will. Oh why did I not just mind my own business? "
+		""
 	}
 	"page2_right_title"	:
 	{
@@ -195,12 +194,13 @@ readables/man2/journal_roland
 		""
 		"darling Yulia."
 		""
-		"I am a coward and I shall meet a coward's end. I have purchased enough rat poison to kill an ox, and upon the morrow I shall take it in my morning tea. I shan't ever see you again, my daughter, for if there is life after death I shall be going to a different place than thee."
+		"    I am a coward and I shall meet a coward's end. I have purchased enough rat poison to kill an ox, and one day soon I shall  place it in my morning tea. I shan't ever see you again, my daughter, for if there is life after death I shall be going to a different place than thee."
+		""
 		""
 		"Builder forgive me."
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_jd_hand.gui"
-	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_jd_hand.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -1319,5 +1319,55 @@ readables/man2/ingleby_spy_journal
 	"gui_page1"	: "guis/readables/books/book_calig_camberic.gui"
 	"gui_page2"	: "guis/readables/books/book_calig_camberic.gui"
 	"gui_page3"	: "guis/readables/books/book_calig_camberic.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/journal_merchant
+{
+	precache
+	"num_pages"	: "2"
+	"page1_left_title"	:
+	{
+		""
+	}
+	"page1_left_body"	:
+	{
+		""
+		"    Even Smirks has now closed they doors for good. Poor buggers. Them's was the oldest coal merchant in town. Been here over a century, they has."
+		"    What I don't understand is how come there still seems to be such a steady supply of coal, while it's only the "
+	}
+	"page1_right_title"	:
+	{
+		""
+	}
+	"page1_right_body"	:
+	{
+		""
+		"price what keeps going up during a so-called shortage? I don't know anyone what can't actually buy coal if they's willing to pay for it (and who can afford not to when everything depends on it so?) "
+		"    Don't them nobs at the Mayor's table see that raising the coal price means "
+	}
+	"page2_left_title"	:
+	{
+		""
+	}
+	"page2_left_body"	:
+	{
+		"everything else becomes more expensive up the line? The coal is taxed too, and so's our purchases being taxed by percentage of they rising sales price. So now the taxes are also steadily ris-"
+		""
+		"Oh. "
+		""
+		"Those taffing nob bastards!"
+	}
+	"page2_right_title"	:
+	{
+		""
+	}
+	"page2_right_body"	:
+	{
+		""
+	}
+	"gui_page1"	: "guis/readables/books/book_hand_shoppinglist.gui"
+	"gui_page2"	: "guis/readables/books/book_hand_shoppinglist.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }

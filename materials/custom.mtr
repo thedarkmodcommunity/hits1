@@ -27,81 +27,28 @@ textures/darkmod/decals/papers/missing
  	noShadows
 }
 
-textures/darkmod/decals/signs/hare1
-{
-	qer_editorimage	textures/darkmod/decals/signs/hare_sign_001_512
-	bumpmap         _flat
-	specularmap     _black
-	nonsolid
-	noimpact
-	discrete
-	sort decal
- 	noShadows
-	{
-		blend diffusemap
-		map textures/darkmod/decals/signs/hare_sign_001_512
-		alphatest 0.5
-	}
-}
-
-textures/darkmod/decals/signs/hare2
-{
-	qer_editorimage	textures/darkmod/decals/signs/hare_sign_002_512
-	bumpmap         _flat
-	specularmap     _black
-	nonsolid
-	noimpact
-	discrete
-	sort decal
- 	noShadows
-	{
-		blend diffusemap
-		map textures/darkmod/decals/signs/hare_sign_002_512
-		alphatest 0.5
-	}
-}
-
-textures/darkmod/wood/signs/sign_shield_hare
-{   qer_editorimage	textures/darkmod/wood/signs/sign_shield_hare
+textures/darkmod/wood/signs/sign_shield_hare_5
+{   
+	qer_editorimage	textures/darkmod/wood/signs/sign_shield_rab_005
 	wood
-
-	diffusemap  textures/darkmod/wood/signs/sign_shield_hare
-	bumpmap     _flat
-	{   if ( parm11 > 0 )
-		blend       gl_dst_color, gl_one
-		map         _white
-		rgb         0.40 * parm11
-	}
-	{   if ( parm11 > 0 )
-		blend       add
-		map         textures/darkmod/wood/signs/sign_shield_hare
-		rgb         0.15 * parm11
-	}
+	diffusemap  textures/darkmod/wood/signs/sign_shield_rab_005
+	bumpmap         _flat
+	specularmap     _black
 }
 
-teddy_bear_model
+textures/darkmod/wood/signs/sign_shield_hare_dark
+{   
+	qer_editorimage	textures/darkmod/wood/signs/sign_shield_rab_dark
+	wood
+	diffusemap  textures/darkmod/wood/signs/sign_shield_rab_dark
+	bumpmap         _flat
+	specularmap     _black
+}
+
+textures/darkmod/decorative/toys/teddy_bear_mat
 {
-	surftype15
-	noselfshadow
-
-	{
-		blend	diffusemap
-		map		textures/darkmod/map_specific/teddy_bear_diffuse
-		alphaTest 0.5
-	}
-
-	bumpmap		textures/darkmod/map_specific/teddy_bear_bump
-
-	{
-		if ( parm11 > 0 )
-		blend       gl_dst_color, gl_one
-		map         _white
-		rgb         0.40 * parm11
-	}
-	{
-		if ( parm11 > 0 )
-		blend       add
-		map         textures/darkmod/map_specific/teddy_bear_diffuse
-		rgb         0.15 * parm11
-	}
+   qer_editorimage  textures/darkmod/decorative/toys/teddy_bear_mat_ed
+   diffusemap       textures/darkmod/decorative/toys/teddy_bear_mat  
+   bumpmap _flat
+   specularmap _black
 }

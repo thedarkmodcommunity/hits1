@@ -1,7 +1,5 @@
 void poison_stew(entity stew)
 {
-    sys.println("You acted on: " + stew.getName());
-
     // Only allow this if you've found Jacobs
     float objectiveState = $player1.getObjectiveState(1);
     sys.println("objective state: " + objectiveState);
@@ -16,8 +14,8 @@ void poison_stew(entity stew)
         sys.println("You have completed the objective!");
 
         // play the voiceover and give it time to finish
-        sys.trigger($obj_poison_relay);
-        sys.wait(4);
+        //sys.trigger($trigger_relay_1);
+        //sys.wait(4);
 
         // objective complete
         $player1.setObjectiveState(4, 1);
@@ -26,6 +24,11 @@ void poison_stew(entity stew)
     {
          sys.println("The objective is not ready!");
     }
+}
+
+void make_stew_froabable()
+{
+    $daltons_stew.setFrobable(1);
 }
 
 void main()
