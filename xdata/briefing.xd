@@ -6,23 +6,23 @@ maps/man2/mission_briefing
  {
    "Thief,"
    ""
-   "We share a mutual acquiantance in one of your affiliates who goes by the name of Jacobs."
+   "    We share a mutual acquaintance in one of your affiliates, a man known only to me as Jacobs."
    ""
-   "He has often spoken of you with pride and kindness, and it isonly through payment to a number of related petty criminal enterprises that I hope this letter now finds you before it's too late."
+   "    I would not call him a friend, as such, but perhaps you might? He has certainly spoken of you with admiration and kindness, though I dare say it comes as a surprise to learn that I, a Watch Captain, have solicited the use of his talents."
    ""
-   "I write to inform you that Jacobs has gone missing and I now fear the worst for him. It may surprise you to learn that he, a thief, has found a friend in me, a Captain of the City Watch. Rest assured however that I am of no threat"
+   "    Rest assured I am of no threat to you. I write only to inform you that Jacobs has gone missing and I now fear the worst for him. You may not yet be aware of it, but the current coal shortage has brought with it a number of mysterious"
   }
  "page2_body" :
  {
-   "to you, as I find myself in pursuit of a far greater evil than mere thievery."
+   "disappearances, and I am convinced it would be prudent to investigate the matter outside of City Watch procedures due to certain suspicions I should prefer to keep to myself." 
    ""
-   "Jacobs last made contact with me from The Hare and the Snare Inn shortly before his disappearance. I have since taken up his former lodgings in room number two, but have found my uniform to be of hindrance to my investigation. A less direct approach is required."
+   "    To that end I did task Jacobs with sniffing about the streets and reporting his findings back to me. He last made contact by a smuggled note from within the Hare in the Snare Inn on Bedford Road, shortly before his disappearance."
    ""
-   "I shall spend every evening in the inn's tavern until very late. Within my room is a locked chest that contains all the incentive you need to begin your search. Please make haste for Jacobs' sake, and make every effort to avoid direct contact with me should you enter the tavern. I shall"
+   "    I have since taken up his former lodgings at the inn, room number two, but have found my uniform to be of hindrance to my investigation. A less direct approach is required, and I believe I have little choice other than to now place my trust in you."
  }
  "page3_body" :
  {
-   "not acknowledge your presence."
+   "    I shall spend every evening in the inn's tavern, until very late. Within my room is a locked chest that contains all the incentive you might need to begin your search. Please make haste for Jacobs' sake, and make every effort to avoid direct contact with me should you enter the tavern. I shall not acknowledge your presence."
    ""
    "Captain Williams, City Watch"
  }
