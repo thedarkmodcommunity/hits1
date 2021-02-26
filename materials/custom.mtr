@@ -45,6 +45,15 @@ textures/darkmod/wood/signs/sign_shield_hare_dark
 	specularmap     _black
 }
 
+textures/darkmod/wood/signs/sign_shield_hare_dark_grime
+{   
+	qer_editorimage	textures/darkmod/wood/signs/sign_shield_rab_dark_grime_ed
+	wood
+	diffusemap  textures/darkmod/wood/signs/sign_shield_rab_dark_grime
+	bumpmap         _flat
+	specularmap     _black
+}
+
 textures/darkmod/decorative/toys/teddy_bear_mat
 {
    qer_editorimage  textures/darkmod/decorative/toys/teddy_bear_mat_ed

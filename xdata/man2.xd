@@ -181,9 +181,9 @@ readables/man2/journal_roland
 		""
 		"    Twas you! Oh Builder forgive me, my little girl. To see you living upon the streets these years past, so ashamed was I that I turned my head and hurried on by. So ashamed am I still. Twas you that felt my belt when your mother left us. Twas you that felt my fists."
 		""
-		"    Oh Builder forgive me, for those times are but nothing compared to the night gone by when I cracked my door and saw you being pushed along with all the others. The poor and the weak. Led to that hell beyond the trapdoor by those merciless thugs. And you saw me. You recognised me. And I saw all hope vanish from your face, as you would have known for certain that your own papa would not lift a finger to help you."
+		"    Oh Builder forgive me, for those times are but nothing compared to the night gone by when I cracked the hallway door and saw you being pushed along with all the others. The poor and the weak. Led to that hell beyond the trapdoor by those merciless thugs. And you saw me. You recognised me. And I saw all hope vanish from your face, as you would have known for certain that your own papa would not lift a finger to help you."
 		""
-		"So ashamed am I. My own daughter. My "
+		""
 	}
 	"page2_title"	:
 	{
@@ -192,10 +192,9 @@ readables/man2/journal_roland
 	"page2_body"	:
 	{
 		""
-		"darling Yulia."
+		"    So ashamed am I. My own daughter. My darling Yulia."
 		""
-		"    I am a coward and I shall meet a coward's end. I have purchased enough rat poison to kill an ox, and one day soon I shall  place it in my morning tea. I shan't ever see you again, my daughter, for if there is life after death I shall be going to a different place than thee."
-		""
+		"    I am a coward and I shall meet a coward's end. I have purchased enough rat poison to kill an ox, and one day soon I shall place it in my morning tea. I shan't ever see you again, my daughter, for if there is life after death I shall be going to a different place than thee."
 		""
 		"Builder forgive me."
 	}
@@ -258,7 +257,7 @@ readables/man2/journal_ingleby
 	"page3_left_body"	:
 	{
 		""
-		"upward, so they say. I'll keep an eye over Twistleton's shoulder as duty requires of me and, whenever fancy strikes, continue to grow my secret collection for when the time comes to move on."
+		"upward, so they say. I'll keep an eye over Twistleton's shoulder as duty requires of me and, whenever fancy strikes, continue to grow my secret collection for when the time comes to move on (I just hope my wife doesn't think I'm heading that way for light night snacks each time!)"
 	}
 	"page3_right_title"	:
 	{
@@ -855,7 +854,7 @@ readables/man2/moor_note
 		""
 		"Ahemut,"
 		""
-		"    Our dealings with Bridgeport are of much secrecy. Such that not even Lord Twistleton is to be told the destination of the captives. Do not mention Ridgeback Bridge or the barges, even in the slightest. All they need to know is what they already see, an iron wagon taking the captives away. They do not need to know where it goes. This instruction comes from our business associates in Bridgeport itself. You know who I am referring to."
+		"    Our dealings with Bridgeport are of much secrecy. Not even Lord Twistleton is to be told the destination of the captives. Do not mention Ridgeback Bridge or the barges, even in the slightest. All they need to know is what they already see, an iron wagon taking the captives away. They do not need to know where it goes. This instruction comes from our business associates in Bridgeport itself. You know who I am referring to."
 		""
 	}
 	"page2_title"	:
@@ -888,11 +887,9 @@ readables/man2/note_accountant
 	"page1_body"	:
 	{
 		""
-		"Parker,"
-		""
 		"    Heed these words you little rat-faced twerp. If I ever catch you peeping through my keyhole again I will kick you so hard in the fork you'll be able to brush your teeth and scrub your bollocks at the same time. And then I'll hand you over to the Daltons. Count yourself lucky that all you suffered was a broken nose and a twisted arm you'll feel on cold days forever hereafter. Do I make myself absolutely clear?"
 		""
-		"Now that's settled, I am to remind you that maintaining an accurate ledger of our \"exports\" is of far greater importance than keeping the books for the inn and the tenancy. Every month you've been "
+		"    Now that's settled, I am to remind you that maintaining an accurate ledger of our \"exports\" is of far greater importance than keeping the books for the inn and the tenancy. Every month you've been running late with the former since you've focused your attention solely upon the latter. From now on "
 	}
 	"page2_title"	:
 	{
@@ -901,7 +898,7 @@ readables/man2/note_accountant
 	"page2_body"	:
 	{
 		""
-		"running late with the former since you've focused your attention solely upon the latter. From now on prioritise exports first, and only then focus your attention on the finances for the inn and the rents from Highclere House. A steady income is guaranteed, paying guests or not."
+		"prioritise exports first, and only then focus your attention on the finances for the inn and the rents from Highclere House. A steady income is guaranteed, paying guests or not."
 		""
 		"Hales"
 		""
@@ -927,7 +924,7 @@ readables/man2/note_from_williams
 		""
 		"    Before he disappeared, Jacobs managed to report that street dwellers were being lured into the underbelly of this very inn after dark, never to be seen again. He is not the first to have noticed such misdeeds taking place across the city, but he is the first to have identified one of the dark holes into which they appear to have vanished."
 		""
-		"    Jacobs specifically informed me of which room he had rented and I searched it thoroughly when I arrived. Please take this key that was hidden here. I believe Jacobs"
+		"    Jacobs specifically informed me of which room he had rented and I searched it thoroughly when I arrived. Please take this key that was hidden here. I believe Jacobs "
 	}
 	"page2_title"	:
 	{
@@ -936,11 +933,11 @@ readables/man2/note_from_williams
 	"page2_body"	:
 	{
 		""
-		" intended it for you, though I am fearful of what you might find at the end of where it leads. He was a clever chap, Jacobs, and he always said you'd come for him if he found himself in danger. "
+		" intended it for you, though I am fearful of what you might find at the intended it for you, though I am fearful of what you might find at the end of where it leads. He was a clever chap, Jacobs, and he always said you'd come for him should he find himself in danger. "
 		""
 		"    Since my presence at the inn will have given cause to halt any untoward activities for the temporary duration of my stay, it is imperative that you now set about finding out what happened to Jacobs. He is a most vital witness."
 		""
-		"    Also see what you can dig up about Lord Twistleton, owner of the tenancy attached to the inn, called Highclere House. He "
+		"Also see what you can dig up about Lord "
 	}
 	"page3_title"	:
 	{
@@ -949,7 +946,7 @@ readables/man2/note_from_williams
 	"page3_body"	:
 	{
 		""
-		"resides in the large home  across the street. The man is surely involved and no doubt keeps a journal, which I’d also like you to acquire for me."
+		"Twistleton, owner of the tenancy attached to the inn, called Highclere House. He resides in the large home across the street. The man is surely involved and no doubt keeps a journal, which I’d also like you to acquire for me."
 		""
 		"PS. Remember, do not attempt to speak to me in this place. We will meet another time."
 	}
@@ -1091,7 +1088,7 @@ readables/man2/hales_note_to_daltons
 		""
 		"Morons!"
 		""
-		"    You've lost the spare key to this door, haven't you? That's why I found it still unlocked when I came down to light the pit fire. Because you inbred knuckle-draggers are too stupid to figure out where your key went, am I correct? Just nod, taffers, because you know that I am."
+		"    You've lost the spare key to this door, haven't you? That's why I found it still unlocked when I came down to light the pit fire. Because you inbred knuckle-draggers are too stupid to figure out where your key went, am I correct? Merely nod, taffers, because you know that I am."
 		""
 		"    Now where could your key possibly have got to? Apply your tiny minds to the problem and you might just work it out. Well, no, you probably won't, so pay close attention and sound the words out: Jacobs. Was. A. Thief. What does that tell you? Perhaps he'd have explained it himself if you two hadn't gotten so carried away. Well, "
 	}
@@ -1102,7 +1099,7 @@ readables/man2/hales_note_to_daltons
 	"page2_body"	:
 	{
 		""
-		"you're not borrowing my key."
+		"you're not borrowing my key. "
 		""
 		"    The pair of you can just stay locked down here so that there's no chance of the Watch Captain seeing you while he's staying at the inn. I will bring down your meals when I next feel like it."
 		""
@@ -1308,7 +1305,7 @@ readables/man2/ingleby_spy_journal
 		""
 		"Day 23"
 		""
-		"All day in p... HE'S ON HIS BLOODY BALCONY WITH A SPYGLASS, THE SNEAKY BASTARD! "
+		"All day in p... He's on his bloody balcony with a spyglass, the sneaky bastard! "
 	}
 	"page3_right_title"	:
 	{
@@ -1331,7 +1328,7 @@ readables/man2/ingleby_spy_journal
 readables/man2/journal_merchant
 {
 	precache
-	"num_pages"	: "2"
+	"num_pages"	: "1"
 	"page1_left_title"	:
 	{
 		""
@@ -1341,7 +1338,7 @@ readables/man2/journal_merchant
 		""
 		"    Even Smirks has now closed they doors for good. Poor buggers. Them's was the oldest coal merchant in town. Been here over a century, they has."
 		""
-		"    What I don't understand is how come there still seems to be such a steady supply of coal, while it's only the price what keeps"
+		"    What I don't understand is how come there still seems to be such a steady supply of coal, while it's only the price what keeps going up during a so-called shortage? I don't know anyone what can't actually buy coal if they's willing to pay for it "
 	}
 	"page1_right_title"	:
 	{
@@ -1350,33 +1347,13 @@ readables/man2/journal_merchant
 	"page1_right_body"	:
 	{
 		""
-		"going up during a so-called shortage? I don't know anyone what can't actually buy coal if they's willing to pay for it (and who can afford not to when everything depends upon it so?) "
+		"(and who can afford not to when everything depends upon it so?) "
 		""
-		"    Don't them nobs at the Mayor's table see that raising the coal price means everything else "
-	}
-	"page2_left_title"	:
-	{
-		""
-	}
-	"page2_left_body"	:
-	{
-		""
-		"becomes more expensive up the line? The coal is taxed too, and so's our purchases being taxed by percentage of they rising sales price. So now the taxes are also steadily ris..."
-		""
-		"Oh. "
+		"    Don't them nobs at the Mayor's table see that raising the coal price means everything else becomes more expensive up the line? The coal is taxed too, and so's our purchases being taxed by percentage of they rising sales price. So now the taxes are also steadily ris...Oh. "
 		""
 		"Those taffing nob bastards!"
 	}
-	"page2_right_title"	:
-	{
-		""
-	}
-	"page2_right_body"	:
-	{
-		""
-	}
-	"gui_page1"	: "guis/readables/books/book_hand_shoppinglist.gui"
-	"gui_page2"	: "guis/readables/books/book_hand_shoppinglist.gui"
+	"gui_page1"	: "guis/readables/books/book_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -1384,7 +1361,7 @@ readables/man2/journal_merchant
 readables/man2/note_jacobs_cell
 {
 	precache
-	"num_pages"	: "2"
+	"num_pages"	: "1"
 	"page1_title"	:
 	{
 		""
@@ -1395,22 +1372,14 @@ readables/man2/note_jacobs_cell
 		"    Hello frend. I did not dowt you would come for me. I hop you are doing good. Do not be cross I told a copper captin about you. He is on to sumthing wat is to do with coal and some taffers wat are playing god and you can trust him. They did sumthing bad to me and I do not no wat they will do with me next. "
 		""
 		"    If I am dead I want you to have my savings but not all my savings 'cos you must give sum to my mum. That means missus Plumtree not my akshul mum wat is a bich. "
-		"  "
-		""
-		""
-	}
-	"page2_title"	:
-	{
-		""
-	}
-	"page2_body"	:
-	{
 		""
 		"    Thank you for helping me that time and also the other time and you are a good frend."
 		""
 		"Jacobs"
+		"  "
+		""
+		""
 	}
-	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_shoppinglist.gui"
-	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_shoppinglist.gui"
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_jd_hand.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }

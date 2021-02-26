@@ -1,4 +1,4 @@
-$rev = "0.16.1"
+$rev = "0.16.2"
 $revSuffix="_v$rev"
 
 $devMissionName = 'dmmission1'
@@ -31,7 +31,7 @@ remove-item -path $stagingDir\* -Filter * -Force -Recurse
 copy-item -path $missionDir -destination $stagingDir -recurse
 
 # remove unwanted files
-remove-item -path $stagingMissionDir -include .git,models,savegames,.gitignore,build.ps1,changelog.txt,consolehistory.dat,man2.darkradiant,man2.bak,man2.darkradiant.bak,man2.xd.bkup,HITS_Readables.txt -Force -Recurse
+remove-item -path $stagingMissionDir -include .git,savegames,.gitignore,build.ps1,changelog.txt,consolehistory.dat,man2.darkradiant,man2.bak,man2.darkradiant.bak,man2.xd.bkup,HITS_Readables.txt -Force -Recurse
 
 # token replace version
 (Get-Content $darkmodtxt).replace('[VERSION]', $rev) | Set-Content $darkmodtxt 
