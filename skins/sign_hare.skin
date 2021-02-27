@@ -1,0 +1,15 @@
+skin sign_shield_hare_5
+{
+    model models/darkmod/decorative/signs/sign_half_round_01.ase
+    sign_half_round_wine textures/darkmod/wood/signs/sign_shield_rab_005
+}
+skin sign_shield_hare_dark
+{
+    model models/darkmod/decorative/signs/sign_half_round_01.ase
+    sign_half_round_wine textures/darkmod/wood/signs/sign_shield_hare_dark
+}
+skin sign_shield_hare_dark_grime
+{
+    model models/darkmod/decorative/signs/sign_half_round_01.ase
+    sign_half_round_wine textures/darkmod/wood/signs/sign_shield_hare_dark_grime
+}

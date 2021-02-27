@@ -1,3 +1,74 @@
+v0.16:
+
+General fixes/improvements:
+
+- added EFX
+- added inn master key
+- made tunnels accessible from the inn
+- changed lighting in mansion to electic with switches.
+- toned down light gem increase on expert (same as hard now, +1 increase)
+- removed one guard from ground floor mansion
+- fixed light leak in Ingleby guest bedroom and z-fighting just outside under window.
+- re-did stairs noclip ramps
+- re-did staircase area in inn going down to the ground floor with brushwork.
+- fixed exit objecive having dependency on optional ones
+- added rope to enable climbing up west side of Morden Place.
+- added a bunch more loot paintings
+- added journal for Percy
+- prevent rat from falling down ladder in attic
+- visportal Percy's bathroom
+- alter path node of 2nd guard AI outside
+- added some personal items in the attic
+- made Williams friendly to the player (inline with the other pub AI)
+- stopped innkeeper from walking downstairs (he's not friendly and would spoil your visit to the now-friendly pub area, plus the guard is enough enemy AI on the inn 1st floor)
+- visportalled pub toilets
+- moved torch outside thug room and rotated thugs away from door
+
+- Cambridge Spy's screenshots:
+    fixed:
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.08.32.jpg: z-fighting on inn railing
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.11.36.jpg: door gap inn room 4
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.14.46.jpg: z-fighting outside inn room 2
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.27.53.jpg: misaligned door in Percy's upstairs
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.29.24.jpg: floating book
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.30.26.jpg: floating coins
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.32.12.jpg: bottomless model
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.35.20.jpg: no ground
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.35.50.jpg: floating barrel
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.38.22.jpg: floating book
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.40.15.jpg: gap at top of stairs
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.44.11.jpg: door gap Ingleby bathroom
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_19.52.17.jpg: frob painting through wall
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_20.10.04.jpg: bay window poking through mansion window
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_20.33.10.jpg: misaligned lock
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_20.34.00.jpg: door gap Ingleby kitchen
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_20.34.20.jpg: z-fighting Ingleby kitchen
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_20.44.54.jpg: Hales note missing 'me'
+    - 
+
+    no change:
+
+    - https://www.dropbox.com/s/qvi1gpqivuv05tc/HareInTheSnareBetaScreenies3.rar?dl=0&file_subpath=%2Fhareinthesnare_2021-02-15_20.52.48.jpg: this door doesn't exactly fit the frame. Leaving as is
+
+- Amadeus' screenshots
+    - https://drive.google.com/file/d/1_IoOgJtsEDxUaYxX1lRixJQaA-jz9IWN/view?usp=sharing: fixed. dodgy brushwork in Percy's
+    - https://drive.google.com/file/d/1MUWosdCnkjbrAGE7-BKFDSVJMZh-oHpD/view?usp=sharing: fixed. z-fighting on railings
+    - https://drive.google.com/file/d/1JGrQfka_1laj35Xa8k34Cn_FM4TWK2Xj/view?usp=sharing: fixed. capping of wall modules
+    - https://drive.google.com/file/d/1Gr9_q4HoN272jKiPVwtqrNf8zqCOnW_O/view?usp=sharing: fixed. portalled inn room
+    - https://drive.google.com/file/d/1dpCKkAJr0WNNzdMuUmMPhWkFbi_ZUikd/view?usp=sharing: fixed. weird stair texture
+    - https://drive.google.com/file/d/18PzVx_Ix_tJSq6M9NUxoTpu9cLJCBa_0/view?usp=sharing: fixed. safe textures
+    - https://drive.google.com/file/d/18Nmi5fdGNzZIHNSXxkDxSjZkBJAV4d6S/view?usp=sharing: fixed. redid all stair clip brushes
+    - https://drive.google.com/file/d/1BTFs7miuk5SUQ0LQ8s24rCHx8iyQ-VB3/view?usp=sharing: mansion lights, WIP
+    - https://drive.google.com/file/d/1ERbE-tm9Dvad3B_w_vHhudeKiyf9WMGG/view?usp=sharing: z-fighting on exterior walls, WIP
+
+
+    no changes:
+    - https://drive.google.com/file/d/1lGRiDLN4gKm6geSWSYVtN6_cDJ_2COmc/view?usp=sharing: guard alert on open doors: guard will alert on some open doors on expert difficulty
+    - https://drive.google.com/file/d/1K-F_Z4iKW97g2VvbaPWR1NAsP8Dbh8UU/view?usp=sharing: light leak. weird one:
+        - closing the window (portal) stops the leak making me think that it's not a 'noshadows' light. Also setting noshadows and noshadows_lit on the entity flame makes no difference at all.
+        - the candle casts shadows (you can see this)
+        - thought it might be something to do with the transparent window texture, but changing to an opaque one makes no difference
+
 v0.15:
 
 General fixes to address issues raised by all testers:

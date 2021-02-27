@@ -4,32 +4,26 @@ maps/man2/mission_briefing
  
  "page1_body" :
  {
+   "Thief,"
    ""
+   "    We share a mutual acquaintance in one of your affiliates, a man known only to me as Jacobs."
    ""
-   "Thieves.  We don't have many that we would call friends."
+   "    I would not call him a friend, as such, but perhaps you might? He has certainly spoken of you with admiration and kindness, though I dare say it comes as a surprise to learn that I, a Watch Captain, have solicited the use of his talents."
    ""
-   "The one who would come closest to that for myself is a man called Jacobs."
-   ""
-   "He was a mentor of sorts.  My skills eventually surpassed his and I no longer needed his guidance."
+   "    Rest assured I am of no threat to you. I write only to inform you that Jacobs has gone missing and I now fear the worst for him. You may not yet be aware of it, but the current coal shortage has brought with it a number of mysterious"
   }
  "page2_body" :
  {
+   "disappearances, and I am convinced it would be prudent to investigate the matter outside of City Watch methods due to certain suspicions I should prefer to keep to myself." 
    ""
+   "    To that end I did task Jacobs with sniffing about the streets and reporting his findings back to me. He last made contact by a smuggled note from within the Hare in the Snare Inn on Bedford Road, shortly before his disappearance."
    ""
-   "We still remain in touch however."
-   ""
-   "When we last spoke he mentioned that a wealthy lord has recently moved into a rough part of town and has been shaking things up."
-   ""
-   "This Lord has driven the locals out and property prices up."
-   ""
-   "Jacobs reckons he should be an easy target, and set off to check things out."
+   "    I have since taken up his former lodgings at the inn, room number two, but have found my uniform to be of hindrance to my investigation. A less direct approach is required, and I believe I have little choice other than to now place my trust in you."
  }
  "page3_body" :
  {
+   "    I shall spend every evening in the inn's tavern, until very late. Within my room is a locked chest that contains all the incentive you might need to begin your search. Please make haste for Jacobs' sake, and make every effort to avoid direct contact with me should you enter the tavern. I shall not acknowledge your presence."
    ""
-   ""
-   "It has been a few days since I've heard from him."
-   ""
-   "It's time to investigate.  I understand he was staying at The Hare in the Snare Inn on Bedford Road..."
+   "Captain Williams, City Watch"
  }
 }

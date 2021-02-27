@@ -1,7 +1,8 @@
 Credits
 -------
 
-Story and Mapping: Frost_Salamander
+Mapping and original characters: Frost_Salamander
+Story, readables, artwork and player voice: Kerry000
 
 Beta testers:
 - Cambridge Spy
@@ -10,7 +11,10 @@ Beta testers:
 - Acolytesix
 - Lzocast
 - wesp5
+- nbohr1more
+- Kerry000
 
 Additional thanks:
-- Dragofer, for kindly offering help and advice)
+- Dragofer, nborh1more and peter_spy for technical help
 - Springheel, for the modules and tutorials 
+- everyone else on Discord and the TDM forums who offered assistance

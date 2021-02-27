@@ -1,0 +1,74 @@
+textures/darkmod/decals/papers/coal_shortage
+{
+	//DECAL_MACRO       // this includes the following settings:
+	//polygonOffset 1   // this causes the poster to appear black for some reason
+	discrete
+	sort decal
+	 noShadows
+
+	qer_editorimage	textures/darkmod/decals/papers/coal_shortage
+	diffusemap      textures/darkmod/decals/papers/coal_shortage
+	bumpmap         _flat
+	specularmap     _black
+	nonsolid
+	noimpact
+}
+
+textures/darkmod/decals/papers/missing
+{
+	qer_editorimage	textures/darkmod/decals/papers/missing
+	diffusemap      textures/darkmod/decals/papers/missing
+	bumpmap         _flat
+	specularmap     _black
+	nonsolid
+	noimpact
+	discrete
+	sort decal
+	 noShadows
+}
+
+textures/darkmod/wood/signs/sign_shield_hare_5
+{   
+	qer_editorimage	textures/darkmod/wood/signs/sign_shield_rab_005
+	wood
+	diffusemap  textures/darkmod/wood/signs/sign_shield_rab_005
+	bumpmap         _flat
+	specularmap     _black
+}
+
+textures/darkmod/wood/signs/sign_shield_hare_dark
+{
+	qer_editorimage	textures/darkmod/wood/signs/sign_shield_rab_dark
+	wood
+	diffusemap  textures/darkmod/wood/signs/sign_shield_rab_dark
+	bumpmap         _flat
+	specularmap     _black
+}
+
+textures/darkmod/wood/signs/sign_shield_hare_dark_grime
+{
+	qer_editorimage	textures/darkmod/wood/signs/sign_shield_rab_dark_grime_ed
+	wood
+	diffusemap  textures/darkmod/wood/signs/sign_shield_rab_dark_grime
+	bumpmap         _flat
+	specularmap     _black
+}
+
+textures/darkmod/decorative/toys/teddy_bear_mat
+{
+	qer_editorimage		textures/darkmod/decorative/toys/teddy_bear_mat_ed
+	diffusemap			textures/darkmod/decorative/toys/teddy_bear_mat  
+	bumpmap				_flat
+	specularmap			_black
+}
+
+textures/darkmod/custom/hanged_man
+{
+
+	twoSided
+
+	qer_editorimage		textures/darkmod/custom/hanged_man_ed
+	diffusemap			textures/darkmod/custom/hanged_man
+	bumpmap 			textures/darkmod/custom/hanged_man_local
+	specularmap _black
+}

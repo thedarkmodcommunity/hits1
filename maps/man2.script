@@ -1,0 +1,37 @@
+void poison_stew(entity stew)
+{
+    // Only allow this if you've found Jacobs
+    float objectiveState = $player1.getObjectiveState(1);
+    sys.println("objective state: " + objectiveState);
+
+    if (objectiveState == 1)
+    {
+        // done, prevent further frobbing
+        stew.setFrobable(0);
+        stew.startSound("snd_addpoison", SND_CHANNEL_UNUSED, false);
+        sys.wait(2);
+
+        sys.println("You have completed the objective!");
+
+        // play the voiceover and give it time to finish
+        //sys.trigger($trigger_relay_1);
+        //sys.wait(4);
+
+        // objective complete
+        $player1.setObjectiveState(4, 1);
+    }
+    else
+    {
+         sys.println("The objective is not ready!");
+    }
+}
+
+void make_stew_froabable()
+{
+    $daltons_stew.setFrobable(1);
+}
+
+void main()
+{
+	sys.waitFrame();
+}
