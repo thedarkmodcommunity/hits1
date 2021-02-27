@@ -100,7 +100,7 @@ eaxreverb "location_highclere_hall_closet" {
   preset WOODEN_CUPBOARD
 }
 eaxreverb "location_ingleby_upstairs" {
-  preset WOODEN_HALL
+  preset WOODEN_MEDIUMROOM
 }
 eaxreverb "location_ingleby_bedroom1" {
   preset WOODEN_SMALLROOM
