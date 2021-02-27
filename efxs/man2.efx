@@ -94,7 +94,10 @@ eaxreverb "location_ingleby_guestroom" {
   preset WOODEN_SMALLROOM
 }
 eaxreverb "location_highclere_hall" {
-  preset WOODEN_HALL
+  preset WOODEN_SMALLROOM
+}
+eaxreverb "location_highclere_hall_closet" {
+  preset WOODEN_CUPBOARD
 }
 eaxreverb "location_ingleby_upstairs" {
   preset WOODEN_HALL

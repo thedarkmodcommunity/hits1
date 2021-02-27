@@ -42,7 +42,7 @@ Captain Williams,
 
 As you've ignored my direct order and gone ahead with your investigation anyway, I must appeal to you as a friend. Please John, just walk away this once. The message has come right from the very top this time. Twistleton and whatever he's cooked up down there is to be given a very wide birth. And he's not the only one we've been warned to steer clear of, either. I cannot protect you if you pursue this matter any further. You of all people know that those who run this city did not gain such power without climbing a mountain of skulls.
 
-And whatever you do, please DO NOT go ahead with your plans to involve a thief in this mess, now matter how talented he may be. You're a good officer and I am proud of you for always taking a stand in the face of political interference in Watch matters, but I fear this time you may be poking a most deadly nest of vipers.
+And whatever you do, please DO NOT go ahead with your plans to involve a thief in this mess, no matter how talented he may be. You're a good officer and I am proud of you for always taking a stand in the face of political interference in Watch matters, but I fear this time you may be poking a most deadly nest of vipers.
 
 Come away for the weekend with Caroline and I, won't you? Let us reminisce over the good old days while you help me plan my retirement.
 
@@ -53,12 +53,13 @@ Commander Robert Fleeting, City Watch
 
 
 Good, you've made it this far without arousing suspicion. 
+
 Before he disappeared, Jacobs managed to report that street dwellers were being lured into the underbelly of this very inn after dark, never to be seen again. He is not the first to have noticed such misdeeds taking place across the city, but he is the first to have identified one of the dark holes into which they appear to have vanished.
 
 Jacobs specifically informed me of which room he had rented and I searched it thoroughly when I arrived. Please take this key that was hidden here. I believe Jacobs intended it for you, though I am fearful of what you might find at the end of where it leads. He was a clever chap, Jacobs, and he always said you'd come for him should he find himself in danger. 
 
 Since my presence at the inn will have given cause to halt any untoward activities for the temporary duration of my stay, it is imperative that you now set about finding out what happened to Jacobs. He is a most vital witness.
-Also see what you can dig up about Lord Twistleton, owner of the tenancy attached to the inn, called Highclere House. He resides in the large home across the street. The man is surely involved and no doubt keeps a journal, which I’d also like you to acquire for me.
+Also see what you can dig up about Lord Twistleton, owner of the tenancy attached to the inn, called Highclere House. He resides in the large home across the street. The man is surely involved and no doubt keeps a journal, which I'd also like you to acquire for me.
 
 PS. Remember, do not attempt to speak to me in this place. We will meet another time.
 
@@ -72,7 +73,7 @@ One does not take up employ with the likes of P without assuming great risk. Is 
 
 "Watch him day and night," they said. Had I only known that "Lord" Twistleton is the most lethargic dullard to have ever landed his arse in the butter. But credit where it's due, he is meticulous and we are even doubling our quota without drawing much attention to ourselves. All it takes is a single mistake for one of these staging points to come undone, then all the rest will soon follow. In that regard, at least, Twistleton has inspired confidence. I hear they first found him right here in Bridgeport, running a smalltime smuggling ring! Lucky bugger. He's made a good choice in hiring Hales, and her two "assistants" have proven to be quite... capable.
 
-Yet the comforts of this new life do not make up for the awful meals. Even the regiment provided better slop than this miserable cook. What has gotten into him? Most likely the drink, I'd wager. Still, onward and upward, so they say. I'll keep an eye over Twistleton's shoulder as duty requires of me and, whenever fancy strikes, continue to grow my secret collection for when the time comes to move on (I just hope my wife doesn't think I'm heading that way for light night snacks each time!)
+Yet the comforts of this new life do not make up for the awful meals. Even the regiment provided better slop than this miserable cook. What has gotten into him? Most likely the drink, I'd wager. Still, onward and upward, so they say. I'll keep an eye over Twistleton's shoulder as duty requires of me and, whenever fancy strikes, continue to grow my secret collection for when the time comes to move on (I just hope my wife doesn't think I'm heading that way for late night snacks each time!)
 
 -----
 
@@ -98,10 +99,10 @@ I believe I shall be forced to complain directly to Twistleton. I must catch him
 
 8) THOMAS' DIARY (Closed book - old)
 
-I am going to be in so much trouble. Not been here a month me, and already I’m in the kacky bucket. Why did I go and stick my nose in? 
-They all been saying the cook’s got one foot in the grave already, so when I sees him packing rat poison in the larder with that look of death on his face, I get the most terrible feeling that something bad is to happen. So what did I do? I waited ‘til he was gone, then I went to pour that poison down the sink. But then I hears someone coming and I was so scared it might be Hales that I tossed it into the coal sacks in storage and hurried back to my room. Stupid Thomas, because when I went back the next day to find it, all the coal sacks was gone! And I don’t know where they been taken. Where is all the coal being used in this place? I can’t ask the innkeeper ‘cos he’ll want to know what I done, and I dare not ask Hales ‘cos she’ll show me where it is and I am not sure I really want to know. 
+I am going to be in so much trouble. Not been here a month me, and already I'm in the kacky bucket. Why did I go and stick my nose in? 
+They all been saying the cook's got one foot in the grave already, so when I sees him packing rat poison in the larder with that look of death on his face, I get the most terrible feeling that something bad is to happen. So what did I do? I waited 'til he was gone, then I went to pour that poison down the sink. But then I hears someone coming and I was so scared it might be Hales that I tossed it into the coal sacks in storage and hurried back to my room. Stupid Thomas, because when I went back the next day to find it, all the coal sacks was gone! And I don't know where they been taken. Where is all the coal being used in this place? I can't ask the innkeeper 'cos he’ll want to know what I done, and I dare not ask Hales 'cos she'll show me where it is and I am not sure I really want to know. 
 
-The cook doesn’t seem to have noticed yet, but soon he will. Oh why did I not just mind my own business? 
+The cook doesn't seem to have noticed yet, but soon he will. Oh why did I not just mind my own business? 
 
 I fear that is not the worst of it, either. I have also been woken in the night by the sounds of people crying in the hallway nearby. It seems to have stopped now that the Watch Captain has taken board in room two, but whatever is going on I count it a blessing we are told to stay in our rooms at night. 
 
@@ -162,7 +163,7 @@ I don't know what I've come to dread more each day, my growing sense of guilt, H
 When Lord Twistleton assumed the role of benefactor I was naively hopeful of a windfall for the old Hare, free from worry. Yet I now find myself drowning in self pity and dread. I should have known it was all too good to be true. My grandfather built this inn and it is through my greed that it shall now be destroyed.
 Blood money. That's what this is. And I am unforgivably complicit. Those poor, poor souls. I hear them crying, sometimes. Or is that me?
 
-Reminder: The Moor in Room 3 complained about the noise of the water tank again. Send Thomas up to the roof to investigate.
+Reminder: The Moor in Room 4 complained about the noise of the water tank again. Send Thomas up to the roof to investigate.
 
 -----
 
@@ -172,7 +173,7 @@ Roland,
 
 While I admit the way you've consistently managed to remain drunk for an entire week is rather impressive, the quality of your cooking is not. Just what is the matter with you? Of all the layabouts around here, you have given me the least trouble up until now. You wear a perpetual mask of horror as though you've seen a ghost and, quite frankly, you smell. Pick yourself up or one of these days the Daltons are going to complain about their meals, and I won't be here to save you when they do.
 
-On that note, Twistleton has decided to keep the pair of them locked away down there while the Watch Captain is staying at the inn. Until I say otherwise, I want you to leave their daily meals on the table below this note. I myself will take their food down to them each day, and I’ll make sure everyone knows not to go near it. The brothers will likely eat the ears off anyone who touches their meals.
+On that note, Twistleton has decided to keep the pair of them locked away down there while the Watch Captain is staying at the inn. Until I say otherwise, I want you to leave their daily meals on the table below this note. I myself will take their food down to them each day, and I'll make sure everyone knows not to go near it. The brothers will likely eat the ears off anyone who touches their meals.
  
 Hales
 

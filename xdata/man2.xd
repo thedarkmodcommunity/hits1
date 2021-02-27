@@ -82,7 +82,7 @@ readables/man2/journal_thomas
 	"page1_left_body"	:
 	{
 		""
-		"    I am going to be in so much trouble. Not been here a month, me, and already I’m in the kacky bucket. Why did I go and stick my nose in? "
+		"    I am going to be in so much trouble. Not been here a month, me, and already I'm in the kacky bucket. Why did I go and stick my nose in? "
 		""
 		"    They all been saying the cook’s got one foot in the grave already, so when I sees him packing rat poison in the larder with that look of death on his face, I get the most terrible feeling that something bad is to happen. So what did I do? I waited 'til he was gone, then I went "
 	}
@@ -95,7 +95,7 @@ readables/man2/journal_thomas
 		""
 		"to pour that poison down the sink. But then I heard someone coming and I was so scared it might be Hales that I tossed it into the coal sacks in storage and hurried back to my room. "
 		""
-		"    Stupid Thomas, because when I went back the next day to find it, all the coal sacks was gone! And I don't know where they been taken. Where is all the coal being used in this place? I can’t ask the innkeeper cos he'll"
+		"    Stupid Thomas, because when I went back the next day to find it, all the coal sacks was gone! And I don't know where they been taken. Where is all the coal being used in this place? I can't ask the innkeeper cos he'll"
 	}
 	"page2_left_title"	:
 	{
@@ -257,7 +257,7 @@ readables/man2/journal_ingleby
 	"page3_left_body"	:
 	{
 		""
-		"upward, so they say. I'll keep an eye over Twistleton's shoulder as duty requires of me and, whenever fancy strikes, continue to grow my secret collection for when the time comes to move on (I just hope my wife doesn't think I'm heading that way for light night snacks each time!)"
+		"upward, so they say. I'll keep an eye over Twistleton's shoulder as duty requires of me and, whenever fancy strikes, continue to grow my secret collection for when the time comes to move on (I just hope my wife doesn't think I'm heading that way for late night snacks each time!)"
 	}
 	"page3_right_title"	:
 	{
@@ -532,7 +532,7 @@ readables/man2/note_williams
 	"page2_body"	:
 	{
 		""
-		"    And whatever you do, please DO NOT go ahead with your plans to involve a thief in this mess, now matter how talented he may be. You're a good officer and I am proud of you for always taking a stand in the face of political interference in Watch matters, but I fear this time you may be poking a most deadly nest of vipers."
+		"    And whatever you do, please DO NOT go ahead with your plans to involve a thief in this mess, no matter how talented he may be. You're a good officer and I am proud of you for always taking a stand in the face of political interference in Watch matters, but I fear this time you may be poking a most deadly nest of vipers."
 		""
 		"    Come away for the weekend with Caroline and I, won't you? Let us reminisce over the good old days while you help me plan my retirement."
 		""
@@ -758,7 +758,7 @@ readables/man2/newspaper_coal_shortage
 		""
 		"    Mayor Goddard has warned of yet another increase in the price of coal, as \"the shortage will likely extend further than \"initially expected\" over the coming months."
 		""
-		"    The Mayor went on to assure those who gathered in protest that they would \"not be deprived of coal, only required to pay a little more for it.\" When pressed to provide an nswer as to what sum he considered to be \"a little more\", Mayor Goddard replied that \"only time will tell,\" and further pleaded for"
+		"    The Mayor went on to assure those who gathered in protest that they would \"not be deprived of coal, only required to pay a little more for it.\" When pressed to provide an answer as to what sum he considered to be \"a little more\", Mayor Goddard replied that \"only time will tell,\" and further pleaded for"
 	}
 	"page1_right_title"	:
 	{
@@ -788,7 +788,7 @@ readables/man2/newspaper_missing_persons
 		""
 		"    A spate of mysterious disappearances of steet dwellers has prompted the Commander of the City Watch to pass public comment. Commander Fleeting reports that the number of missing persons has been greatly exaggerated by the public, and warns against \"jumping to conclusions\" as to the cause of the disappearances."
 		""
-		"    When asked if the City Watch had opened an investigation inot the matter, the Commander replied that details of the case were not for public knowledge."
+		"    When asked if the City Watch had opened an investigation into the matter, the Commander replied that details of the case were not for public knowledge."
 	}
 	"page1_right_title"	:
 	{
@@ -933,7 +933,7 @@ readables/man2/note_from_williams
 	"page2_body"	:
 	{
 		""
-		" intended it for you, though I am fearful of what you might find at the intended it for you, though I am fearful of what you might find at the end of where it leads. He was a clever chap, Jacobs, and he always said you'd come for him should he find himself in danger. "
+		"intended it for you, though I am fearful of what you might find at the  end of where it leads. He was a clever chap, Jacobs, and he always said you'd come for him should he find himself in danger. "
 		""
 		"    Since my presence at the inn will have given cause to halt any untoward activities for the temporary duration of my stay, it is imperative that you now set about finding out what happened to Jacobs. He is a most vital witness."
 		""
@@ -946,7 +946,7 @@ readables/man2/note_from_williams
 	"page3_body"	:
 	{
 		""
-		"Twistleton, owner of the tenancy attached to the inn, called Highclere House. He resides in the large home across the street. The man is surely involved and no doubt keeps a journal, which I’d also like you to acquire for me."
+		"Twistleton, owner of the tenancy attached to the inn, called Highclere House. He resides in the large home across the street. The man is surely involved and no doubt keeps a journal, which I'd also like you to acquire for me."
 		""
 		"PS. Remember, do not attempt to speak to me in this place. We will meet another time."
 	}
@@ -1065,7 +1065,7 @@ readables/man2/hales_note_to_roland
 	{
 		""
 		""
-		"    On that note, Twistleton has decided to keep the pair of them locked away down there while the Watch Captain is staying at the inn. Until I say otherwise, I want you to leave their daily meals on the table below this note. I myself will take their food down to them each day, and I’ll make sure everyone knows not to go near it. The brothers will likely eat the ears off anyone who touches their meals."
+		"    On that note, Twistleton has decided to keep the pair of them locked away down there while the Watch Captain is staying at the inn. Until I say otherwise, I want you to leave their daily meals on the table below this note. I myself will take their food down to them each day, and I'll make sure everyone knows not to go near it. The brothers will likely eat the ears off anyone who touches their meals."
 		""
 		"Hales"
 	}
@@ -1292,7 +1292,7 @@ readables/man2/ingleby_spy_journal
 		""
 		"Day 22"
 		""
-		"All day in private study (sigh!)."
+		"All day in private study (sigh!)"
 		""
 		"No visitors."
 	}
@@ -1349,7 +1349,7 @@ readables/man2/journal_merchant
 		""
 		"(and who can afford not to when everything depends upon it so?) "
 		""
-		"    Don't them nobs at the Mayor's table see that raising the coal price means everything else becomes more expensive up the line? The coal is taxed too, and so's our purchases being taxed by percentage of they rising sales price. So now the taxes are also steadily ris...Oh. "
+		"    Don't them nobs at the Mayor's table see that raising the coal price means everything else becomes more expensive up the line? The coal is taxed too, and so's our purchases being taxed by percentage of they rising sales price. So now the taxes are also steadily ris... Oh. "
 		""
 		"Those taffing nob bastards!"
 	}
