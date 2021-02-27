@@ -3,7 +3,7 @@ savegames
 *.aas32
 *.aas_rat
 *.proc
-*.cm
+maps/*.cm
 *.bak
 *.bkup
 *.zip

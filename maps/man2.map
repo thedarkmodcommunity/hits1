@@ -43244,7 +43244,7 @@ patchDef3
 {
 "classname" "atdm:key_mysterious_2"
 "name" "key_master"
-"inv_map_start" "1"
+"inv_map_start" "0"
 "origin" "-253 13 -52"
 "rotation" "1 0 0 0 1 0 0 0 1"
 }
@@ -69584,7 +69584,7 @@ brushDef3
 "name" "light_candleflame_1"
 "canBeBlownOut" "1"
 "light_center" "0 0 0"
-"light_radius" "58 50 110"
+"light_radius" "106 74 110"
 "origin" "960 320 136"
 }
 // entity 3316

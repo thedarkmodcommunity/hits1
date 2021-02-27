@@ -2,14 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "912703" } 
-		KeyValue { "LastCameraAngle" "-8.99999 93.3 0" } 
-		KeyValue { "LastCameraPosition" "1248.11 360.273 147.462" } 
-		KeyValue { "LastShaderClipboardMaterial" "textures/common/nodraw" } 
+		KeyValue { "EditTimeInSeconds" "913594" } 
+		KeyValue { "LastCameraAngle" "-12.6 326.1 0" } 
+		KeyValue { "LastCameraPosition" "1001.54 351.872 146.059" } 
+		KeyValue { "LastShaderClipboardMaterial" "textures/common/collision" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 912703 }
+		TotalSecondsEdited { 913594 }
 	}
 	SelectionGroups
 	{
@@ -212,6 +212,7 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 719 { "" }
 		SelectionGroup 721 { "" }
 		SelectionGroup 723 { "" }
+		SelectionGroup 728 { "" }
 	}
 	SelectionGroupNodeMapping
 	{
@@ -1292,6 +1293,8 @@ DarkRadiant Map Information File Version 2
 		Node { ( 3375 ) ( 723 ) } // entity (func_static_2557)
 		Node { ( 3376 ) ( 723 ) } // entity (func_static_2562)
 		Node { ( 3377 ) ( 723 ) } // entity (func_static_2563)
+		Node { ( 3378 ) ( 728 ) } // entity (func_static_2130)
+		Node { ( 3379 ) ( 728 ) } // entity (noose_pendulum)
 	}
 	Layers
 	{
