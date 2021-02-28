@@ -69,7 +69,7 @@ textures/darkmod/custom/hanged_man_v8
    
    qer_editorimage  textures/darkmod/custom/hanged_man_v8_ed
    diffusemap       textures/darkmod/custom/hanged_man_v8
-   bumpmap 			textures/darkmod/custom/hanged_man_v8_local
-   //bumpmap			_flat
+   //bumpmap 			textures/darkmod/custom/hanged_man_v8_local
+   bumpmap			_flat
    specularmap      _black
 }
