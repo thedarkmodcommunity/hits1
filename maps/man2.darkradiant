@@ -2,14 +2,10 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "913594" } 
-		KeyValue { "LastCameraAngle" "-12.6 326.1 0" } 
-		KeyValue { "LastCameraPosition" "1001.54 351.872 146.059" } 
-		KeyValue { "LastShaderClipboardMaterial" "textures/common/collision" } 
-	}
-	MapEditTimings
-	{
-		TotalSecondsEdited { 913594 }
+		KeyValue { "EditTimeInSeconds" "921195" } 
+		KeyValue { "LastCameraAngle" "5.70003 100.2 0" } 
+		KeyValue { "LastCameraPosition" "734.7 292.653 -354.761" } 
+		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/nature/dirt/dirt_packed_muddy" } 
 	}
 	SelectionGroups
 	{
@@ -2709,6 +2705,15 @@ DarkRadiant Map Information File Version 2
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 13 } // brush (Brush)
+		Node { 13 } // brush (Brush)
+		Node { 13 } // brush (Brush)
+		Node { 13 } // brush (Brush)
+		Node { 13 } // brush (Brush)
+		Node { 13 } // brush (Brush)
+		Node { 13 } // brush (Brush)
+		Node { 13 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // entity (CompassEasy2)
 		Node { 0 } // entity (LanternEasy2)
@@ -7782,6 +7787,34 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (func_static_2130)
 		Node { 0 } // entity (noose_pendulum)
 		Node { 0 } // brush (Brush)
+		Node { 0 } // entity (func_static_2146)
+		Node { 0 } // entity (func_static_2151)
+		Node { 13 } // entity (func_static_2155)
+		Node { 13 } // entity (func_static_2158)
+		Node { 13 } // entity (func_static_2152)
+		Node { 13 } // entity (func_static_2156)
+		Node { 13 } // entity (func_static_2157)
+		Node { 13 } // entity (func_static_2159)
+		Node { 13 } // entity (func_static_2160)
+		Node { 13 } // entity (func_static_2161)
+		Node { 13 } // entity (func_static_2163)
+		Node { 13 } // entity (func_static_2164)
+		Node { 13 } // entity (func_static_2165)
+		Node { 13 } // entity (func_static_2153)
+		Node { 13 } // entity (func_static_2154)
+		Node { 13 } // entity (func_static_2162)
+		Node { 13 } // entity (func_static_2166)
+		Node { 13 } // entity (func_static_2167)
+		Node { 13 } // entity (func_static_2168)
+		Node { 13 } // entity (func_static_2169)
+		Node { 13 } // entity (func_static_2170)
+		Node { 13 } // entity (func_static_2171)
+		Node { 13 } // entity (func_static_2174)
+		Node { 13 } // entity (func_static_2176)
+	}
+	MapEditTimings
+	{
+		TotalSecondsEdited { 921195 }
 	}
 	SelectionSets
 	{

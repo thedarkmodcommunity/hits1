@@ -64,9 +64,8 @@ textures/darkmod/decorative/toys/teddy_bear_mat
 
 textures/darkmod/custom/hanged_man
 {
-
 	twoSided
-
+	
 	qer_editorimage		textures/darkmod/custom/hanged_man_ed
 	diffusemap			textures/darkmod/custom/hanged_man
 	bumpmap 			textures/darkmod/custom/hanged_man_local
