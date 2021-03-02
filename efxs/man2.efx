@@ -120,3 +120,6 @@ eaxreverb "location_hunter_lounge" {
 eaxreverb "location_hunter_manbeast" {
   preset WOODEN_CUPBOARD
 }
+eaxreverb "location_hunter_bedroom" {
+  preset WOODEN_MEDIUMROOM
+}
