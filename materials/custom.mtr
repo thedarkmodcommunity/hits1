@@ -62,14 +62,20 @@ textures/darkmod/decorative/toys/teddy_bear_mat
 	specularmap			_black
 }
 
-textures/darkmod/custom/hanged_man_v8
+textures/darkmod/custom/hang_beam_v2
 {
-   
-   flesh
-   
-   qer_editorimage  textures/darkmod/custom/hanged_man_v8_ed
-   diffusemap       textures/darkmod/custom/hanged_man_v8
-   //bumpmap 			textures/darkmod/custom/hanged_man_v8_local
-   bumpmap			_flat
+   qer_editorimage  textures/darkmod/custom/hang_beam_v2_ed
+   diffusemap       textures/darkmod/custom/hang_beam_v2
+   bumpmap 	        _flat
    specularmap      _black
+}
+
+textures/darkmod/custom/hanged_man_v9e
+{
+	flesh
+
+	qer_editorimage		textures/darkmod/custom/hanged_man_v9e_ed
+	diffusemap			textures/darkmod/custom/hanged_man_v9e
+	bumpmap 			textures/darkmod/custom/hanged_man_v9e_local
+	specularmap			_black
 }

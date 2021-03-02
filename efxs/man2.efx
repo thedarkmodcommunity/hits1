@@ -111,3 +111,12 @@ eaxreverb "location_ingleby_bedroom2" {
 eaxreverb "location_ingleby_bathroom" {
   preset WOODEN_CUPBOARD
 }
+eaxreverb "location_hunter_hall" {
+  preset WOODEN_SMALLROOM
+}
+eaxreverb "location_hunter_lounge" {
+  preset WOODEN_MEDIUMROOM
+}
+eaxreverb "location_hunter_manbeast" {
+  preset WOODEN_CUPBOARD
+}
