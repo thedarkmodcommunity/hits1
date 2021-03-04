@@ -1312,9 +1312,9 @@ readables/man2/ingleby_spy_journal
 		""
 		"All day in private study. "
 		""
-		"Visitor: Hales. "
+		"Visitor: Hales"
 		""
-		"Much yelling, unclear (door shut). T visibly shaken afterwards."
+		"Much yelling, unclear (door shut), T visibly shaken afterwards."
 	}
 	"page2_left_title"	:
 	{
@@ -1362,7 +1362,7 @@ readables/man2/ingleby_spy_journal
 		""
 		"Day 24"
 		""
-		"All day in private study? Can’t be certain after yesterday. I’d better rethink my strategy. "
+		"All day in private study? Can't be certain after yesterday. I'd better rethink my strategy. "
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_camberic.gui"
 	"gui_page2"	: "guis/readables/books/book_calig_camberic.gui"
@@ -1382,9 +1382,10 @@ readables/man2/journal_merchant
 	"page1_left_body"	:
 	{
 		""
-		"    Even Smirks has now closed they doors for good. Poor buggers. Them's was the oldest coal merchant in town. Been here over a century, they has."
+		"   Even Smirks has now closed they doors for good. Poor buggers. Them's was the oldest coal merchants in town. Been here over a century, they has."
 		""
-		"    What I don't understand is how come there still seems to be such a steady supply of coal, while it's only the price what keeps going up during a so-called shortage? I don't know anyone what can't actually buy coal if they's willing to pay for it "
+		"   What I don't understand is how come there's still such a steady supply of coal, while it's only the price what keeps going up? I don't know anyone what can't actually buy coal if they's willing to pay for it, and who can "
+		""
 	}
 	"page1_right_title"	:
 	{
@@ -1393,9 +1394,10 @@ readables/man2/journal_merchant
 	"page1_right_body"	:
 	{
 		""
-		"(and who can afford not to when everything depends upon it so?) "
+		"afford not to when everything depends upon it so? "
 		""
-		"    Don't them nobs at the Mayor's table see that raising the coal price means everything else becomes more expensive up the line? The coal is taxed too, and so's our purchases being taxed by percentage of they rising sales price. So now the taxes are also steadily ris... Oh. "
+		"Don't them nobs at the Mayor's table see that raising the coal price means all products become more expensive up the line? And our purchases are already being taxed by percentage of they rising sales price. So now the taxes are also steadily ris..."
+		"Oh."
 		""
 		"Those taffing nob bastards!"
 	}
