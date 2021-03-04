@@ -1447,3 +1447,38 @@ readables/man2/note_jacobs_cell
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_jd_hand.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
+
+
+readables/man2/note_roland_room
+{
+	precache
+	"num_pages"	: "2"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		""
+		"Roland,"
+		""
+		"   Where have you wandered off to? Of all the layabouts around here you have given me the least trouble up until now, but know that my leniency is quickly fading."
+		""
+		"I have ordered Thomas to carry out your cooking duties in your absence, despite the fact that he cooks about as well as he carries out his maintenance duties. This cannot go on much longer. "
+		""
+		"When you see this note, come and find me at once."
+		""
+		"Hales"
+	}
+	"page2_title"	:
+	{
+		""
+	}
+	"page2_body"	:
+	{
+		""
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
+	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
