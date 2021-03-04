@@ -878,7 +878,7 @@ readables/man2/moor_note
 		""
 		"Ahemut,"
 		""
-		"  Our dealings with Bridgeport are of much secrecy. Not even Lord Twistleton is to be told the destination of the captives. Do not mention Ridgeback Bridge or the barges, even in the slightest. All they need to know is what they already see, an iron wagon taking the captives away. They do not need to know where it goes. This instruction comes from Lord Twistleton's own masters in Bridgeport itself."
+		"  Our dealings with Bridgeport are of much secrecy. Not even the Lord Twistleton is to be told the destination of the captives. Do not mention Ridgeback Bridge or the barges. All he and his people need to know is what they already see, an iron wagon taking the captives away. They do not need to know where it goes. This instruction comes from Lord Twistleton's own masters in Bridgeport itself."
 		""
 	}
 	"page2_title"	:
@@ -888,6 +888,8 @@ readables/man2/moor_note
 	"page2_body"	:
 	{
 		""
+		""
+		"  Your only task is to liaise with the Bridgeport people to ensure a steady supply, and keep your mouth shut."
 		""
 		"  Do your duty well, and perhaps we might negotiate your son's marriage upon your return. Fail in your duty, and perhaps we might discuss his funeral."
 		""
