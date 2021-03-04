@@ -1482,3 +1482,93 @@ readables/man2/note_roland_room
 	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
+
+
+readables/man2/note_milly
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		""
+		"To whoever took away the last delivery of coal, my order of rat poison came in with that same delivery and I want it back. Next time check the sacks before you cart them all off to whatever it is you're doing back there."
+		""
+		"Milly "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_andrew_script.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/journal_humphrey
+{
+	precache
+	"num_pages"	: "1"
+	"page1_left_title"	:
+	{
+		""
+	}
+	"page1_left_body"	:
+	{
+		"    "
+		"    I am certainly no stranger to being pecked, scratched, kicked, and shrieked at, but this is the first time I've ever been bitten by one. I didn't know they could do that. I must make note of this new development. "
+		""
+		"   Also, I really must discover how they keep getting out. It won't do to have a pet that is able to ambush its owner any time it pleases."
+		""
+	}
+	"page1_right_title"	:
+	{
+		""
+	}
+	"page1_right_body"	:
+	{
+		""
+		"The wife is now fed up with treating my injuries and this time she's followed through with her threats to walk out. I ought to buy some fresh flowers and take them round to her mother's. "
+		"Which reminds me, I had better replace the ones I forgot to water before she gets back. "
+		""
+		"    Whatever happened to the peasant woman selling flowers out in the lane? "
+	}
+	"gui_page1"	: "guis/readables/books/book_calig_camberic.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/note_angrywife
+{
+	precache
+	"num_pages"	: "2"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		""
+		"   For Builder's sake, Humphrey, I told you I did not want any more of these things in the house! Where do you keep finding them?"
+		"You will abandon this ridiculous quest to make a pet of the wretched creatures at once. It's making the whole house stink and, quite frankly, I hate it."
+		""
+		"   That my own husband's attentions are so easily diverted towards something so absurd is more than a little upsetting. Every time it escapes I jump at the sound of your sudden squealing and my shattered nerves can "
+	}
+	"page2_title"	:
+	{
+		""
+	}
+	"page2_body"	:
+	{
+		""
+		"stand it no longer. Just how do you let it keep getting the better of you?"
+		""
+		"   I am going to stay with my mother. Do not come calling unless that miserable monstrosity is gone. I mean it this time. And you had better water my flowers while I'm away!"
+		""
+		"Your wife (remember me?) "
+		""
+		"PS. I still can't find my wedding ring. I am certain it must have come off the last time that creature had to be restrained from tearing you to shreds."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
