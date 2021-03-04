@@ -838,11 +838,12 @@ readables/man2/note_hales_to_thugs_mess
 	"page1_body"	:
 	{
 		""
+		""
 		"Clean this mess up!"
 		""
-		"    I told you two to keep him quiet, not cut out his bloody tongue. Was that really necessary? You couldn't just gag him? It's already difficult enough to keep them all under control without them having to hear the screams of a man having his tongue severed. Your poor mother must have dropped you two on your heads when you were little troll babies."
+		"   I told you two to keep him quiet, not cut out his bloody tongue. Was that really necessary? You couldn't just gag him? It's already difficult enough to keep them all under control without them having to hear the screams of a man having his tongue severed. Your poor mother must have dropped you two on your heads when you were little troll babies."
 		""
-		"    I have ensured that this Jacobs has been shipped off with all the others. You had better hope they're not required to speak when they get to wherever they're all being sent to. If they send him back I'll send the pair of "
+		"   I have ensured that this Jacobs has been shipped off with all the others. You had better hope they're not required to speak when they get to wherever they're all being sent to."
 	}
 	"page2_title"	:
 	{
@@ -851,9 +852,10 @@ readables/man2/note_hales_to_thugs_mess
 	"page2_body"	:
 	{
 		""
-		"you out there to replace him!"
 		""
-		"    Make sure you pile the dead ones into the pit for burning. And I'd better not find out that any died because of something you did. You morons are on very thin ice."
+		"If they return him I shall send the pair of you out there to replace him!"
+		""
+		"   Make sure you pile the dead ones into the pit for burning. And I'd better not find out that any died because of something you did. You morons are on very thin ice."
 		""
 		"Hales"
 	}
@@ -876,7 +878,7 @@ readables/man2/moor_note
 		""
 		"Ahemut,"
 		""
-		"    Our dealings with Bridgeport are of much secrecy. Not even Lord Twistleton is to be told the destination of the captives. Do not mention Ridgeback Bridge or the barges, even in the slightest. All they need to know is what they already see, an iron wagon taking the captives away. They do not need to know where it goes. This instruction comes from our business associates in Bridgeport itself. You know who I am referring to."
+		"  Our dealings with Bridgeport are of much secrecy. Not even Lord Twistleton is to be told the destination of the captives. Do not mention Ridgeback Bridge or the barges, even in the slightest. All they need to know is what they already see, an iron wagon taking the captives away. They do not need to know where it goes. This instruction comes from Lord Twistleton's own masters in Bridgeport itself."
 		""
 	}
 	"page2_title"	:
@@ -886,14 +888,13 @@ readables/man2/moor_note
 	"page2_body"	:
 	{
 		""
-		"    Just make sure the barges keep getting a steady supply, and keep Lord Twistleton reassured that we are commending him to his masters."
 		""
-		"    Do your job well, and perhaps we might negotiate your son's marriage upon your return. Fail in your job, and perhaps we might discuss his funeral."
+		"  Do your duty well, and perhaps we might negotiate your son's marriage upon your return. Fail in your duty, and perhaps we might discuss his funeral."
 		""
 		"Vazir Zahib"
 	}
-	"gui_page1"	: "guis/readables/scrolls/scroll_calig_camberic.gui"
-	"gui_page2"	: "guis/readables/scrolls/scroll_calig_camberic.gui"
+	"gui_page1"	: "guis/readables/scrolls/scroll_calig_rapscallionpirate.gui"
+	"gui_page2"	: "guis/readables/scrolls/scroll_calig_rapscallionpirate.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -1129,9 +1130,10 @@ readables/man2/hales_note_to_daltons
 		""
 		"Morons!"
 		""
-		"    You've lost the spare key to this door, haven't you? That's why I found it still unlocked when I came down to light the pit fire. Because you inbred knuckle-draggers are too stupid to figure out where your key went, am I correct? Merely nod, taffers, because you know that I am."
+		"    You've lost the spare key to this door, haven't you? That's why I found it still unlocked when I came down to light the pit fire. Because you knuckle-draggers are too stupid to figure out where your key went, am I correct? Merely nod, taffers, because you know that I am."
 		""
-		"    Now where could your key possibly have got to? Apply your tiny minds to the problem and you might just work it out. Well, no, you probably won't, so pay close attention and sound the words out: Jacobs. Was. A. Thief. What does that tell you? Perhaps he'd have explained it himself if you two hadn't gotten so carried away. Well, "
+		"    Now where could your key possibly have got to? Apply your tiny minds to the problem and you might just work it out. Well, no, you likely won't, so pay close attention and sound the words out: Jacobs. Was. A. Thief. "
+		"What does that tell you? Perhaps he'd have explained it himself if you two "
 	}
 	"page2_title"	:
 	{
@@ -1140,9 +1142,10 @@ readables/man2/hales_note_to_daltons
 	"page2_body"	:
 	{
 		""
-		"you're not borrowing my key. "
+		"hadn't gotten so carried away. "
+		"Well, you're not borrowing my key."
 		""
-		"    The pair of you can just stay locked down here so that there's no chance of the Watch Captain seeing you while he's staying at the inn. I will bring down your meals when I next feel like it."
+		"    The pair of you can just stay locked away down here so that there's no chance of the Watch Captain seeing you while he's staying at the inn. I will bring down your meals when I next feel like it."
 		""
 		"Hales"
 	}
@@ -1410,11 +1413,11 @@ readables/man2/note_jacobs_cell
 	"page1_body"	:
 	{
 		""
-		"    Hello frend. I did not dowt you would come for me. I hop you are doing good. Do not be cross I told a copper captin about you. He is on to sumthing wat is to do with coal and some taffers wat are playing god and you can trust him. They did sumthing bad to me and I do not no wat they will do with me next. "
+		"    Hello frend. I did not dowt you would come for me. I hop you are doing good. Do not be cross I told a copper captin about you. He is on to sumthing wat is to do with coal and some taffers wat are playing god and you can trust him. "
 		""
-		"    If I am dead I want you to have my savings but not all my savings 'cos you must give sum to my mum. That means missus Plumtree not my akshul mum wat is a bich. "
+		"   They did sumthing bad to me and I do not no wat they will do with me next. If I am dead I want you to have my savings but not all my savings 'cos you must give sum to my mum. That means missus Plumtree not my akshul mum wat is a slut. "
 		""
-		"    Thank you for helping me that time and also the other time and you are a good frend."
+		"   Thank you for helping me that time and also the other time and you are a good frend."
 		""
 		"Jacobs"
 		"  "
