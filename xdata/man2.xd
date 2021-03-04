@@ -179,9 +179,9 @@ readables/man2/journal_roland
 	}
 	"page1_body"	:
 	{
-		"    Oh Builder forgive me, my little girl. To see you living upon the streets these years past, so ashamed was I that I turned my head and hurried on by. So ashamed am I still. 'Twas you that felt my belt when your mother left us. 'Twas you that felt my fists."
+		"    Oh Builder forgive me, my own daughter. To see you living upon the streets these years past, so ashamed was I that I turned my head and hurried on by. So ashamed am I still. 'Twas you that felt my belt when your mother left us. 'Twas you that felt my fists."
 		""
-		"   Oh Builder forgive me, for those times are but nothing compared to the night gone by when I cracked the hallway door and saw you being forced along with all the others. The"
+		"   Oh Builder forgive me, for those times are but nothing compared to the night gone by when I cracked the hallway door and saw you being "
 	}
 	"page2_title"	:
 	{
@@ -189,8 +189,8 @@ readables/man2/journal_roland
 	}
 	"page2_body"	:
 	{
-		"poor and the weak. Led to that hell beyond the trapdoor by those thugs. "
-		"Oh yes, I know what goes on down there. Those poor folk are not going to a better place. "
+		"forced along with all the others. The poor and the weak. Led to that hell beyond the trapdoor by those merciless thugs. "
+		""
 		"And you saw me. You recognised me. And I watched all hope vanish from your face, as you would have known for certain that your own papa would not lift a finger to help you."
 		""
 		"   So ashamed am I.  "
@@ -1445,5 +1445,130 @@ readables/man2/note_jacobs_cell
 		""
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_jd_hand.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/note_roland_room
+{
+	precache
+	"num_pages"	: "2"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		""
+		"Roland,"
+		""
+		"   Where have you wandered off to? Of all the layabouts around here you have given me the least trouble up until now, but know that my leniency is quickly fading."
+		""
+		"I have ordered Thomas to carry out your cooking duties in your absence, despite the fact that he cooks about as well as he carries out his maintenance duties. This cannot go on much longer. "
+		""
+		"When you see this note, come and find me at once."
+		""
+		"Hales"
+	}
+	"page2_title"	:
+	{
+		""
+	}
+	"page2_body"	:
+	{
+		""
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
+	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/note_milly
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		""
+		"To whoever took away the last delivery of coal, my order of rat poison came in with that same delivery and I want it back. Next time check the sacks before you cart them all off to whatever it is you're doing back there."
+		""
+		"Milly "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_andrew_script.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/journal_humphrey
+{
+	precache
+	"num_pages"	: "1"
+	"page1_left_title"	:
+	{
+		""
+	}
+	"page1_left_body"	:
+	{
+		"    "
+		"    I am certainly no stranger to being pecked, scratched, kicked, and shrieked at, but this is the first time I've ever been bitten by one. I didn't know they could do that. I must make note of this new development. "
+		""
+		"   Also, I really must discover how they keep getting out. It won't do to have a pet that is able to ambush its owner any time it pleases."
+		""
+	}
+	"page1_right_title"	:
+	{
+		""
+	}
+	"page1_right_body"	:
+	{
+		""
+		"The wife is now fed up with treating my injuries and this time she's followed through with her threats to walk out. I ought to buy some fresh flowers and take them round to her mother's. "
+		"Which reminds me, I had better replace the ones I forgot to water before she gets back. "
+		""
+		"    Whatever happened to the peasant woman selling flowers out in the lane? "
+	}
+	"gui_page1"	: "guis/readables/books/book_calig_camberic.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/note_angrywife
+{
+	precache
+	"num_pages"	: "2"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		""
+		"   For Builder's sake, Humphrey, I told you I did not want any more of these things in the house! Where do you keep finding them?"
+		"You will abandon this ridiculous quest to make a pet of the wretched creatures at once. It's making the whole house stink and, quite frankly, I hate it."
+		""
+		"   That my own husband's attentions are so easily diverted towards something so absurd is more than a little upsetting. Every time it escapes I jump at the sound of your sudden squealing and my shattered nerves can "
+	}
+	"page2_title"	:
+	{
+		""
+	}
+	"page2_body"	:
+	{
+		""
+		"stand it no longer. Just how do you let it keep getting the better of you?"
+		""
+		"   I am going to stay with my mother. Do not come calling unless that miserable monstrosity is gone. I mean it this time. And you had better water my flowers while I'm away!"
+		""
+		"Your wife (remember me?) "
+		""
+		"PS. I still can't find my wedding ring. I am certain it must have come off the last time that creature had to be restrained from tearing you to shreds."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
