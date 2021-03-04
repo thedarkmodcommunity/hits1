@@ -281,7 +281,7 @@ readables/man2/journal_ingleby
 readables/man2/journal_twistleton
 {
 	precache
-	"num_pages"	: "3"
+	"num_pages"	: "4"
 	"page1_left_title"	:
 	{
 		""
@@ -289,7 +289,7 @@ readables/man2/journal_twistleton
 	"page1_left_body"	:
 	{
 		""
-		"    They believe me a fool, the lot of them! But was it not I who discovered an inn built above a disused mine shaft? Is it not I who has now more than doubled his quota? Can any of the others across Bridgeport say the same? If I am a fool, then why did P choose me to oversee this sector? Not to mention entrusting me with hosting the Moors?"
+		"    They believe me a fool, the lot of them! But was it not I who discovered an inn built above a disused mine? Is it not I who has now more than doubled his quota? Can any of the others in Bridgeport say the same? If I am a fool, then why did P choose me to oversee this sector? Not to mention entrusting me with hosting the Moor liaison?"
 	}
 	"page1_right_title"	:
 	{
@@ -297,8 +297,10 @@ readables/man2/journal_twistleton
 	}
 	"page1_right_body"	:
 	{
+		" "
+		"     Yet they send a spy to masquerade as my secretary, to watch me as though they doubt my competence. The sheer arrogance of it, as if a life in the sewers hadn't taught me to smell a rat among the kacky."
 		""
-		"    Yet I'm not certain I shall remain able to continue much longer. Soon I shall be forced to take my hidden valuables and start afresh, somewhere far away from this forsaken city and the likes of P and his cronies. They did not grow up on these streets as I did. They have not thought this through to the end. Pretty soon the Builders are going to get involved, for it is their"
+		"     Nevertheless, I am not certain I shall remain able to continue much longer. Soon I "
 	}
 	"page2_left_title"	:
 	{
@@ -307,9 +309,9 @@ readables/man2/journal_twistleton
 	"page2_left_body"	:
 	{
 		""
-		"forges that are most in need  of coal. Say what you like about those zealots, but they shall cave P's skull when they learn the truth. And I for one intend to be a long way away when that happens."
+		"shall be forced to take my hidden valuables and start afresh, somewhere far away from this forsaken city and the likes of P and his fat cronies. They did not grow up on these streets as I did. They have not thought this through to the end."
 		""
-		"    Besides, I do not have the stomach for this. I cannot see the unfortunates as cattle the way Hales does. It "
+		"     Pretty soon the Builders are going to get involved, for it is their forges that are "
 	}
 	"page2_right_title"	:
 	{
@@ -318,9 +320,10 @@ readables/man2/journal_twistleton
 	"page2_right_body"	:
 	{
 		""
-		"was I who convinced P to hire her. I noted her ruthless  determination in my previous life and, more to the point, her abject hatred of street dwellers. I am not certain from whence it stems. Perhaps her time as a Watch Officer jaded her, or perhaps she was herself a victim of some sort? I dare not ask. "
+		"most in need of coal. Say what you like about those zealots, but they do not put up with nonsense. They'll likely cave P's skull when they learn the truth, and I for one intend to be a long way away when that happens."
 		""
-		"    If my time as a smuggler "
+		"     Besides, I do not have the "
+		"stomach for this. I cannot see the unfortunates as cattle the way Hales does. And to think  "
 	}
 	"page3_left_title"	:
 	{
@@ -329,9 +332,9 @@ readables/man2/journal_twistleton
 	"page3_left_body"	:
 	{
 		""
-		"taught me anything, it was how to avoid a certain type of copper."
+		"it was I who convinced P to hire her. "
 		""
-		"Such a pretty, hateful creature."
+		"     In my former life I had noted her ruthlessly efficient determination and, more to the point, her abject hatred of street dwellers. I am not certain from whence it stems. Perhaps her time as a Watch Officer jaded her, or perhaps she herself was a victim of some sort?  I dare "
 	}
 	"page3_right_title"	:
 	{
@@ -340,10 +343,30 @@ readables/man2/journal_twistleton
 	"page3_right_body"	:
 	{
 		""
+		"not ask. If my time as a smuggler taught me anything, it was how to avoid a certain type of copper."
+		""
+		"     Such a pretty, hateful creature."
+	}
+	"page4_left_title"	:
+	{
+		""
+	}
+	"page4_left_body"	:
+	{
+		""
+	}
+	"page4_right_title"	:
+	{
+		""
+	}
+	"page4_right_body"	:
+	{
+		""
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_mac_humaine.gui"
 	"gui_page2"	: "guis/readables/books/book_calig_mac_humaine.gui"
 	"gui_page3"	: "guis/readables/books/book_calig_mac_humaine.gui"
+	"gui_page4"	: "guis/readables/books/book_calig_mac_humaine.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -502,11 +525,9 @@ readables/man2/note_twistleton_spy
 	{
 		""
 		""
-		"    I see you watching my study, you silly wet rag. You may have been a spy for your regiment, but I managed an illegal smuggling ring in some of Bridgeport's most dangerous slums."
+		"     I see you watching my study, you wet rag. You may have been a spy for your regiment, but I headed an illegal smuggling ring in some of Bridgeport's most dangerous slums."
 		""
-		"    You were born with a silver spoon in your mouth. I was born with a dagger in mine."
-		""
-		""
+		"You were born with a silver spoon in your mouth. I was born with a dagger in mine."
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_mac_humaine.gui"
 	"snd_page_turn"	: "readable_page_turn"
@@ -754,9 +775,8 @@ readables/man2/newspaper_coal_shortage
 	{
 		""
 		""
-		"    Mayor Goddard has warned of yet another increase in the price of coal, as \"the shortage will likely extend further than \"initially expected\" over the coming months."
-		""
-		"    The Mayor went on to assure those who gathered in protest that they would \"not be deprived of coal, only required to pay a little more for it.\" When pressed to provide an answer as to what sum he considered to be \"a little more\", Mayor Goddard replied that \"only time will tell,\" and further pleaded for"
+		"    Mayor Goddard has warned of yet another increase to the coal price, as \"the shortage will likely extend further than initially expected.\" A number of Bridgeport residents and small business owners have already complained of suffocating price hikes that have placed undue strain upon public wellbeing and profits. The Mayor went on to assure those who gathered in protest that they would \"not be deprived of coal, only required to pay a little more for it.\" "
+		"When pressed to provide an answer as to "
 	}
 	"page1_right_title"	:
 	{
@@ -765,7 +785,11 @@ readables/man2/newspaper_coal_shortage
 	"page1_right_body"	:
 	{
 		""
-		"the gathered souls to quietly return to their homes. \"Fat bloody chance,\" said city resident Mauldy Woodhouse, who wished to remain anonymous."
+		"what sum he considered to be \"a little more\", Mayor Goddard replied that \"the city's leadership will always prioritise the pockets of the people first,\" and further pleaded for the gathered souls to quietly return to their homes."
+		"\"Fat bloody chance,\" said city resident Mauldy Creviss, who wished to remain anonymous."
+		""
+		"Updates to the coal price will be published daily by the Bridgeport Review."
+		""
 	}
 	"gui_page1"	: "guis/readables/sheets/newspaper_bridgeport02.gui"
 	"snd_page_turn"	: "readable_page_turn"
@@ -1139,13 +1163,14 @@ readables/man2/hales_note_to_twistleton
 	"page1_body"	:
 	{
 		""
-		"Twistleton,"
+		"  Twistleton,"
 		""
-		"    I was right. Luring them with food is no longer working. They've caught on. I'll be sending the Daltons out to grab them directly off the streets from now on, as previously agreed. With the Watch instructed to look the other way, nobody will interfere."
+		"   I was right. Luring them with food is no longer working. They've caught on. I'll be sending the Daltons out to grab them directly off the streets from now on, as previously agreed. With the Watch instructed to look the other way, nobody will interfere."
 		""
-		"    I have also taken care of the thief, Jacobs. Unfortunately the Daltons got a little carried away, but nothing I can't handle."
+		"   I have also taken care of the thief, Jacobs. Unfortunately the Daltons got a little carried away, but nothing I can't handle. "
 		""
-		"    Regarding deaths, we are simply losing too many of them during the long wait for the wagon. They are weak and a lot of them are plagued with sickness. I'll set my personal feelings "
+		"   Regarding deaths, we are simply losing too many of them during the wait for the wagon. They are weak and some of them are plagued with sickness."
+		""
 	}
 	"page2_title"	:
 	{
@@ -1154,13 +1179,12 @@ readables/man2/hales_note_to_twistleton
 	"page2_body"	:
 	{
 		""
-		"aside for the sake of efficiency, and suggest we do something to make their stay a little more survivable. Perhaps some food and medication would be appropriate."
-		""
-		"    Those that die will continue to be burned in the pit after dark, but I do not approve of the wastage. Something must be done."
+		"   "
+		"   I'll set my personal feelings aside for the sake of efficiency, and suggest we do something to make their stay a little more survivable. Perhaps some food and medication would be appropriate. Those that die will continue to be burned in the pit after dark, but I do not approve of the wastage. Something must be done."
 		""
 		"Hales"
 		""
-		"PS. Do not get your nose out of joint over the incident with the accountant. He'll live."
+		"PS. Do not get your nose out of joint over the incident with the accountant. He will live."
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
 	"gui_page2"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
