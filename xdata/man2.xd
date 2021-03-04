@@ -172,19 +172,16 @@ readables/man2/note_twistleton_to_hales
 readables/man2/journal_roland
 {
 	precache
-	"num_pages"	: "2"
+	"num_pages"	: "3"
 	"page1_title"	:
 	{
 		""
 	}
 	"page1_body"	:
 	{
+		"    Oh Builder forgive me, my little girl. To see you living upon the streets these years past, so ashamed was I that I turned my head and hurried on by. So ashamed am I still. 'Twas you that felt my belt when your mother left us. 'Twas you that felt my fists."
 		""
-		"    Twas you! Oh Builder forgive me, my little girl. To see you living upon the streets these years past, so ashamed was I that I turned my head and hurried on by. So ashamed am I still. Twas you that felt my belt when your mother left us. Twas you that felt my fists."
-		""
-		"    Oh Builder forgive me, for those times are but nothing compared to the night gone by when I cracked the hallway door and saw you being pushed along with all the others. The poor and the weak. Led to that hell beyond the trapdoor by those merciless thugs. And you saw me. You recognised me. And I saw all hope vanish from your face, as you would have known for certain that your own papa would not lift a finger to help you."
-		""
-		""
+		"   Oh Builder forgive me, for those times are but nothing compared to the night gone by when I cracked the hallway door and saw you being forced along with all the others. The"
 	}
 	"page2_title"	:
 	{
@@ -192,15 +189,33 @@ readables/man2/journal_roland
 	}
 	"page2_body"	:
 	{
+		"poor and the weak. Led to that hell beyond the trapdoor by those thugs. "
+		"Oh yes, I know what goes on down there. Those poor folk are not going to a better place. "
+		"And you saw me. You recognised me. And I watched all hope vanish from your face, as you would have known for certain that your own papa would not lift a finger to help you."
 		""
-		"    So ashamed am I. My own daughter. My darling Yulia."
+		"   So ashamed am I.  "
+		"  I watched and I did nothing."
 		""
-		"    I am a coward and I shall meet a coward's end. I have purchased enough rat poison to kill an ox, and one day soon I shall place it in my morning tea. I shan't ever see you again, my daughter, for if there is life after death I shall be going to a different place than thee."
 		""
-		"Builder forgive me."
+		""
+		""
+		""
 	}
-	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_jd_hand.gui"
-	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_jd_hand.gui"
+	"page3_title"	:
+	{
+		""
+	}
+	"page3_body"	:
+	{
+		"I am a coward and I shall meet a coward's end. I shan't ever see you again, my daughter, for if there is life after death I shall be going to a different place than thee."
+		""
+		"   Builder forgive me."
+		""
+		"   Roland"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_treasure_map.gui"
+	"gui_page2"	: "guis/readables/sheets/sheet_paper_calig_treasure_map.gui"
+	"gui_page3"	: "guis/readables/sheets/sheet_paper_calig_treasure_map.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -1106,9 +1121,9 @@ readables/man2/hales_note_to_roland
 		""
 		"Thomas,"
 		""
-		"I don't want to hear any more of your whining. You are to do the cooking for all the staff until Roland turns up. That means cooking for the Ingleby family too. "
+		"   I don't want to hear any more of your whining. You are to cook the staff meals until Roland turns up. That includes cooking for the Ingleby nobs."
 		""
-		"Also, the Daltons are to be locked away while the Watch Captain is staying at the inn. Until I say otherwise, I want you to leave their meals on the table below this note. I will take their food down to them each day, and I'll make sure everyone knows not to go near it. I don't need to tell you what those two will do to anyone caught nicking from their plates. "
+		"   Also, the Daltons are to be locked away while the Watch Captain is staying at the inn. Until I say otherwise, I want you to leave their meals on the table below this note. I will take their food down to them each day, and I'll make sure everyone knows not to go near it. I don't need to tell you what those two will do to anyone caught nicking from their plates. "
 		" "
 		"Hales"
 		""
