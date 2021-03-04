@@ -30,6 +30,9 @@ eaxreverb "location_mansion_attic" {
 eaxreverb "location_mansion_bedroom" {
   preset WOODEN_LARGEROOM
 }
+eaxreverb "location_mansion_study" {
+  preset WOODEN_MEDIUMROOM
+}
 eaxreverb "location_inn" {
   preset WOODEN_MEDIUMROOM
 }
