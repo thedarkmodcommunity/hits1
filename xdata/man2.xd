@@ -1572,3 +1572,26 @@ readables/man2/note_angrywife
 	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
+
+
+readables/man2/note_alley
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		""
+		""
+		"Sees them, I do. In and out, in and out, but where does they go? Nowhere good, that's for sure. "
+		""
+		"Keep my head down I will. Won't let them see me. But I must write down what I seen going on. That shouty woman and those evil buggers what takes everyone away."
+		""
+		"Still, the pickings be good now that I has these streets to myself."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_shoppinglist.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
