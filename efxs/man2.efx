@@ -129,3 +129,9 @@ eaxreverb "location_hunter_manbeast" {
 eaxreverb "location_hunter_bedroom" {
   preset WOODEN_MEDIUMROOM
 }
+eaxreverb "location_alley" {
+  preset CITY_STREETS
+}
+eaxreverb "location_alley_house" {
+  preset WOODEN_SMALLROOM
+}

@@ -1,76 +1,3 @@
-readables/man2/innkeeper_journal
-{
-	precache
-	"num_pages"	: "2"
-	"page1_left_title"	:
-	{
-		"13/01"
-	}
-	"page1_left_body"	:
-	{
-		""
-		""
-		"This arrangement with Lord Twistleton is proving beneficial indeed.  I may finally be able to fix this place up. It was once the finest inn in the region, but the previous owner let it fall into disrepair."
-	}
-	"page1_right_title"	:
-	{
-		"06/02"
-	}
-	"page1_right_body"	:
-	{
-		""
-		""
-		"That fellow staying in room 2 is asking too many questions.  He was pestering the barmaid the other night about the other staff, and even asked if she ever sees Twistleton around.  I might have a word with Hales about him..."
-		""
-		"And what on earth is that Captain Williams doing here? He said he's here on official business with the local officers, but he's making me nervous.  He refused to use our footlockers, instead"
-	}
-	"page2_left_title"	:
-	{
-		""
-	}
-	"page2_left_body"	:
-	{
-		""
-		"insisting that the one he brought for 'training equipment' is all he needs."
-	}
-	"page2_right_title"	:
-	{
-		""
-	}
-	"page2_right_body"	:
-	{
-		""
-	}
-	"gui_page1"	: "guis/readables/books/book_hand_jd_hand.gui"
-	"gui_page2"	: "guis/readables/books/book_hand_jd_hand.gui"
-	"snd_page_turn"	: "readable_page_turn"
-}
-
-
-readables/man2/staff_note
-{
-	precache
-	"num_pages"	: "1"
-	"page1_title"	:
-	{
-		"To all staff,"
-	}
-	"page1_body"	:
-	{
-		""
-		""
-		""
-		"Please access flat 3 using your ground floor entrance from this point forward."
-		""
-		"The Landlord,"
-		""
-		"L.T."
-	}
-	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_mac_humaine.gui"
-	"snd_page_turn"	: "readable_page_turn"
-}
-
-
 readables/man2/journal_thomas
 {
 	precache
@@ -385,121 +312,6 @@ readables/man2/journal_twistleton
 	"snd_page_turn"	: "readable_page_turn"
 }
 
-
-readables/man2/note_twistleton_from_hales
-{
-	precache
-	"num_pages"	: "2"
-	"page1_title"	:
-	{
-		""
-	}
-	"page1_body"	:
-	{
-		""
-		""
-		"Sir,"
-		""
-		"I'm afraid there's been an... incident. "
-		""
-		"Bennet the innkeeper informed me that someone by the name of Jacobs was making a lot of inquiries about goings -on at the inn, and they weren't about 'commercial opportunities'."
-		""
-		"As I was preparing to investigate, I caught the very same fellow snooping around Highclere House.  He was easily "
-	}
-	"page2_title"	:
-	{
-		""
-	}
-	"page2_body"	:
-	{
-		""
-		"disarmed,but clammed up when questioned."
-		""
-		"I took him down into the tunnel and handed him over to the Daltons for further interrogation, but unfortunately they got a bit carried away."
-		""
-		"Rest assured, this will be dealt with and you shall not hear anymore about it again."
-		""
-		"Hales"
-	}
-	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
-	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
-	"snd_page_turn"	: "readable_page_turn"
-}
-
-
-readables/man2/note_thugs_from_hales
-{
-	precache
-	"num_pages"	: "1"
-	"page1_title"	:
-	{
-		""
-	}
-	"page1_body"	:
-	{
-		"You two morons need to clean up your mess in the next room.  I even brought you some shovels."
-		""
-		"When you finish that, come and see me for your wages and then I never want to see either of you again.  When you were hired I explained, in excruciating detail, how we prefer to work here.  In retrospect, perhaps I used too many words."
-		""
-		"Hales"
-	}
-	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
-	"snd_page_turn"	: "readable_page_turn"
-}
-
-
-readables/man2/journal_jacobs
-{
-	precache
-	"num_pages"	: "2"
-	"page1_left_title"	:
-	{
-		"03/02"
-	}
-	"page1_left_body"	:
-	{
-		""
-		""
-		"...arrived at the inn tonight.  Not a bad place really, just needs a bit of a work.  Certainly not the dive I was expecting."
-		""
-		"The innkeeper got a bit funny though when I asked how business was going."
-	}
-	"page1_right_title"	:
-	{
-		"05/02"
-	}
-	"page1_right_body"	:
-	{
-		""
-		""
-		"According to the locals, half this town is owned by 'Lord' Twistleton, although the provenance of that title is suspect.  He apparently showed up about a year ago and started buying up property, starting with his house across the street, which I hear is pretty fancy."
-	}
-	"page2_left_title"	:
-	{
-		""
-	}
-	"page2_left_body"	:
-	{
-		"He's also acquired and renovated all of Morden Place, calling it 'Highclere House' and letting it out as flats to wealthier business-types who have more money than sense."
-		""
-		"Either way I'm going to see what else I can turn up.  Between the twitchy inkeeper and this dodgy Twistleton character "
-	}
-	"page2_right_title"	:
-	{
-		""
-	}
-	"page2_right_body"	:
-	{
-		"something is going on, and perhaps there is more to be had here than pilfering a few trinkets from a rich noble."
-		""
-		"I'll start by asking around in the tavern and then maybe having a nose around this Highclere House place..."
-	}
-	"gui_page1"	: "guis/readables/books/book_hand_ellianerelle.gui"
-	"gui_page2"	: "guis/readables/books/book_hand_ellianerelle.gui"
-	"snd_page_turn"	: "readable_page_turn"
-}
-
-
 readables/man2/percy_rich
 {
 	precache
@@ -575,7 +387,7 @@ readables/man2/note_williams
 		""
 		"   You're a good officer and I am proud of you for always taking a stand in the face of political interference in Watch matters, but I fear this time you may be poking a most deadly nest of vipers."
 		""
-		"   Come away for the weekend with Caroline and I, won't you? Let us reminisce over the good old days while you help me plan my retirement.t."
+		"   Come away for the weekend with Caroline and I, won't you? Let us reminisce over the good old days while you help me plan my retirement."
 		""
 		"Commander Robert Fleeting, "
 		"City Watch"
@@ -585,99 +397,6 @@ readables/man2/note_williams
 	"gui_page2"	: "guis/readables/scrolls/scroll_calig_medusa.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
-
-
-readables/man2/ledger_smugglers
-{
-	precache
-	"num_pages"	: "2"
-	"page1_left_title"	:
-	{
-		""
-	}
-	"page1_left_body"	:
-	{
-		"27/11/1634"
-		"Ship to: R. Bashar"
-		""
-		"Goods          Qty          Rcvd"
-		"-------------------------"
-		"Wheat          90kg       L2 14s"
-		"Leather        30kg       L4 5s      "
-		"Wool            40kg       L6 11s"
-		""
-		""
-	}
-	"page1_right_title"	:
-	{
-		""
-	}
-	"page1_right_body"	:
-	{
-		"02/12/1634"
-		"Ship to: M. Ludwig"
-		""
-		"Goods          Qty          Rcvd"
-		"-------------------------"
-		"Timber        110kg       L3 7s      "
-		"Lead             32kg       L9 16s"
-	}
-	"page2_left_title"	:
-	{
-		""
-	}
-	"page2_left_body"	:
-	{
-		"...more ledger entries..."
-	}
-	"page2_right_title"	:
-	{
-		""
-	}
-	"page2_right_body"	:
-	{
-		""
-	}
-	"gui_page1"	: "guis/readables/books/book_calig_mac_humaine.gui"
-	"gui_page2"	: "guis/readables/books/book_calig_mac_humaine.gui"
-	"snd_page_turn"	: "readable_page_turn"
-}
-
-
-readables/man2/note_parker
-{
-	precache
-	"num_pages"	: "2"
-	"page1_title"	:
-	{
-		""
-	}
-	"page1_body"	:
-	{
-		""
-		"Parker,"
-		""
-		"    Heed these words you little rat-faced twerp. If I ever catch you peeping through my keyhole again I will kick you so hard in the fork you'll be able to brush your teeth and scrub your bollocks at the same time. And then I'll hand you over to the Daltons."
-		"    Count yourself lucky that all you suffered was a broken nose and a twisted arm you'll feel on cold days forever hereafter. Do I make myself absolutely clear?"
-		"    Now that's settled, I am to remind you that maintaining an "
-	}
-	"page2_title"	:
-	{
-		""
-	}
-	"page2_body"	:
-	{
-		""
-		"accurate ledger of our \"exports\" is of far greater importance than keeping the books for the income of the inn. Every month you've been running late with the former since you've focused your attention solely upon the latter."
-		"    From now on prioritise exports first, and only then focus your attention on the finances for the inn. A steady income is guaranteed, paying guests or not."
-		""
-		"Hales"
-	}
-	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
-	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
-	"snd_page_turn"	: "readable_page_turn"
-}
-
 
 readables/man2/journal_ingleby_sr
 {
@@ -1101,7 +820,7 @@ readables/man2/journal_innkeeper
 		"My grandfather built this inn and it is through my greed that it shall now be destroyed. Blood money. "
 		"That's what this is. And I am unforgivably complicit. Those poor, poor souls. I hear them crying, sometimes. "
 		""
-		"Reminder: The Moor in Room 3 complained about the noise of the water tank again. Send Thomas up to the roof to investigate."
+		"Reminder: The Moor in Room 4 complained about the noise of the water tank again. Send Thomas up to the roof to investigate."
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_camberic.gui"
 	"snd_page_turn"	: "readable_page_turn"
@@ -1570,5 +1289,28 @@ readables/man2/note_angrywife
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/note_alley
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		""
+		""
+		"Sees them, I do. In and out, in and out, but where does they go? Nowhere good, that's for sure. "
+		""
+		"Keep my head down I will. Won't let them see me. But I must write down what I seen going on. That shouty woman and those evil buggers what takes everyone away."
+		""
+		"Still, the pickings be good now that I has these streets to myself."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_shoppinglist.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }

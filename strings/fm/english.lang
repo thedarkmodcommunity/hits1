@@ -12,12 +12,12 @@
 	"#str_20009"	"Roland's note"
 	"#str_20012"	"Sneak into Captain Williams' room at the inn to investigate his footlocker"
 	"#str_20013"	"Find out where the captives are being transported to (optional)"
-	"#str_20014"	"Get 6000 loot (optional)"
-	"#str_20015"	"When all objectives are complete, exit where you started"
+	"#str_20014"	"Get 3000 loot (optional)"
+	"#str_20015"	"When all objectives are complete, leave the area via the back door of the inn"
 	"#str_20016"	"Locate evidence of Jacobs' fate and steal Lord Twistleton's journal, then place both upon Captain Williams' desk"
 	"#str_20017"	"Find a way to make the Dalton brothers pay for what they did to Jacobs (optional)"
-	"#str_20018"	"Get 7000 loot (optional)"
-	"#str_20019"	"Get 8000 loot (optional)"
+	"#str_20018"	"Get 4000 loot (optional)"
+	"#str_20019"	"Get 5000 loot (optional)"
 	"#str_20020"	"Hales' key"
 	"#str_20021"	"Thomas' journal"
 	"#str_20022"	"Twistleton safe key"
@@ -33,7 +33,7 @@
 	"#str_20081"	"Inn master key"
 	"#str_20082"	"Inn secret key"
 	"#str_20083"	"Ahemut"
-	"#str_20084"	"Moor evidence"
+	"#str_20084"	"Moor letter"
 	"#str_20085"	"Williams' note"
 	"#str_20086"	"Ingleby's journal"
 	"#str_20087"	"Hales' journal"
@@ -43,3 +43,5 @@
 	"#str_20091"	"Note to Hales"
 	"#str_20092"	"Inn roof key"
 }
+
+
