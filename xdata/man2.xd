@@ -9,7 +9,8 @@ readables/man2/journal_thomas
 	"page1_left_body"	:
 	{
 		""
-		"   'Tis not fair. Not one bit. I was hired to be the one what fixes the buildings and keeps it all tip top. What right does Hales have to make me do the bleedin' cooking? It's not my fault Roland up and scarpered now, is it?"
+		"   'Tis not fair. Not one bit. I was hired to be the one what fixes the buildings and keeps it all tip top. What right does Hales have to make me do the bleedin' cooking? It's not my fault Roland up and scarpered "
+		" now, is it?"
 		""
 		"   Not surprised he did, mind you. Saw him coming from the hallway the other night, white as a sheet. Like a man what has looked into the very pits "
 	}
@@ -20,9 +21,9 @@ readables/man2/journal_thomas
 	"page1_right_body"	:
 	{
 		""
-		"of hell itself. I know them street sods aren't a pretty sight, but m'lord says they's been moved to a better place for work, so that can't be it. I wonder what Roland could have saw to make him go so white in the face? Heard him crying in his room later. All night it went on. Then the drinking started and now he's gone."
+		"of hell itself. I know them street sods aren't a pretty sight, but m'lord says they's being moved to a place of work, so that can't be it. I wonder what Roland could have saw to make him go so white in the face? Heard him crying in his room later. All night it went on. Then the drinking started and now he's   gone."
 		""
-		"   We's supposed to stay in our rooms when those Daltons "
+		"   We's supposed to stay in our rooms when them Daltons "
 	}
 	"page2_left_title"	:
 	{
@@ -31,9 +32,9 @@ readables/man2/journal_thomas
 	"page2_left_body"	:
 	{
 		""
-		"are moving people about anyways. So it should be Roland in the kacky, not me! I'm not the one what broke the rules. And why do I have to do the bleedin' cooking for the nobs upstairs, also? They's fancy staff, so let them get they's own fancy cook!"
+		"are moving people about, so it should be Roland in the kacky, not me! I'm not the one what broke the rules. And why do I have to do the bleedin' cooking for the nobs upstairs, also? They's fancy staff, so let them get they "
+		" own fancy cook!"
 		""
-		"   Will m'lord notice if I run away? I won't get my pay, but losing it is a small price for being free of this place."
 		""
 	}
 	"page2_right_title"	:
@@ -43,7 +44,6 @@ readables/man2/journal_thomas
 	"page2_right_body"	:
 	{
 		""
-		"   I just hope he don't send Hales and her two thugs after me."
 	}
 	"gui_page1"	: "guis/readables/books/book_hand_nancy.gui"
 	"gui_page2"	: "guis/readables/books/book_hand_nancy.gui"
@@ -62,7 +62,7 @@ readables/man2/note_twistleton_to_hales
 	"page1_body"	:
 	{
 		""
-		"Hales,"
+		"  Hales,"
 		""
 		"    I trust you to have taken care of it, but I am nevertheless unsettled by the fact that a common thief took it upon himself to start sniffing about down there. I am certain the arrival of a Watch Captain is not a coincidence. From now on I want that trapdoor locked at all times. Your Dalton brothers will simply have to stay down there until this troublesome Captain is convinced to move along. I have sent word "
 	}
@@ -75,7 +75,7 @@ readables/man2/note_twistleton_to_hales
 		""
 		"to P, who will no doubt act with alacrity to instruct the Watch Commander to bring his disobedient terrier to heel. I'll inform you when it is safe to resume activities."
 		""
-		"   In the interim I'd like you to do what you do so well and have a quiet word with that pompous prick, Percy. He's the new tenant in Highclere House. The fool stays up all night inscribing his silly \"introspections\" and has now taken notice of the gaol wagon arriving to collect the unfortunates."
+		"    In the interim I'd like you to do what you do so well and have a quiet word with that pompous prick, Percy. He's the new tenant in Highclere House. The fool stays up all night inscribing his silly \"introspections\" and has now taken notice of the gaol wagon arriving to collect the unfortunates."
 	}
 	"page3_title"	:
 	{
@@ -84,9 +84,10 @@ readables/man2/note_twistleton_to_hales
 	"page3_body"	:
 	{
 		""
-		" He still believes it to be comprised of \"drunken peasants\" and has taken it upon himself to \"instruct\" me to do something about the noise. The little shit. Still, we can't afford any further attention, or you and I will both find ourselves shoved in the wagon too! I suppose then we'll finally discover where they're all being transported to."
+		" He still believes it to be comprised of \"drunken peasants\" and has taken it upon himself to \"instruct\" me to do something about the noise. The little shit. Still, we can't afford any further attention, or you and I will both find ourselves shoved in the wagon too! I suppose then we'll finally discover where they're all being "
+		" transported to."
 		""
-		"T"
+		"   T"
 		""
 	}
 	"gui_page1"	: "guis/readables/scrolls/scroll_calig_mac_humaine.gui"
@@ -106,9 +107,9 @@ readables/man2/journal_roland
 	}
 	"page1_body"	:
 	{
-		"    Oh Builder forgive me, my own daughter. To see you living upon the streets these years past, so ashamed was I that I turned my head and hurried on by. So ashamed am I still. 'Twas you that felt my belt when your mother left us. 'Twas you that felt my fists."
+		"    Oh Builder forgive me, my own daughter. To see you living upon the streets these years past, so ashamed was I that I turned my head and hurried away. So ashamed am I still. 'Twas you that felt my belt when your mother left us. 'Twas you that felt my fists."
 		""
-		"   Oh Builder forgive me, for those times are but nothing compared to the night gone by when I cracked the hallway door and saw you being "
+		"   Suffer me beyond death, for those times are but nothing compared to the night gone by when I cracked the hallway door and saw you pushed"
 	}
 	"page2_title"	:
 	{
@@ -116,12 +117,12 @@ readables/man2/journal_roland
 	}
 	"page2_body"	:
 	{
-		"forced along with all the others. The poor and the weak. Led to that hell beyond the trapdoor by those merciless thugs. "
+		"along with all the others. The poor and the weak. Led to that hell beyond the trapdoor by those merciless thugs. "
 		""
-		"And you saw me. You recognised me. And I watched all hope vanish from your face, as you would have known for certain that your own papa would not lift a finger to help you."
+		"   You saw me. You recognised me. And I watched all hope vanish from your face, as you would have known for certain that your own papa would not lift a finger to help you."
 		""
 		"   So ashamed am I.  "
-		"  I watched and I did nothing."
+		"   I watched and I did nothing."
 		""
 		""
 		""
@@ -134,7 +135,8 @@ readables/man2/journal_roland
 	}
 	"page3_body"	:
 	{
-		"I am a coward and I shall meet a coward's end. I shan't ever see you again, my daughter, for if there is life after death I shall be going to a different place than thee."
+		"   I am a coward and I shall meet "
+		"a coward's end. I shan't ever see you again, my daughter, for if there is life after death I shall be going to a different place than thee."
 		""
 		"   Builder forgive me."
 		""
@@ -158,7 +160,7 @@ readables/man2/journal_ingleby
 	"page1_left_body"	:
 	{
 		""
-		"   If the boys from the regiment could see me now... What mockery I'd be made to endure! Soft hands, sequined gowns, and posh quarters in Highclere House. I suppose this particular suite having been seconded for staff housing might allow me to save a little face, though not by much. If only I could just explain to father that I am so much more than Twistleton's mere secretary. I am still the "
+		"    If the boys from the old regiment could see me now, what mockery I'd be made to endure! Soft hands, sequined gowns, and posh quarters in Highclere House. I suppose this particular suite having been seconded for staff housing might allow me to save a little face, though not by much. If only I could just explain to father that I am so much more than Twistleton's mere secretary. I am still the "
 	}
 	"page1_right_title"	:
 	{
@@ -167,9 +169,9 @@ readables/man2/journal_ingleby
 	"page1_right_body"	:
 	{
 		""
-		"soldier he raised, albeit in a different cut of cloth. But alas, knowing the truth would also spell his very demise."
+		"soldier he raised, albeit in a different cut of cloth. But alas, knowing the truth might also spell his very demise."
 		""
-		"    One does not take up a contract with the likes of P without assuming great risk. Is the gold worth it, I wonder? At least father will live in comfort while I carry out my clandestine duties. And what insufferable duties they have turned out to be."
+		"    One does not take up a contract with the likes of P without assuming great risk. At least father will live in comfort while I carry out my clandestine duties. And what insufferable duties they have turned out to be. \"Watch him day and night,\" they said. Had I only known "
 	}
 	"page2_left_title"	:
 	{
@@ -178,8 +180,8 @@ readables/man2/journal_ingleby
 	"page2_left_body"	:
 	{
 		""
-		"\"Watch him day and night,\" they said. Had I only known that \"Lord\" Twistleton is the most reserved dullard to have ever landed his arse in the butter. But credit where it's due, he is meticulous and we are even doubling our quota without drawing too much unwanted attention to ourselves."
-		"All it takes is a single mistake for one of these staging points to come undone, then all the rest will soon follow."
+		"that \"Lord\" Twistleton is the most reserved dullard to have ever landed his arse in the butter. But credit where it's due, he is meticulous and we are even doubling our quota without drawing too much unwanted attention to ourselves. In that regard, at least, Twistleton has inspired confidence. I hear they first found him right here in  Bridgeport running a small-time smuggling ring! No wonder he was able to "
+		""
 	}
 	"page2_right_title"	:
 	{
@@ -188,9 +190,9 @@ readables/man2/journal_ingleby
 	"page2_right_body"	:
 	{
 		""
-		"In that regard, at least, Twistleton has inspired confidence. I hear they first found him right here in Bridgeport, running a smalltime smuggling ring! No wonder he was able to recognise the talents of people like Hales. She and her two \"assistants\" have proven to be quite... capable."
+		"recognise the talents of people like Hales. "
 		""
-		"   Yet I am forced to wonder what affliction has come over the staff cook, Roland. Up until a week ago the food "
+		"   Yet I am forced to wonder what affliction has come over the staff cook, Roland? Up until a week ago the food about this place was quite exemplary, then suddenly we're fed the most inedible slop!  I should take a turn by the commoner's quarters, below. Perhaps quiet recognition from one of noble birth might put the spring back in his step. "
 	}
 	"page3_left_title"	:
 	{
@@ -199,9 +201,7 @@ readables/man2/journal_ingleby
 	"page3_left_body"	:
 	{
 		""
-		"about this place was quite exemplary, then suddenly we are forced to endure the kind of slop that makes the regimental mess seem positively gourmet by comparison. I should take a turn by the commoner's quarters, below. Perhaps quiet recognition from one of noble birth might put the spring back in his step. "
-		""
-		"   Still, onward and upward, so they say. I'll keep an eye over Twistleton's shoulder "
+		"    Still, onward and upward, so they say. I'll keep an eye over Twistleton's shoulder as duty requires of me, and it will give me time to continue growing my secret collection."
 	}
 	"page3_right_title"	:
 	{
@@ -210,8 +210,6 @@ readables/man2/journal_ingleby
 	"page3_right_body"	:
 	{
 		""
-		"as duty requires of me and, "
-		"whenever fancy strikes, continue to grow my secret collection. I just hope the wife doesn't think I'm heading that way for late night snacks each time!"
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_camberic.gui"
 	"gui_page2"	: "guis/readables/books/book_calig_camberic.gui"
@@ -223,7 +221,7 @@ readables/man2/journal_ingleby
 readables/man2/journal_twistleton
 {
 	precache
-	"num_pages"	: "4"
+	"num_pages"	: "3"
 	"page1_left_title"	:
 	{
 		""
@@ -231,7 +229,7 @@ readables/man2/journal_twistleton
 	"page1_left_body"	:
 	{
 		""
-		"    They believe me a fool, the lot of them! But was it not I who discovered an inn built above a disused mine? Is it not I who has now more than doubled his quota? Can any of the others in Bridgeport say the same? If I am a fool, then why did P choose me to oversee this sector? Not to mention entrusting me with hosting the Moor liaison?"
+		"    They believe me a fool, the lot of them. But was it not I who discovered an inn built above a disused mine? Is it not I who has now more than doubled his quota? Can any of the others in Bridgeport say the same? If I am a fool then why did P choose me to oversee this sector? Not to mention entrusting me with hosting the Moor liaison?"
 	}
 	"page1_right_title"	:
 	{
@@ -240,7 +238,8 @@ readables/man2/journal_twistleton
 	"page1_right_body"	:
 	{
 		" "
-		"     Yet they send a spy to masquerade as my secretary, to watch me as though they doubt my competence. The sheer arrogance of it, as if a life in the sewers hadn't taught me to smell a rat among the kacky."
+		"     Yet they send a spy to masquerade as my secretary, to watch me as though they doubt my competence. The sheer arrogance of it, as if a life in the sewers hadn't taught me to smell a rat "
+		" among the kacky."
 		""
 		"     Nevertheless, I am not certain I shall remain able to continue much longer. Soon I "
 	}
@@ -251,9 +250,9 @@ readables/man2/journal_twistleton
 	"page2_left_body"	:
 	{
 		""
-		"shall be forced to take my hidden valuables and start afresh, somewhere far away from this forsaken city and the likes of P and his fat cronies. They did not grow up on these streets as I did. They have not thought this through to the end."
+		"shall be forced to take my hidden valuables and start afresh, somewhere far away from this forsaken city and the likes of P and his fat cronies. They were not raised on these streets as I was. They have not thought this through to the end."
 		""
-		"     Pretty soon the Builders are going to get involved, for it is their forges that are "
+		"     Soon the Builders are going to get involved, for it is their forges that are most"
 	}
 	"page2_right_title"	:
 	{
@@ -262,7 +261,7 @@ readables/man2/journal_twistleton
 	"page2_right_body"	:
 	{
 		""
-		"most in need of coal. Say what you like about those zealots, but they do not put up with nonsense. They'll likely cave P's skull when they learn the truth, and I for one intend to be a long way away when that happens."
+		"in need of coal. Say what you like about those zealots, but they do not put up with nonsense. They'll likely cave P's skull in when they learn the truth, and I for one intend to be a long way away when that happens."
 		""
 		"     Besides, I do not have the "
 		"stomach for this. I cannot see the unfortunates as cattle the way Hales does. And to think  "
@@ -274,9 +273,11 @@ readables/man2/journal_twistleton
 	"page3_left_body"	:
 	{
 		""
-		"it was I who convinced P to hire her. "
+		"it was I who convinced P to hire her. In my former life I'd noted her ruthlessly efficient hatred towards street dwellers, though I am not certain from whence it stems. Perhaps she herself was once a victim of some sort?  I dare not ask. "
+		"If my time as a smuggler taught me anything, it was how to avoid a certain type "
+		" of copper."
 		""
-		"     In my former life I had noted her ruthlessly efficient determination and, more to the point, her abject hatred of street dwellers. I am not certain from whence it stems. Perhaps her time as a Watch Officer jaded her, or perhaps she herself was a victim of some sort?  I dare "
+		""
 	}
 	"page3_right_title"	:
 	{
@@ -285,32 +286,16 @@ readables/man2/journal_twistleton
 	"page3_right_body"	:
 	{
 		""
-		"not ask. If my time as a smuggler taught me anything, it was how to avoid a certain type of copper."
-		""
-		"     Such a pretty, hateful creature."
-	}
-	"page4_left_title"	:
-	{
-		""
-	}
-	"page4_left_body"	:
-	{
-		""
-	}
-	"page4_right_title"	:
-	{
-		""
-	}
-	"page4_right_body"	:
-	{
+		"     Such a pretty, hateful"
+		"  creature."
 		""
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_mac_humaine.gui"
 	"gui_page2"	: "guis/readables/books/book_calig_mac_humaine.gui"
 	"gui_page3"	: "guis/readables/books/book_calig_mac_humaine.gui"
-	"gui_page4"	: "guis/readables/books/book_calig_mac_humaine.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
+
 
 readables/man2/percy_rich
 {
@@ -387,16 +372,18 @@ readables/man2/note_williams
 		""
 		"   You're a good officer and I am proud of you for always taking a stand in the face of political interference in Watch matters, but I fear this time you may be poking a most deadly nest of vipers."
 		""
-		"   Come away for the weekend with Caroline and I, won't you? Let us reminisce over the good old days while you help me plan my retirement."
+		"   Come away for the weekend with Caroline and I, won't you? Let us reminisce over the good old days "
+		"while you help me plan my retirement."
 		""
-		"Commander Robert Fleeting, "
-		"City Watch"
+		"  Commander Robert Fleeting"
+		"  City Watch"
 		""
 	}
 	"gui_page1"	: "guis/readables/scrolls/scroll_calig_medusa.gui"
 	"gui_page2"	: "guis/readables/scrolls/scroll_calig_medusa.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
+
 
 readables/man2/journal_ingleby_sr
 {
@@ -409,7 +396,7 @@ readables/man2/journal_ingleby_sr
 	"page1_left_body"	:
 	{
 		"   "
-		"My son could have been anything. How he has fallen from renowned sleuth and toast of his peers during his time with the regiment. Truly, what greater duty than to spy upon our enemies for Builder and country? Such was his reputation that not so long ago was he invited to present his credentials to a host of nobility in a private "
+		"    My son could have been anything. How he has fallen from renowned sleuth and toast of his peers during his time with the regiment. Truly, what greater duty than to spy upon our enemies for Builder and country? Such was his reputation that not so long ago was he invited to present his credentials to a host of nobility in a private "
 	}
 	"page1_right_title"	:
 	{
@@ -420,7 +407,7 @@ readables/man2/journal_ingleby_sr
 		""
 		"soiree that included the Mayor himself! Whatever came of that meeting? I had such high hopes for the boy."
 		""
-		"   Yet here he is, a mere secretary to that Lord Twistleton, a recent arrival whose providence I deem highly suspect. Why has nobody ever heard of him? "
+		"    Yet here he is, a lowly secretary to that Lord Twistleton, a recent arrival whose provenance I deem highly suspect. Why has nobody ever heard of him? "
 		"I shall inquire further when I next get the chance. The man"
 	}
 	"page2_left_title"	:
@@ -442,7 +429,8 @@ readables/man2/journal_ingleby_sr
 	"page2_right_body"	:
 	{
 		""
-		"   Pity about the downturn in the quality the of vittles, though. The meals were adequate up until a week ago. One might expect a noble lord to have procured a finer cook. Succumbed to the drink, I'd wager."
+		"    Pity about the downturn "
+		"in the quality of the vittles, though. The meals were more than adequate up until a week ago. One might expect a noble lord to have procured a finer cook. Succumbed to the drink, I'd wager."
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_mac_humaine.gui"
 	"gui_page2"	: "guis/readables/books/book_calig_mac_humaine.gui"
@@ -461,7 +449,7 @@ readables/man2/journal_percy
 	"page1_left_body"	:
 	{
 		""
-		"    By the Builder this place is going to be the end of me. What was Twistleton thinking when he located Highclere House right beside an inn and tavern? Does he not know I am a man of thought and introspection who requires peace and quiet if I am to adequately inscribe my thoughts? No great writer ever had to put up with such endless  interruptions as I."
+		"    By the Builder this place is going to be the end of me. What was Twistleton thinking when he located Highclere House right beside an inn and tavern? Does he not know I am a man of thought and introspection who requires peace and quiet if I am to adequately inscribe my thoughts? No great writer ever had to put up with such endless interruptions as I."
 		""
 		""
 	}
@@ -542,9 +530,11 @@ readables/man2/newspaper_missing_persons
 	{
 		""
 		""
-		"    A spate of mysterious disappearances of street dwellers has prompted Commander Fleeting of the City Watch to pass public comment. He states that the number of missing persons has been greatly exaggerated by the public, and warns against \"jumping to conclusions\" as to the cause of the disappearances. "
-		"When asked if the City Watch had opened an investigation into the matter, the Commander replied that details of the case were not for public knowledge."
-		"Lord Pottinger of the Merchants Guild then"
+		"    A spate of mysterious disappearances of street dwellers has prompted Commander Fleeting of the City Watch to pass public comment. He states that the number of missing persons has been greatly exaggerated by the public, and warns against \"jumping to conclusions\" as to the cause of the issue."
+		" "
+		"   When asked if the City Watch had opened an investigation into the disappearances, "
+		"the Commander replied that details of the case were not for public knowledge. "
+		" Lord Pottinger of the Merchants Guild then"
 	}
 	"page1_right_title"	:
 	{
@@ -554,7 +544,8 @@ readables/man2/newspaper_missing_persons
 	{
 		""
 		""
-		"took to the podium in order to applaud the City Watch for a marked decrease in crime. He attributed the recently published crime report to \"fine police work,\" before going on to deny that any such drop in crime could possibly be related to the dwindling number of poor residents, stating \"I hadn't noticed any were missing, since I rarely notice them at all.\""
+		"took to the podium in order to applaud the City Watch for a marked decrease in crime. He attributed the recently published crime report to \"fine police work,\" before going on to deny that any such drop in crime could possibly be related to the dwindling number of poor residents, stating \"I hadn't noticed any were missing, since I rarely notice them "
+		" at all.\""
 	}
 	"gui_page1"	: "guis/readables/sheets/newspaper_bridgeport03.gui"
 	"snd_page_turn"	: "readable_page_turn"
@@ -573,9 +564,9 @@ readables/man2/note_hales_to_thugs_mess
 	{
 		""
 		""
-		"Clean this mess up!"
+		"  Clean this mess up!"
 		""
-		"   I told you two to keep him quiet, not cut out his bloody tongue. Was that really necessary? You couldn't just gag him? It's already difficult enough to keep them all under control without them having to hear the screams of a man having his tongue severed. Your poor mother must have dropped you two on your heads when you were little troll babies."
+		"   I told you two to keep him quiet, not cut out his tongue. Was that really necessary? You couldn't just gag him? It's already difficult enough to keep them all under control without them having to hear the screams of a man having his tongue severed. Your poor mother must have dropped you two on your heads when you were little troll babies."
 		""
 		"   I have ensured that this Jacobs has been shipped off with all the others. You had better hope they're not required to speak when they get to wherever they're all being sent to."
 	}
@@ -587,11 +578,11 @@ readables/man2/note_hales_to_thugs_mess
 	{
 		""
 		""
-		"If they return him I shall send the pair of you out there to replace him!"
+		"If they return him I shall send the pair of you out there in his place!"
 		""
 		"   Make sure you pile the dead ones into the pit for burning. And I'd better not find out that any died because of something you did. You morons are on very thin ice."
 		""
-		"Hales"
+		" Hales"
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
 	"gui_page2"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
@@ -612,7 +603,7 @@ readables/man2/moor_note
 		""
 		"Ahemut,"
 		""
-		"  Our dealings with Bridgeport are of much secrecy. Not even the Lord Twistleton is to be told the destination of the captives. Do not mention Ridgeback Bridge or the barges. All he and his people need to know is what they already see, an iron wagon taking the captives away. They do not need to know where it goes. This instruction comes from Lord Twistleton's own masters in Bridgeport itself."
+		"  Our dealings with Bridgeport are of much secrecy. Not even the Lord Twistleton is to be told the destination of the captives. Do not mention Gallowsgate Bridge or the ships. All he and his people need to know is what they already see, an iron wagon taking the captives away. They do not need to know where it goes. This instruction comes from Lord Twistleton's own masters in Bridgeport itself."
 		""
 	}
 	"page2_title"	:
@@ -638,7 +629,7 @@ readables/man2/moor_note
 readables/man2/note_accountant
 {
 	precache
-	"num_pages"	: "2"
+	"num_pages"	: "1"
 	"page1_title"	:
 	{
 		""
@@ -646,25 +637,17 @@ readables/man2/note_accountant
 	"page1_body"	:
 	{
 		""
-		"    Heed these words you little rat-faced twerp. If I ever catch you peeping through my keyhole again I will kick you so hard in the fork you'll be able to brush your teeth and scrub your bollocks at the same time. And then I'll hand you over to the Daltons. "
-		"Count yourself lucky that all you suffered was a broken nose and a twisted elbow you'll feel on cold days forever after. Do I make myself absolutely clear?"
+		"    Heed these words you little rat-faced twerp. "
+		"If I ever catch you peeping through my keyhole again"
+		"I will kick you so hard in the fork you'll never unfold yourself. And then I'll hand you over to the Daltons. Do I make myself absolutely clear?"
 		""
-		"    Now that's settled, I am to remind you that maintaining an accurate ledger of our \"exports\" is of far greater importance than keeping the books for the inn and the tenancy. Every month you've been running late with the former since you've focused"
-	}
-	"page2_title"	:
-	{
+		"    Now that's settled, I am to remind you that maintaining an accurate ledger of our other interests is of greater importance than keeping the books for the inn and Highclere House, which serve only to mantain a semblance of legitimacy. You are always"
+		"late with the ledgers since your priorities are out "
+		" of order. See to it. "
 		""
-	}
-	"page2_body"	:
-	{
-		""
-		"your attention solely upon the latter. From now on prioritise exports first, and only then focus your attention on the finances for the inn and the rents from Highclere House. A steady income is guaranteed, paying guests or not."
-		""
-		"Hales"
-		""
+		"  Hales"
 	}
 	"gui_page1"	: "guis/readables/scrolls/scroll_calig_summertime.gui"
-	"gui_page2"	: "guis/readables/scrolls/scroll_calig_summertime.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -672,7 +655,7 @@ readables/man2/note_accountant
 readables/man2/note_from_williams
 {
 	precache
-	"num_pages"	: "4"
+	"num_pages"	: "3"
 	"page1_title"	:
 	{
 		""
@@ -680,8 +663,12 @@ readables/man2/note_from_williams
 	"page1_body"	:
 	{
 		""
-		"  Good, you've made it this far without arousing suspicion."
-		"   Before he disappeared, Jacobs managed to report that street dwellers had been lured into the underbelly of this very inn after dark, never to be seen again. He is not the first to have noticed such misdeeds taking place across the city, but he is the first to have identified one of the dark holes  "
+		""
+		"    Good, you've made it this far without arousing suspicion."
+		"    Before he disappeared, Jacobs managed "
+		"to report that street dwellers had been lured into the underbelly of this very inn after dark, never to be seen again. He is not the first to have noticed such misdeeds taking place across the city, but he is the first to have identified one of the dark holes into which they appear to have vanished."
+		""
+		"    Jacobs had specifically informed me of which room he had rented and I therefore searched it thoroughly upon my arrival.  "
 		""
 	}
 	"page2_title"	:
@@ -691,8 +678,14 @@ readables/man2/note_from_williams
 	"page2_body"	:
 	{
 		""
-		"into which they appear to have vanished."
-		"   Jacobs specifically informed me of which room he had rented and I therefore searched it thoroughly upon my arrival. Please take this key that was hidden here. I believe he intended it for you, though I am fearful of what you might find at the end of where it leads. He was a canny chap, Jacobs, and he often proclaimed you'd come to his aid should "
+		""
+		"    Please take this key that was hidden here. "
+		"I believe he intended it for you, though I am fearful of what you may find at the end of where it leads. "
+		""
+		"   Since my presence at the inn will have given cause to halt any untoward activities hereabouts, it is imperative that you now find out what happened to him. "
+		""
+		"   Also see what you can dig up about one Lord Twistleton, owner of the tenancy attached to the inn, called Highclere House. "
+		" He resides in the large home across the"
 	}
 	"page3_title"	:
 	{
@@ -701,25 +694,17 @@ readables/man2/note_from_williams
 	"page3_body"	:
 	{
 		""
-		"he ever find himself in danger."
-		"   Since my presence at the inn will have given cause to halt any untoward activities for the temporary duration of my stay, it is imperative that you now set about finding out what happened to him. He is a most vital witness."
-		"Also see what you can dig up about  one Lord Twistleton, owner of the tenancy attached to the inn, called  "
-	}
-	"page4_title"	:
-	{
 		""
-	}
-	"page4_body"	:
-	{
+		"street. The man is surely involved and no doubt keeps a journal, which I would also like you to acquire for me."
 		""
-		"Highclere House. He resides in the large home across the street. The man is surely involved and no doubt keeps a journal, which I would also like you to acquire for me."
+		"    W."
 		""
 		"     PS. Remember, do not attempt to speak to me in this place. We will meet another time."
+		""
 	}
-	"gui_page1"	: "guis/readables/scrolls/scroll_calig_treasure_map.gui"
-	"gui_page2"	: "guis/readables/scrolls/scroll_calig_treasure_map.gui"
-	"gui_page3"	: "guis/readables/scrolls/scroll_calig_treasure_map.gui"
-	"gui_page4"	: "guis/readables/scrolls/scroll_calig_treasure_map.gui"
+	"gui_page1"	: "guis/readables/scrolls/scroll_print_stone.gui"
+	"gui_page2"	: "guis/readables/scrolls/scroll_print_stone.gui"
+	"gui_page3"	: "guis/readables/scrolls/scroll_print_stone.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -727,7 +712,7 @@ readables/man2/note_from_williams
 readables/man2/journal_hales
 {
 	precache
-	"num_pages"	: "3"
+	"num_pages"	: "2"
 	"page1_left_title"	:
 	{
 		""
@@ -756,9 +741,10 @@ readables/man2/journal_hales
 	"page2_left_body"	:
 	{
 		""
-		"were just about to do it anyway. It's a wonder they can even think to that degree over the sound of the rocks that must be rattling about inside their heads. Back in the Watch I'd have put those two in the ground the second I saw them, yet today I'm paying  their wages! How the wheel turns."
+		"were just about to do it anyway. Back in the Watch I'd have put those two in the ground, yet today I'm paying their wages! "
+		" How the wheel turns."
 		""
-		"   Now it seems that Roland has absconded. I'm disappointed, as he seemed the most reliable of this "
+		"   Now it seems that Roland has absconded. I'm disappointed, as he seemed the most reliable of this pitiable bunch. Thomas informs me that he saw him coming from the direction of the hallway the last time a new group was herded through, apparently looking very sorry for himself. He then "
 	}
 	"page2_right_title"	:
 	{
@@ -767,31 +753,11 @@ readables/man2/journal_hales
 	"page2_right_body"	:
 	{
 		""
-		"pitiable bunch. Thomas informs me that he saw him coming from the direction of the hallway the last time a new group was herded in, apparently looking very sorry for himself. He then locked himself away with a crate of Ingleby's wine, though where he went thereafter is a bit of a mystery."
-		"In the meantime I have handed his cooking duties over to Thomas, who has now complained of the punishment without realising that the only way he could have seen"
-	}
-	"page3_left_title"	:
-	{
-		""
-	}
-	"page3_left_body"	:
-	{
-		""
-		"Roland breaking the rules was if he himself was also doing so. They know well enough to stay in their rooms while the alley door is in use."
-		""
-		"Reminder: Get rid of Jacobs' confiscated belongings from the storage crate. Don't leave evidence lying about!"
-	}
-	"page3_right_title"	:
-	{
-		""
-	}
-	"page3_right_body"	:
-	{
-		""
+		"locked himself away with a crate of Ingleby's wine, though where he went thereafter is still unknown."
+		"In the meantime I have handed his cooking duties over to Thomas, whose endless complaints on the matter are not doing him any favours. "
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_summertime.gui"
 	"gui_page2"	: "guis/readables/books/book_calig_summertime.gui"
-	"gui_page3"	: "guis/readables/books/book_calig_summertime.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -808,7 +774,7 @@ readables/man2/journal_innkeeper
 	{
 		""
 		"    I don't know what I've come to dread more each day, my growing sense of guilt or Hales' disapproving glare. "
-		"When Lord Twistleton assumed the role of benefactor I was naively hopeful of a windfall for the old Hare, free from worry until my retirement. Yet I now find myself drowning in self pity and dread. I should have known it was all too good to be true."
+		"    When Lord Twistleton assumed the role of benefactor I was naively hopeful of a windfall for the old Hare. Yet I now find myself drowning in self pity and dread. I should have known it was all too good to be true."
 	}
 	"page1_right_title"	:
 	{
@@ -817,10 +783,13 @@ readables/man2/journal_innkeeper
 	"page1_right_body"	:
 	{
 		""
-		"My grandfather built this inn and it is through my greed that it shall now be destroyed. Blood money. "
-		"That's what this is. And I am unforgivably complicit. Those poor, poor souls. I hear them crying, sometimes. "
+		"     My grandfather built "
+		"this inn and it is through "
+		"my greed that it shall now "
+		"be destroyed. Blood money, that's what this is, and I am unforgivably complicit. "
 		""
-		"Reminder: The Moor in Room 4 complained about the noise of the water tank again. Send Thomas up to the roof to investigate."
+		"Reminder: "
+		"    The Moor in Room 4 complained about the noise of the water tank again. Send Thomas up to the roof to investigate (or nail the Moor's window shut!)"
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_camberic.gui"
 	"snd_page_turn"	: "readable_page_turn"
@@ -838,13 +807,13 @@ readables/man2/hales_note_to_roland
 	"page1_body"	:
 	{
 		""
-		"Thomas,"
+		"  Thomas,"
 		""
 		"   I don't want to hear any more of your whining. You are to cook the staff meals until Roland turns up. That includes cooking for the Ingleby nobs."
 		""
-		"   Also, the Daltons are to be locked away while the Watch Captain is staying at the inn. Until I say otherwise, I want you to leave their meals on the table below this note. I will take their food down to them each day, and I'll make sure everyone knows not to go near it. I don't need to tell you what those two will do to anyone caught nicking from their plates. "
+		"   Also, the Daltons are to be locked away while the Watch Captain is staying at the inn. Until I say otherwise, I want you to leave their meals on the table below this note. I will take their food down to them each day and I'll make sure everyone knows to steer clear of it. I don't need to tell you what those two will do to anyone caught nicking from their plates. "
 		" "
-		"Hales"
+		"  Hales"
 		""
 		""
 	}
@@ -856,7 +825,7 @@ readables/man2/hales_note_to_roland
 readables/man2/hales_note_to_daltons
 {
 	precache
-	"num_pages"	: "2"
+	"num_pages"	: "1"
 	"page1_title"	:
 	{
 		""
@@ -864,29 +833,17 @@ readables/man2/hales_note_to_daltons
 	"page1_body"	:
 	{
 		""
-		"Morons!"
+		"    You morons have lost your key to this door, haven't you? That's why I found it still unlocked when I came down earlier."
 		""
-		"    You've lost the spare key to this door, haven't you? That's why I found it still unlocked when I came down to light the pit fire. Because you knuckle-draggers are too stupid to figure out where your key went, am I correct? Merely nod, taffers, because you know that I am."
-		""
-		"    Now where could your key possibly have got to? Apply your tiny minds to the problem and you might just work it out. Well, no, you likely won't, so pay close attention and sound the words out: Jacobs. Was. A. Thief. "
-		"What does that tell you? Perhaps he'd have explained it himself if you two "
-	}
-	"page2_title"	:
-	{
-		""
-	}
-	"page2_body"	:
-	{
-		""
-		"hadn't gotten so carried away. "
+		"    Now where could it have gone? Pay close attention and I'll spell it out for you: Jacobs. Was. A. Thief. "
+		"What does that tell you? Perhaps he'd have explained it himself if you two hadn't gotten so carried away. "
 		"Well, you're not borrowing my key."
 		""
-		"    The pair of you can just stay locked away down here so that there's no chance of the Watch Captain seeing you while he's staying at the inn. I will bring down your meals when I next feel like it."
+		"    The pair of you can just stay locked away down there until the Watch Captain is gone. I will bring your meals down when I feel like it."
 		""
 		"Hales"
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
-	"gui_page2"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -904,7 +861,8 @@ readables/man2/hales_note_to_twistleton
 		""
 		"  Twistleton,"
 		""
-		"   I was right. Luring them with food is no longer working. They've caught on. I'll be sending the Daltons out to grab them directly off the streets from now on, as previously agreed. With the Watch instructed to look the other way, nobody will interfere."
+		"   I was right. Luring them with food is no longer working. They've caught on. I'll be sending the Daltons out to grab them directly off the streets from now on, as previously agreed. With the Watch instructed to look the other  "
+		" way, nobody will interfere."
 		""
 		"   I have also taken care of the thief, Jacobs. Unfortunately the Daltons got a little carried away, but nothing I can't handle. "
 		""
@@ -921,9 +879,10 @@ readables/man2/hales_note_to_twistleton
 		"   "
 		"   I'll set my personal feelings aside for the sake of efficiency, and suggest we do something to make their stay a little more survivable. Perhaps some food and medication would be appropriate. Those that die will continue to be burned in the pit after dark, but I do not approve of the wastage. Something must be done."
 		""
-		"Hales"
+		" Hales"
 		""
-		"PS. Do not get your nose out of joint over the incident with the accountant. He will live."
+		"PS. Do not get your nose out of joint over the incident with the accountant. "
+		" He will live."
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
 	"gui_page2"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
@@ -1006,13 +965,13 @@ readables/man2/note_alley_door
 	{
 		""
 		""
-		"The alley door is to remain locked!"
+		"   The alley door is to remain locked!"
 		""
-		"The only time I want to see it open is when the Daltons are bringing someone in, or the iron wagon is taking someone away."
+		"   The only time I want to see it open is when the Daltons are bringing someone in, or the iron wagon is taking someone away."
 		""
-		"And the rest of you had better be in your rooms when that happens."
+		"   And the rest of you had better be in your rooms when that happens."
 		""
-		"Hales "
+		"  Hales "
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
 	"snd_page_turn"	: "readable_page_turn"
@@ -1097,7 +1056,7 @@ readables/man2/ingleby_spy_journal
 		""
 		"Day 24"
 		""
-		"All day in private study? Can't be certain after yesterday. I'd better rethink my strategy. "
+		"All day in private study? Can't be certain after yesterday. I'd better rethink my methods. "
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_camberic.gui"
 	"gui_page2"	: "guis/readables/books/book_calig_camberic.gui"
@@ -1131,7 +1090,7 @@ readables/man2/journal_merchant
 		""
 		"afford not to when everything depends upon it so? "
 		""
-		"Don't them nobs at the Mayor's table see that raising the coal price means all products become more expensive up the line? And our purchases are already being taxed by percentage of they rising sales price. So now the taxes are also steadily ris..."
+		"Don't them nobs at the Mayor's table see that raising the coal price means all products become more 'spensive up the line? And our purchases are already being taxed by a share of they rising sales price. So now the taxes are also busy ris..."
 		"Oh."
 		""
 		"Those taffing nob bastards!"
@@ -1152,13 +1111,14 @@ readables/man2/note_jacobs_cell
 	"page1_body"	:
 	{
 		""
-		"    Hello frend. I did not dowt you would come for me. I hop you are doing good. Do not be cross I told a copper captin about you. He is on to sumthing wat is to do with coal and some taffers wat are playing god and you can trust him. "
 		""
-		"   They did sumthing bad to me and I do not no wat they will do with me next. If I am dead I want you to have my savings but not all my savings 'cos you must give sum to my mum. That means missus Plumtree not my akshul mum wat is a slut. "
+		"   Hello frend. I did not dowt you wood come for me. I hop you are doing good. Do not be cross I told a copper captin about you. He is on to sumthing wat is to do with coal and some taffers wat are playing god and you can trust him. "
 		""
-		"   Thank you for helping me that time and also the other time and you are a good frend."
+		"  They did sumthing bad to me and I do not no wat they will do with me next. If I am dead I want you to have my savings but not all my savings 'cos you must give sum to my mum. That means missus Plumtree not my akshul mum wat is a slut. "
 		""
-		"Jacobs"
+		"  Thank you for helping me that time and also the other time and you are a good frend."
+		""
+		"  Jacobs"
 		"  "
 		""
 		""
@@ -1171,7 +1131,7 @@ readables/man2/note_jacobs_cell
 readables/man2/note_roland_room
 {
 	precache
-	"num_pages"	: "2"
+	"num_pages"	: "1"
 	"page1_title"	:
 	{
 		""
@@ -1179,26 +1139,18 @@ readables/man2/note_roland_room
 	"page1_body"	:
 	{
 		""
-		"Roland,"
+		"  Roland,"
 		""
-		"   Where have you wandered off to? Of all the layabouts around here you have given me the least trouble up until now, but know that my leniency is quickly fading."
+		"   Where have you wandered off to? Of all the layabouts around here you have given me the least trouble up until now, but know that my leniency is rapidly fading."
 		""
-		"I have ordered Thomas to carry out your cooking duties in your absence, despite the fact that he cooks about as well as he carries out his maintenance duties. This cannot go on much longer. "
+		"   I have ordered Thomas to carry out your cooking duties in your absence, despite the fact that he cooks about as well as he carries out his maintenance duties. This cannot go on much longer. "
 		""
-		"When you see this note, come and find me at once."
+		"   When you see this note, come and "
+		" find me at once."
 		""
-		"Hales"
-	}
-	"page2_title"	:
-	{
-		""
-	}
-	"page2_body"	:
-	{
-		""
+		" Hales"
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_summertime.gui"
-	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -1214,9 +1166,9 @@ readables/man2/note_milly
 	"page1_body"	:
 	{
 		""
-		"To whoever took away the last delivery of coal, my order of rat poison came in with that same delivery and I want it back. Next time check the sacks before you cart them all off to whatever it is you're doing back there."
+		"To you what took away that last delivery of coal, my order of rat poison came in with that same lot and I want it back. Next time check the sacks before you cart them all off to whatever it is you're doing back there."
 		""
-		"Milly "
+		" Milly "
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_andrew_script.gui"
 	"snd_page_turn"	: "readable_page_turn"
@@ -1234,9 +1186,9 @@ readables/man2/journal_humphrey
 	"page1_left_body"	:
 	{
 		"    "
-		"    I am certainly no stranger to being pecked, scratched, kicked, and shrieked at, but this is the first time I've ever been bitten by one. I didn't know they could do that. I must make note of this new development. "
+		"    I am certainly no stranger to being pecked, scratched, kicked, and shrieked at, but this is the first time I've ever been robbed by one. My ring must have come off during the scuffle, and the cheeky rascal looked me right in the eye as it picked it up and swallowed it down."
 		""
-		"   Also, I really must discover how they keep getting out. It won't do to have a pet that is able to ambush its owner any time it pleases."
+		"    I really must discover how they keep getting out. It won't do to have a pet that ambushes its owner any time it pleases."
 		""
 	}
 	"page1_right_title"	:
@@ -1246,8 +1198,7 @@ readables/man2/journal_humphrey
 	"page1_right_body"	:
 	{
 		""
-		"The wife is now fed up with treating my injuries and this time she's followed through with her threats to walk out. I ought to buy some fresh flowers and take them round to her mother's. "
-		"Which reminds me, I had better replace the ones I forgot to water before she gets back. "
+		"   The wife is now fed up with treating my injuries and this time she's followed through with her threats to walk out. I ought to buy some fresh flowers and take them round to her mother's."
 		""
 		"    Whatever happened to the peasant woman selling flowers out in the lane? "
 	}
@@ -1259,7 +1210,7 @@ readables/man2/journal_humphrey
 readables/man2/note_angrywife
 {
 	precache
-	"num_pages"	: "2"
+	"num_pages"	: "1"
 	"page1_title"	:
 	{
 		""
@@ -1267,28 +1218,16 @@ readables/man2/note_angrywife
 	"page1_body"	:
 	{
 		""
-		"   For Builder's sake, Humphrey, I told you I did not want any more of these things in the house! Where do you keep finding them?"
-		"You will abandon this ridiculous quest to make a pet of the wretched creatures at once. It's making the whole house stink and, quite frankly, I hate it."
+		"   For Builder's sake Humphrey, I told you I did not want any more of these things in the house! Where do you keep finding them?"
+		"Every time it escapes I jump at the sound of your sudden squealing and my shattered nerves can stand it no longer. Just how do you keep letting them get the "
+		" better of you? "
 		""
-		"   That my own husband's attentions are so easily diverted towards something so absurd is more than a little upsetting. Every time it escapes I jump at the sound of your sudden squealing and my shattered nerves can "
-	}
-	"page2_title"	:
-	{
+		"   I am going to stay with my mother. Do not come calling unless that foul monstrosity is gone."
 		""
-	}
-	"page2_body"	:
-	{
+		"  Your wife (remember me?) "
 		""
-		"stand it no longer. Just how do you let it keep getting the better of you?"
-		""
-		"   I am going to stay with my mother. Do not come calling unless that miserable monstrosity is gone. I mean it this time. And you had better water my flowers while I'm away!"
-		""
-		"Your wife (remember me?) "
-		""
-		"PS. I still can't find my wedding ring. I am certain it must have come off the last time that creature had to be restrained from tearing you to shreds."
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
-	"gui_page2"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
 
@@ -1304,12 +1243,12 @@ readables/man2/note_alley
 	"page1_body"	:
 	{
 		""
+		"  Sees them, l do. In and out, in and out, but where does they go? Nowhere good that's for sure. "
 		""
-		"Sees them, I do. In and out, in and out, but where does they go? Nowhere good, that's for sure. "
+		" Keep my head down l will. Won't let them see me. But l must write down what l seen going on. That shouty woman and those evil buggers what takes everyone away."
 		""
-		"Keep my head down I will. Won't let them see me. But I must write down what I seen going on. That shouty woman and those evil buggers what takes everyone away."
-		""
-		"Still, the pickings be good now that I has these streets to myself."
+		" Still, the pickings be good now that l has these streets to "
+		" myself."
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_shoppinglist.gui"
 	"snd_page_turn"	: "readable_page_turn"

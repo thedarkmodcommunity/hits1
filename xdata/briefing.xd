@@ -1,25 +1,21 @@
 maps/man2/mission_briefing
 {
- "num_pages": "3"
+ "num_pages": "2"
  
  "page1_body" :
  {
    "Thief,"
    ""
-   "    We share a mutual acquaintance in one of your affiliates, a man known only to me as Jacobs. I would not presume to call him a friend, but perhaps you might? He has certainly spoken of you with admiration and kindness, though I dare say it comes as a surprise to learn that I, a Watch Captain, have solicited the use of his talents."
+   "    We share a mutual acquaintance in one of your affiliates, a man known only to me as Jacobs. I dare say it comes as a surprise to learn that I, a Watch Captain, have solicited the use of his talents, and even more so that I must now ask the same of you."
    ""
-   "    Rest assured I am of no threat to you. I write only to inform you that Jacobs has gone missing and I now fear the worst for him. The recent coal shortage has brought with it a number of mysterious disappearances, and I am now"
+   "    I write to inform you that Jacobs has gone missing and I fear the worst for him. The recent coal shortage has brought with it a number of brazen disappearances that could only take place upon the authority of higher rank than my own, and I am therefore forced to investigate the matter outside of regular Watch methods."
   }
  "page2_body" :
- {
-   "convinced it would be prudent to investigate the matter outside of regular Watch methods, due to certain suspicions I should prefer to keep to myself. To that end I did task Jacobs with sniffing about the streets and reporting his findings back to me. He last made contact prior to taking a room at the Hare in the Snare Inn on Bedford Road, shortly before his disappearance." 
+ {   
+   "    To that end I had tasked Jacobs with assisting me in my investigation. He last made contact after taking a room at the Hare in the Snare Inn on Bedford Road, shortly before his disappearance. I have since taken up his former lodgings, room number two, but have found my uniform to be of hindrance. A less direct approach is required." 
    ""
-   "    I have since taken up his former lodgings at the inn, room number two, but have found my uniform to be of hindrance to my investigation. A less direct approach is required, and I believe I have little choice other than to now place my trust in you."
- }
- "page3_body" :
- {
-   "    I shall spend every evening in the inn's tavern, until very late. Within my room is a footlocker that contains further instructions. Please make haste for Jacobs' sake, and make every effort to avoid direct contact with me should you enter the tavern. I shall not acknowledge your presence."
+   "    Within my room is a footlocker that contains further instructions. Please make haste for Jacobs' sake, and make every effort to avoid direct contact with me should you enter the inn's tavern. I shall not acknowledge your presence."
    ""
-   "Captain Williams, City Watch"
+   "    Captain Williams, City Watch"
  }
 }
