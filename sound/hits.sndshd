@@ -68,3 +68,7 @@ voice_010
 	sound/map_specific/Voice_010.ogg
 	no_efx
 }
+video/hits_briefing_video_sound
+{
+	fromVideo video/hits_briefing_video
+}
