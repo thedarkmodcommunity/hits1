@@ -97,7 +97,7 @@ hits_streetlamp_rivets
 	metal
 	noshadows
 
-	diffusemap  models/darkmod/props/textures/bc_lockplate_02_s
+	diffusemap  models/darkmod/props/textures/bc_lockplate02_s
 	bumpmap	    models/darkmod/props/textures/bc_lockplate02_local
 	specularmap _black
 }

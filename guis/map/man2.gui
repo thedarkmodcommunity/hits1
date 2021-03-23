@@ -8,7 +8,7 @@ windowDef Desktop
 		visible	1
 		background	"guis/assets/loading_screen.tga"
 	}
- 
+ /*
 	windowDef MissionText
 	{
 	 	rect         20, 10, 594, 70
@@ -32,6 +32,7 @@ windowDef Desktop
 		forecolor    0.8,0.75,0.5,0.5
 	}
 
+
 ¦¦¦	windowDef FMText
 	{
 	 	rect         0,0,640,480  // (Leave at 0,0,640,480 so you can space out your text anywhere.)
@@ -41,7 +42,7 @@ windowDef Desktop
 		textalign    1                // 0=left, 1 = centre, 2=right (space out to adjust)
 		forecolor    0.8,0.75,0.5,0.5      // text color R,G,B,transparent (0 to 1 each)
 	}
-
+	*/
 	windowDef ProgressBarBorder
 	{
 		rect	232,460,180,10
@@ -51,7 +52,7 @@ windowDef Desktop
 
 	windowDef ProgressBarInitialize
 	{
-		rect	230,457,( "gui::map_loading" * 175 ),16
+		rect	230,442,( "gui::map_loading" * 175 ),16
 
 		windowDef LoadingFill
 		{
