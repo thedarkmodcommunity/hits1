@@ -2,14 +2,10 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "1063987" } 
-		KeyValue { "LastCameraAngle" "-16.8 255.6 0" } 
-		KeyValue { "LastCameraPosition" "1042.95 706.727 129.508" } 
+		KeyValue { "EditTimeInSeconds" "1064269" } 
+		KeyValue { "LastCameraAngle" "-36.3 330.3 0" } 
+		KeyValue { "LastCameraPosition" "776.111 253.818 -363.456" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/common/caulk" } 
-	}
-	MapEditTimings
-	{
-		TotalSecondsEdited { 1063987 }
 	}
 	SelectionGroups
 	{
@@ -8954,6 +8950,10 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (trigger_relay_3)
 		Node { 0 } // entity (func_static_1486)
 		Node { 0 } // entity (light_1)
+	}
+	MapEditTimings
+	{
+		TotalSecondsEdited { 1064269 }
 	}
 	SelectionSets
 	{
