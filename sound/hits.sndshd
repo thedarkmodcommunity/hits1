@@ -72,3 +72,7 @@ video/hits_briefing_video_sound
 {
 	fromVideo video/hits_briefing_video
 }
+video/hits_debrief_video_sound
+{
+	fromVideo video/hits_debrief_video
+}

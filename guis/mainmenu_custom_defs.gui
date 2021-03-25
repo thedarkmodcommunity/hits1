@@ -299,9 +299,9 @@
 // Defines the material colour of the debriefing video windowDef
 #define MM_DEBRIEFING_VIDEO_MATCOLOR 1,1,1,1
 
-#define MM_DEBRIEFING_1_VIDEO_MATERIALS ""
-#define MM_DEBRIEFING_1_VIDEO_LENGTHS ""
-#define MM_DEBRIEFING_1_VIDEO_SOUND_CMD ""
+#define MM_DEBRIEFING_1_VIDEO_MATERIALS "video/hits_debrief_video;"
+#define MM_DEBRIEFING_1_VIDEO_LENGTHS "60000;"
+#define MM_DEBRIEFING_1_VIDEO_SOUND_CMD "music video/hits_debrief_video_sound;"
 
 #define MM_DEBRIEFING_2_VIDEO_MATERIALS ""
 #define MM_DEBRIEFING_2_VIDEO_LENGTHS ""
