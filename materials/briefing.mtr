@@ -5,3 +5,10 @@ video/hits_briefing_video
 		  videoMap withAudio video/hits_intro.mp4
 	 }
 }
+video/hits_debrief_video
+{
+	 qer_editorimage textures/editor/video
+	 {
+		  videoMap withAudio video/hits_outro.mp4
+	 }
+}
