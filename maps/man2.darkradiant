@@ -2,10 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "1064269" } 
-		KeyValue { "LastCameraAngle" "-36.3 330.3 0" } 
-		KeyValue { "LastCameraPosition" "776.111 253.818 -363.456" } 
+		KeyValue { "EditTimeInSeconds" "1064897" } 
+		KeyValue { "LastCameraAngle" "-19.2 355.2 0" } 
+		KeyValue { "LastCameraPosition" "-43.4338 -928.557 -1.24226" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/common/caulk" } 
+	}
+	MapEditTimings
+	{
+		TotalSecondsEdited { 1064897 }
 	}
 	SelectionGroups
 	{
@@ -47,12 +51,10 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 195 { "" }
 		SelectionGroup 196 { "" }
 		SelectionGroup 203 { "" }
-		SelectionGroup 210 { "" }
 		SelectionGroup 211 { "" }
 		SelectionGroup 212 { "" }
 		SelectionGroup 213 { "" }
 		SelectionGroup 216 { "" }
-		SelectionGroup 233 { "" }
 		SelectionGroup 234 { "" }
 		SelectionGroup 236 { "" }
 		SelectionGroup 237 { "" }
@@ -244,6 +246,7 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 816 { "" }
 		SelectionGroup 817 { "" }
 		SelectionGroup 818 { "" }
+		SelectionGroup 819 { "" }
 	}
 	SelectionGroupNodeMapping
 	{
@@ -772,10 +775,10 @@ DarkRadiant Map Information File Version 2
 		Node { ( 1262 ) ( 187 ) } // entity (func_static_1026)
 		Node { ( 1279 ) ( 190 ) } // entity (func_static_1321)
 		Node { ( 1280 ) ( 190 ) } // entity (atdm_6panel_104x56_7)
-		Node { ( 1327 ) ( 210 ) } // entity (func_static_714)
-		Node { ( 1328 ) ( 210 ) } // entity (func_static_715)
-		Node { ( 1329 ) ( 210 ) } // entity (fire01)
-		Node { ( 1330 ) ( 210 ) } // entity (func_static_716)
+		Node { ( 1327 ) ( 819 ) } // entity (func_static_714)
+		Node { ( 1328 ) ( 819 ) } // entity (func_static_715)
+		Node { ( 1329 ) ( 819 ) } // entity (fire01)
+		Node { ( 1330 ) ( 819 ) } // entity (func_static_716)
 		Node { ( 1337 ) ( 211 ) } // entity (func_static_1379)
 		Node { ( 1338 ) ( 211 ) } // entity (func_static_1380)
 		Node { ( 1339 ) ( 212 ) } // entity (func_static_1381)
@@ -784,10 +787,6 @@ DarkRadiant Map Information File Version 2
 		Node { ( 1342 ) ( 213 ) } // entity (atdm_handle_curved_rotate_double_right_21)
 		Node { ( 1343 ) ( 213 ) } // entity (func_static_1384)
 		Node { ( 1350 ) ( 216 ) } // entity (func_static_1391)
-		Node { ( 1424 ) ( 233 ) } // entity (light_fireflames_2)
-		Node { ( 1425 ) ( 233 ) } // entity (func_static_1439)
-		Node { ( 1426 ) ( 233 ) } // entity (func_static_589)
-		Node { ( 1427 ) ( 233 ) } // entity (func_static_1440)
 		Node { ( 1458 ) ( 234 ) } // entity (func_static_1468)
 		Node { ( 1459 ) ( 234 ) } // entity (func_static_1469)
 		Node { ( 1460 ) ( 236 409 ) } // entity (func_static_1470)
@@ -8950,10 +8949,7 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (trigger_relay_3)
 		Node { 0 } // entity (func_static_1486)
 		Node { 0 } // entity (light_1)
-	}
-	MapEditTimings
-	{
-		TotalSecondsEdited { 1064269 }
+		Node { 0 } // entity (path_anim_1)
 	}
 	SelectionSets
 	{

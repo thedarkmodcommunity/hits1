@@ -1,0 +1,156 @@
+/* =============================================================================================
+ *
+ * Main Menu Backgrounds. This file is part of The Dark Mod's Main Menu GUI
+ *
+ * Mission Authors: DO NOT EDIT, INCLUDE OR OVERRIDE THIS FILE IN YOUR MISSION PK4.
+ *
+ * greebo: This file contains the defs and animations for the background.
+ *
+ * ============================================================================================= */
+
+// This defines how long a background figure stays before the next one is fading in
+#define BACKGROUND_FIGURE_INTERVAL "3000" // msecs
+
+/***********************************************************
+ * 
+ *                 Background Figures
+ * 
+ ***********************************************************/
+windowDef MainMenuBackground
+{
+	visible 1
+	rect	0,0,640,640
+
+	// 50% grey background for blending purposes
+	backcolor	0, 0, 0, 1
+	
+
+	// Swirly background
+	background	"guis/assets/mainmenu/swirl"
+    
+    onTime 1000 {
+         transition "MainMenuBackground::backcolor" "0 0 0 1" "0.5 0.5 0.5 1" "2000" ;
+    }
+	
+	// greebo: Hide this to hide all the fading figures but leave the rest of the background
+	windowDef MainMenuBackgroundFigures
+	{
+		rect 0,0,320,640
+		visible 1
+
+		windowDef MainMenuBackgroundFigure1
+		{
+			rect      0,0,320,640
+			visible	1
+			matcolor	1, 1, 1, 0
+			background	"guis/assets/mainmenu/sidefigure1"
+		}
+
+		windowDef MainMenuBackgroundFigure2
+		{
+			rect	0,0,320,640
+			visible	1
+			matcolor	1, 1, 1, 0
+			background	"guis/assets/mainmenu/sidefigure2"
+		}
+
+		windowDef MainMenuBackgroundFigure3
+		{
+			rect	0,0,320,640
+			visible	1
+			matcolor	1, 1, 1, 0
+			background	"guis/assets/mainmenu/sidefigure3"
+		}
+
+		windowDef MainMenuBackgroundFigure4
+		{
+			rect	0,0,320,640
+			visible	1
+			matcolor	1, 1, 1, 0
+			background	"guis/assets/mainmenu/sidefigure4"
+		}
+
+		windowDef MainMenuBackgroundFigure5
+		{
+			rect	0,0,320,640
+			visible	1
+			matcolor	1, 1, 1, 0
+			background	"guis/assets/mainmenu/sidefigure5"
+		}
+
+		windowDef MainMenuBackgroundFigure6
+		{
+			rect	0,0,320,640
+			visible	1
+			matcolor	1, 1, 1, 0
+			background	"guis/assets/mainmenu/sidefigure6"
+		}
+
+		windowDef MainMenuBackgroundFigure7
+		{
+			rect	0,0,320,640
+			visible	1
+			matcolor	1, 1, 1, 0
+			background	"guis/assets/mainmenu/sidefigure7"
+		}
+
+		windowDef MainMenuBackgroundFigureAnimation
+		{
+			rect	0,0,640,640
+			visible	1
+            
+            onTime 500 {
+				transition "MainMenuBackgroundFigure1::matcolor" "1 1 1 0" "1 1 1 1" BACKGROUND_FIGURE_INTERVAL ;
+			}
+
+			onTime 10000 {
+				transition "MainMenuBackgroundFigure1::matcolor" "1 1 1 1" "1 1 1 0" BACKGROUND_FIGURE_INTERVAL ;
+				transition "MainMenuBackgroundFigure2::matcolor" "1 1 1 0" "1 1 1 1" BACKGROUND_FIGURE_INTERVAL ;
+			}
+
+			onTime 20000 {
+				transition "MainMenuBackgroundFigure2::matcolor" "1 1 1 1" "1 1 1 0" BACKGROUND_FIGURE_INTERVAL ;
+				transition "MainMenuBackgroundFigure3::matcolor" "1 1 1 0" "1 1 1 1" BACKGROUND_FIGURE_INTERVAL ;
+			}
+
+			onTime 30000 {
+				transition "MainMenuBackgroundFigure3::matcolor" "1 1 1 1" "1 1 1 0" BACKGROUND_FIGURE_INTERVAL ;
+				transition "MainMenuBackgroundFigure4::matcolor" "1 1 1 0" "1 1 1 1" BACKGROUND_FIGURE_INTERVAL ;
+			}
+
+			onTime 40000 {
+				transition "MainMenuBackgroundFigure4::matcolor" "1 1 1 1" "1 1 1 0" BACKGROUND_FIGURE_INTERVAL ;
+				transition "MainMenuBackgroundFigure5::matcolor" "1 1 1 0" "1 1 1 1" BACKGROUND_FIGURE_INTERVAL ;
+			}
+
+			onTime 50000 {
+				transition "MainMenuBackgroundFigure5::matcolor" "1 1 1 1" "1 1 1 0" BACKGROUND_FIGURE_INTERVAL ;
+				transition "MainMenuBackgroundFigure6::matcolor" "1 1 1 0" "1 1 1 1" BACKGROUND_FIGURE_INTERVAL ;
+			}
+
+			onTime 60000 {
+				transition "MainMenuBackgroundFigure6::matcolor" "1 1 1 1" "1 1 1 0" BACKGROUND_FIGURE_INTERVAL ;
+				transition "MainMenuBackgroundFigure7::matcolor" "1 1 1 0" "1 1 1 1" BACKGROUND_FIGURE_INTERVAL ;
+			}
+
+			onTime 70000 {
+				transition "MainMenuBackgroundFigure7::matcolor" "1 1 1 1" "1 1 1 0" BACKGROUND_FIGURE_INTERVAL ;
+				//transition "MainMenuBackgroundFigure1::matcolor" "1 1 1 0" "1 1 1 0" BACKGROUND_FIGURE_INTERVAL ;
+                resetTime 0;
+			}
+		}
+	}
+
+#include "guis/mainmenu_credits_background.gui"
+
+	// greebo: Semi-transparent graphics blended over the swirly fog and the figures
+	windowDef MainMenuBackgroundOverlay
+	{
+		rect	0, 0, 640, 480
+		matcolor	1 ,1 ,1 ,0.6
+		background	"guis/assets/mainmenu/background"
+	}
+    
+    
+
+} // end windowDef MainMenuBackgroundFigures
