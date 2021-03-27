@@ -8,41 +8,7 @@ windowDef Desktop
 		visible	1
 		background	"guis/assets/loading_screen.tga"
 	}
- /*
-	windowDef MissionText
-	{
-	 	rect         20, 10, 594, 70
-			bordersize   0
- 			bordercolor  0, 0, 0, 0
-		backcolor    0, 0, 0, 0
-		text         "The Hare in the Snare"
-		textscale    0.85
-		font         "fonts/mac_humaine"
-		textalign    1
-		forecolor    0.8,0.75,0.5,0.5
-	}
- 
-	windowDef ProgressBarText
-	{
-		rect	232,444,180,18
-		text         "MISSION LOADING"
-		textscale    .25
-		font         "fonts/camberic"
-		textalign    1
-		forecolor    0.8,0.75,0.5,0.5
-	}
 
-
-¦¦¦	windowDef FMText
-	{
-	 	rect         0,0,640,480  // (Leave at 0,0,640,480 so you can space out your text anywhere.)
-		text         "\n\n\n\n\n\n\n\n\n\n\n \n\n\n                                                                                                                         by Frost_Salamander\n                                                                                                                 and\n                                                                                                                 Kerry000"
-		textscale    0.4               // (font size)
-		font         "fonts/mac_humaine"     // (change to any of the fonts in the Dark Mod fonts folder)
-		textalign    1                // 0=left, 1 = centre, 2=right (space out to adjust)
-		forecolor    0.8,0.75,0.5,0.5      // text color R,G,B,transparent (0 to 1 each)
-	}
-	*/
 	windowDef ProgressBarBorder
 	{
 		rect	232,460,180,10
