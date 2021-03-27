@@ -1,0 +1,12 @@
+windowDef Desktop
+{
+       rect 0,0,640,480
+       nocursor 1
+ 
+       windowDef background_map
+       {
+               rect 64,48, 512, 384
+               background "guis/assets/map"
+               visible 1
+       }
+}
