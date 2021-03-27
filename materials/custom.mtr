@@ -101,3 +101,11 @@ hits_streetlamp_rivets
 	bumpmap	    models/darkmod/props/textures/bc_lockplate02_local
 	specularmap _black
 }
+hits_ggb_sign
+{
+	metal
+	
+	diffusemap		textures/darkmod/custom/hits_sign_gallows
+	bumpmap			textures/darkmod/custom/hits_sign_gallows_local
+	specularmap		textures/darkmod/custom/hits_sign_gallows_s
+}
