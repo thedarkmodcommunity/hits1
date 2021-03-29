@@ -300,7 +300,7 @@
 #define MM_DEBRIEFING_VIDEO_MATCOLOR 1,1,1,1
 
 #define MM_DEBRIEFING_1_VIDEO_MATERIALS "video/hits_debrief_video;"
-#define MM_DEBRIEFING_1_VIDEO_LENGTHS "60000;"
+#define MM_DEBRIEFING_1_VIDEO_LENGTHS "55500;"
 #define MM_DEBRIEFING_1_VIDEO_SOUND_CMD "music video/hits_debrief_video_sound;"
 
 #define MM_DEBRIEFING_2_VIDEO_MATERIALS ""
