@@ -1,4 +1,4 @@
-$rev = "0.18.10"
+$rev = "0.18.11"
 $revSuffix="_v$rev"
 
 $devMissionName = 'dmmission1'
