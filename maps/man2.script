@@ -5,6 +5,10 @@ void poison_stew(entity stew)
 
     if (objectiveState == 1)
     {
+        // remove poison from inventory
+        entity curr_item = $player1.getCurInvItemEntity();
+        $player1.changeInvItemCount(curr_item.getKey("inv_name"), curr_item.getKey("inv_category"), -1);
+
         // done, prevent further frobbing
         stew.setFrobable(0);
         stew.startSound("snd_addpoison", SND_CHANNEL_UNUSED, false);
