@@ -1,0 +1,24 @@
+
+hits_c_body
+{
+	flesh
+	
+	{
+		blend diffusemap
+		map textures/darkmod/custom/hits_c_body_d
+		alphatest 0.5
+	}		
+    bumpmap         textures/darkmod/custom/hits_c_body_local
+	specularmap		_black
+}
+
+hits_c_head 
+{
+	flesh
+	
+	diffusemap      textures/darkmod/custom/hits_c_head_d
+    bumpmap         textures/darkmod/custom/hits_c_head_local
+	specularmap		_black
+	
+}
+
