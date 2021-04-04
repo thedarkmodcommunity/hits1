@@ -160,7 +160,7 @@ readables/man2/journal_ingleby
 	"page1_left_body"	:
 	{
 		""
-		"    If the boys from the old regiment could see me now, what mockery I'd be made to endure! Soft hands, sequined gowns, and posh quarters in Highclere House. I suppose this particular suite having been seconded for staff housing might allow me to save a little face, though not by much. If only I could just explain to father that I am so much more than Twistleton's mere secretary. I am still the "
+		"    If the boys from the old regiment could see me now, what mockery I'd be made to endure! Soft hands, velvety sequined gowns, and posh quarters in Highclere House. I suppose this particular suite having been seconded for staff housing might allow me to save a little face, though not by much. If only I could just explain to father that I am so much more than Twistleton's mere secretary. I am still the "
 	}
 	"page1_right_title"	:
 	{
@@ -201,7 +201,7 @@ readables/man2/journal_ingleby
 	"page3_left_body"	:
 	{
 		""
-		"    Still, onward and upward, so they say. I'll keep an eye over Twistleton's shoulder as duty requires of me, and it will give me time to continue growing my secret collection."
+		"    Still, onward and upward, so they say. Though I must remember to keep Daphne from rummaging about in here, or else I'd have some explaining to do should she inadvertently gain access to my private hideaway while attempting to pick out a claret. "
 	}
 	"page3_right_title"	:
 	{
@@ -241,7 +241,7 @@ readables/man2/journal_twistleton
 		"     Yet they send a spy to masquerade as my secretary, to watch me as though they doubt my competence. The sheer arrogance of it, as if a life in the sewers hadn't taught me to smell a rat "
 		" among the kacky."
 		""
-		"     Nevertheless, I am not certain I shall remain able to continue much longer. Soon I "
+		"     Nevertheless, I must remove my Harriet from this danger and move on. Soon I "
 	}
 	"page2_left_title"	:
 	{
@@ -250,7 +250,7 @@ readables/man2/journal_twistleton
 	"page2_left_body"	:
 	{
 		""
-		"shall be forced to take my hidden valuables and start afresh, somewhere far away from this forsaken city and the likes of P and his fat cronies. They were not raised on these streets as I was. They have not thought this through to the end."
+		"shall be forced to take my hidden valuables and start afresh, somewhere far away from this forsaken city and the likes of P and his \"Provident Order\". They were not raised on these streets as I was. They have not thought this through."
 		""
 		"     Soon the Builders are going to get involved, for it is their forges that are most"
 	}
@@ -991,9 +991,9 @@ readables/man2/ingleby_spy_journal
 		""
 		"Day 19"
 		""
-		"All day in private study."
+		"   All day in private study."
 		""
-		"No visitors. "
+		"    No visitors. "
 	}
 	"page1_right_title"	:
 	{
@@ -1004,11 +1004,13 @@ readables/man2/ingleby_spy_journal
 		""
 		"Day 20"
 		""
-		"All day in private study. "
+		"   All day in private study. "
 		""
-		"Visitor: Hales"
+		"    Visitor: Hales"
 		""
-		"Much yelling, unclear (door shut), T visibly shaken afterwards."
+		"    Much yelling, unclear "
+		"    (door shut), T visibly "
+		"     shaken afterwards."
 	}
 	"page2_left_title"	:
 	{
@@ -1019,9 +1021,9 @@ readables/man2/ingleby_spy_journal
 		""
 		"Day 21"
 		""
-		"All day in private study."
+		"   All day in private study."
 		""
-		"No visitors."
+		"    No visitors."
 	}
 	"page2_right_title"	:
 	{
@@ -1032,9 +1034,10 @@ readables/man2/ingleby_spy_journal
 		""
 		"Day 22"
 		""
-		"All day in private study (sigh!)"
+		"   All day in private study "
+		"    (sigh!)"
 		""
-		"No visitors."
+		"    No visitors."
 	}
 	"page3_left_title"	:
 	{
@@ -1045,7 +1048,14 @@ readables/man2/ingleby_spy_journal
 		""
 		"Day 23"
 		""
-		"All day in p... He's on his bloody balcony with a spyglass, the sneaky bastard! "
+		"   All day in pr... He's on his "
+		"    bloody balcony with a"
+		"    spyglass, the sneaky "
+		"    bastard! "
+		""
+		"    Just how did he manage "
+		"     that without me seeing "
+		"     him?"
 	}
 	"page3_right_title"	:
 	{
@@ -1056,7 +1066,10 @@ readables/man2/ingleby_spy_journal
 		""
 		"Day 24"
 		""
-		"All day in private study? Can't be certain after yesterday. I'd better rethink my methods. "
+		"   All day in private study? "
+		"    Can't be certain after "
+		"    yesterday. I'd better "
+		"     rethink my methods. "
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_camberic.gui"
 	"gui_page2"	: "guis/readables/books/book_calig_camberic.gui"
@@ -1251,5 +1264,45 @@ readables/man2/note_alley
 		" myself."
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_shoppinglist.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/man2/Twistleton_Wife_Letter
+{
+	precache
+	"num_pages"	: "2"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		"My dearest Harriet,"
+		""
+		"     Allow me the small grace of providing an explanation in writing, as words so often fail me when standing before you. Even after all these years you hold such power over me, my love. "
+		""
+		"     I do not disagree with you with regards the treatment of the unfortunates, but as you well know I have little choice in the matter. It was either this or a criminal sentence, if you recall? That ghastly P and his so-called \"Provident Order\" are the very bankers and lawmakers that rule this city. To cross them is to court the noose. "
+		""
+		"   In reply to your question over breakfast,"
+		""
+		"   "
+	}
+	"page2_title"	:
+	{
+		""
+	}
+	"page2_body"	:
+	{
+		"which I so rudely ignored, the answer is yes. I do remember our first meeting and I think of it often. You with a sword to my back upon my entering your turf unbidden! Hah, what a pair we made. They called me the Smuggler King, but you and I both know I would have achieved nought in the absence of the strength of my most capable partner. You were my everything then, and so you are still."
+		""
+		"     We shall be gone from this place soon. "
+		"I have now resolved to hasten our imminent departure. We shall be free again, my love. Will you please bear with me a little while "
+		"  longer?"
+		""
+		"    T"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_calig_mac_humaine.gui"
+	"gui_page2"	: "guis/readables/sheets/sheet_paper_calig_mac_humaine.gui"
 	"snd_page_turn"	: "readable_page_turn"
 }
