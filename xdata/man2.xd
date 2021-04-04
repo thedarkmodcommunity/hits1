@@ -721,7 +721,9 @@ readables/man2/journal_hales
 	{
 		""
 		"    That old taffer Twistleton is right, it's no coincidence Captain Williams arrived right after we caught that thief, Jacobs. I must ensure I remain well out of sight while he's here, as he'll certainly remember me. He was always the type. Knew everyone's name and always took an interest. I am no longer a Watch Lieutenant, but I do remember Captain Williams."
-		"When he catches scent of something he's as persistent as a foxhound. We had better watch "
+		"We had better watch our step around him. The man is no fool."
+		""
+		" "
 	}
 	"page1_right_title"	:
 	{
@@ -730,9 +732,7 @@ readables/man2/journal_hales
 	"page1_right_body"	:
 	{
 		""
-		"our step around him. The man is no fool."
-		""
-		"   Thankfully I am in agreement with Twistleton's \"order\" to lock the Daltons down the pit. Those two morons are on very thin ice with me, especially after what they did to the thief. And did they really think I wouldn't figure out that they'd lost their key to the big door down there? Always lingering about, waiting for me to open up, then pretending they "
+		"   Thankfully I am in agreement with Twistleton's \"order\" to lock the Daltons down the pit. Those two morons are on very thin ice with me, especially after what they did to the thief. Although his attempt to blackjack one of the Dalton brothers was surely an exceptional stupidity. Could he not tell their heads are filled with rocks? I am certain he must have lifted their key, however. One wonders if Williams had anything to do with that? I had better be "
 	}
 	"page2_left_title"	:
 	{
@@ -741,10 +741,9 @@ readables/man2/journal_hales
 	"page2_left_body"	:
 	{
 		""
-		"were just about to do it anyway. Back in the Watch I'd have put those two in the ground, yet today I'm paying their wages! "
-		" How the wheel turns."
+		"on my toes, since there's every possibility he might attempt to make his way down here."
 		""
-		"   Now it seems that Roland has absconded. I'm disappointed, as he seemed the most reliable of this pitiable bunch. Thomas informs me that he saw him coming from the direction of the hallway the last time a new group was herded through, apparently looking very sorry for himself. He then "
+		"   And what an inopportune time for Roland to have absconded. I'm disappointed, for he seemed the most reliable of this pitiable bunch. Thomas informs me that he saw him coming from the direction of the hallway the last time a new group was herded through, apparently looking very sorry for himself. He then locked himself"
 	}
 	"page2_right_title"	:
 	{
@@ -753,7 +752,7 @@ readables/man2/journal_hales
 	"page2_right_body"	:
 	{
 		""
-		"locked himself away with a crate of Ingleby's wine, though where he went thereafter is still unknown."
+		"away with a crate of Ingleby's wine, though where he went thereafter is still unknown."
 		"In the meantime I have handed his cooking duties over to Thomas, whose endless complaints on the matter are not doing him any favours. "
 	}
 	"gui_page1"	: "guis/readables/books/book_calig_summertime.gui"
