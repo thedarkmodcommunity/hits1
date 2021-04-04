@@ -9,6 +9,6 @@ video/hits_debrief_video
 {
 	 qer_editorimage textures/editor/video
 	 {
-		  videoMap withAudio video/hits_outro.mp4
+		  videoMap video/hits_outro.mp4
 	 }
 }

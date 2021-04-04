@@ -1,0 +1,16 @@
+windowDef Desktop
+{
+  rect 0 ,0 ,640 ,480 // Standard element to define nominal grid, e.g., for placing and sizing buttons
+  backcolor 1,1,1,0
+  matcolor 0, 0, 0, 1
+
+  background "video/hits_debrief_video"; // mp4 shader defined in materials/briefing.mtr file.
+
+  onTime 0
+  {
+     nocursor 1 // This work ONLY in this location, not in Desktop or after reset/matcolor here
+     resetCinematics; // reset Video to start
+     Desktop::matcolor 1,1,1,1; // show video
+     //localsound "video/hits_debrief_video_sound"; // shader as defined in sound/cutscene_video.sndshd
+  }
+}
