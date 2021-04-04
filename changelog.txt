@@ -1,3 +1,15 @@
+v0.3-beta:
+
+- change contents of duplicate desks
+- make rat poison bottle more visible
+- make Mrs. T awake and patrolling
+- add letter from T to Mrs. T
+- fix mansion ceiling texture
+- fix T's bedroom floor texture
+- surround T bedroom rug with nodraw
+- add fence atop T's back garden wall
+- replace clipping barrel in trapdoor room with smaller packages
+
 v0.16:
 
 General fixes/improvements:
