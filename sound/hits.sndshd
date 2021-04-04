@@ -74,5 +74,5 @@ video/hits_briefing_video_sound
 }
 video/hits_debrief_video_sound
 {
-	fromVideo video/hits_debrief_video
+	sound/video/debrief_audio.ogg
 }

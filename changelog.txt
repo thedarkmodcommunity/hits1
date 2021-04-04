@@ -4,11 +4,22 @@ v0.3-beta:
 - make rat poison bottle more visible
 - make Mrs. T awake and patrolling
 - add letter from T to Mrs. T
+- update Ingleby's and T's journals
 - fix mansion ceiling texture
 - fix T's bedroom floor texture
 - surround T bedroom rug with nodraw
 - add fence atop T's back garden wall
 - replace clipping barrel in trapdoor room with smaller packages
+- fix for debrief video
+- make the Daltons immune to KO
+- replace gas arrow with water arrow in Ingleby's stash
+- add new key for Inn back room (only accessible from tunnel)
+- reverse direction of trap door room door in Inn to prevent clipping with trap door
+- update dalton optional objective text for clarity
+
+v0.2-beta:
+
+- overhaul of entire FM.  Changes too numerous to list.
 
 v0.16:
 

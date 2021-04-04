@@ -24,6 +24,21 @@ void make_stew_froabable()
     $daltons_stew.setFrobable(1);
 }
 
+void triggerEnd()
+{
+    float objectiveWilliams = $player1.getObjectiveState(1); // Objective 1, get into Williams' footlocker
+    float objectiveJacobs = $player1.getObjectiveState(1);   // Objective 2, find out what happened to Jacobs
+
+    if ((objectiveWilliams == 1) && (objectiveJacobs == 1))
+    {   
+        $player1.setOrigin($debrief_rug.getOrigin());   // teleport to 'theatre room' rug on the floor
+        sys.trigger($debrief_video);                    // start the debrief
+        sys.trigger($debrief_speaker);                  // debrief audio
+        sys.wait(57);                                   // video length in seconds
+        $player1.setObjectiveState(8, 1);               // complete 'player exit' objective
+    }
+}
+
 void main()
 {
 	sys.waitFrame();
