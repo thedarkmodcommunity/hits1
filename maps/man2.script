@@ -27,7 +27,7 @@ void make_stew_froabable()
 void triggerEnd()
 {
     float objectiveWilliams = $player1.getObjectiveState(1); // Objective 1, get into Williams' footlocker
-    float objectiveJacobs = $player1.getObjectiveState(1);   // Objective 2, find out what happened to Jacobs
+    float objectiveJacobs = $player1.getObjectiveState(2);   // Objective 2, find out what happened to Jacobs
 
     if ((objectiveWilliams == 1) && (objectiveJacobs == 1))
     {   
