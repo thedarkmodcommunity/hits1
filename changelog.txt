@@ -16,6 +16,7 @@ v0.3-beta:
 - add new key for Inn back room (only accessible from tunnel)
 - reverse direction of trap door room door in Inn to prevent clipping with trap door
 - update dalton optional objective text for clarity
+- lower lamp flame in corridor between Percy and Ingleby flats
 
 v0.2-beta:
 

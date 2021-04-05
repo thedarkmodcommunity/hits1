@@ -2,7 +2,7 @@ Credits
 -------
 
 Mapping and original characters: Frost_Salamander
-Story, readables, artwork and player voice: Kerry000
+Story, readables, artwork and voices: Kerry000
 
 Beta testers:
 - Cambridge Spy
@@ -13,6 +13,7 @@ Beta testers:
 - wesp5
 - nbohr1more
 - Kerry000
+- ate0ate
 
 Additional thanks:
 - Dragofer, nborh1more and peter_spy for technical help
