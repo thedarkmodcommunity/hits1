@@ -530,11 +530,12 @@ readables/man2/newspaper_missing_persons
 	{
 		""
 		""
-		"    A spate of mysterious disappearances of street dwellers has prompted Commander Fleeting of the City Watch to pass public comment. He states that the number of missing persons has been greatly exaggerated by the public, and warns against \"jumping to conclusions\" as to the cause of the issue."
+		"    A spate of mysterious disappearances of street dwellers has prompted Commander Fleeting of the City Watch to pass public comment. He states that the number of missing persons has been greatly exaggerated by the public, and warns against \"jumping to "
+		" conclusions\" as to the cause of the issue."
 		" "
-		"   When asked if the City Watch had opened an investigation into the disappearances, "
+		"  When asked if the City Watch had opened an investigation into the disappearances, "
 		"the Commander replied that details of the case were not for public knowledge. "
-		" Lord Pottinger of the Merchants Guild then"
+		"  Lord Pottinger of the Bankers' Guild then"
 	}
 	"page1_right_title"	:
 	{
