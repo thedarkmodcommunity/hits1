@@ -463,7 +463,7 @@
 
 // Uncomment this to enable a custom main menu title graphics
 // Use the defines below to specify which image to use and its size and position
-//#define MM_SHOW_CUSTOM_MAINMENU_TITLE 1
+#define MM_SHOW_CUSTOM_MAINMENU_TITLE 1
 
 /**
  * This path refers to this file:
@@ -474,10 +474,20 @@
  * 
  * DDS version: dds/guis/assets/custom_title.dds 
  */
-#define MM_CUSTOM_MAINMENU_TITLE_IMAGE			"guis/assets/custom_title"
+#define MM_CUSTOM_MAINMENU_TITLE_IMAGE			"guis/assets/hits1_menu"
 
 // This is measured from the top left window border at 0,0
-#define MM_CUSTOM_MAINMENU_TITLE_IMAGE_LEFT		280
+#define MM_CUSTOM_MAINMENU_TITLE_IMAGE_LEFT		0
 #define MM_CUSTOM_MAINMENU_TITLE_IMAGE_TOP		0
-#define MM_CUSTOM_MAINMENU_TITLE_IMAGE_WIDTH	320
-#define MM_CUSTOM_MAINMENU_TITLE_IMAGE_HEIGHT	54
+#define MM_CUSTOM_MAINMENU_TITLE_IMAGE_WIDTH	640
+#define MM_CUSTOM_MAINMENU_TITLE_IMAGE_HEIGHT	480
+
+#undef MM_MENU_SOUND_CMD 
+#define MM_MENU_SOUND_CMD "music hits_main;" 
+
+#undef MM_INGAME_MENU_SOUND_CMD
+#define MM_INGAME_MENU_SOUND_CMD "music hits_main;"
+
+
+#undef MM_BRIEFING_SOUND_CMD 
+#define MM_BRIEFING_SOUND_CMD "music hits_main;"
