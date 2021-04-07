@@ -1,0 +1,15 @@
+
+hits_main
+
+{
+  editor_displayFolder  ambient
+
+  minDistance  1
+  maxDistance  10
+  volume  10
+  looping
+  sound/ambient/hits1_menu_audio.ogg
+}
+
+
+
