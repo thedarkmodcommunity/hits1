@@ -76,3 +76,17 @@ video/hits_debrief_video_sound
 {
 	sound/video/debrief_audio.ogg
 }
+sfx/player_secret
+{
+	sound/map_specific/secret.ogg
+}
+hits_main
+{
+  editor_displayFolder  ambient
+
+  minDistance  1
+  maxDistance  10
+  volume  10
+  looping
+  sound/ambient/hits1_menu_audio.ogg
+}	

@@ -2,7 +2,7 @@ Credits
 -------
 
 Mapping and original characters: Frost_Salamander
-Story, readables, artwork, voices and cinematics: Kerry000
+Story, readables, custom models, voices and cinematics: Kerry000
 Menu music: JackFarmer (original samples by gigagooga)
 
 Beta testers:

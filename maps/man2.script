@@ -1,3 +1,16 @@
+float totalSecrets = 5;
+float totalSecretsFound = 0;
+
+void foundSecret()
+{
+    totalSecretsFound++;
+    string msg = "You have found " + totalSecretsFound + " of " + totalSecrets + " secrets.";
+    $secret_popup.setKey("text", msg);
+    $secret_popup.setKey("force", 1);
+    $secret_popup.activate($player1);
+    sys.trigger($speaker_secret);   
+}
+
 void poison_stew(entity stew)
 {
     // Only allow this if you've found Jacobs
