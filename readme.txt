@@ -3,7 +3,8 @@ Credits
 
 Mapping and original characters: Frost_Salamander
 Story, readables, custom models, voices and cinematics: Kerry000
-Menu music: JackFarmer (original samples by gigagooga)
+
+Menu title track produced and mixed by Jack Farmer with selected gigagooga sound samples
 
 Beta testers:
 - Cambridge Spy
