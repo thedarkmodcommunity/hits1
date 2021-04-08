@@ -4,6 +4,7 @@ v0.6-beta:
 - delete collision brush in Ingleby's kitchen
 - add 'secrets'
 - add noise to roof water tank
+- make Roland note immobile
 
 v0.5-beta:
 
