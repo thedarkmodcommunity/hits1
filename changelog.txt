@@ -4,7 +4,8 @@ v0.6-beta:
 - delete collision brush in Ingleby's kitchen
 - add 'secrets'
 - add noise to roof water tank
-- make Roland note immobile
+- make Roland note immobile (doesn't go into inventory)
+- make Jacobs' letter mobile (goes into inventory)
 
 v0.5-beta:
 
