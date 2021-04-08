@@ -1,3 +1,20 @@
+v0.6-beta:
+
+- move Hales' key to her desk
+- delete collision brush in Ingleby's kitchen
+- add 'secrets' (5 in total)
+- add noise to roof water tank
+- make Roland note immobile (doesn't go into inventory)
+- make Jacobs' letter mobile (goes into inventory)
+
+v0.5-beta:
+
+- custom menu screen and music
+
+v0.4-beta:
+
+- trigger debrief/mission completion with script to ensure it always plays
+
 v0.3-beta:
 
 - change contents of duplicate desks
