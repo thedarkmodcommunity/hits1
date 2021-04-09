@@ -2,10 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "1084178" } 
-		KeyValue { "LastCameraAngle" "-5.4 9.90001 0" } 
-		KeyValue { "LastCameraPosition" "881.344 701.647 -33.7076" } 
+		KeyValue { "EditTimeInSeconds" "1084419" } 
+		KeyValue { "LastCameraAngle" "-0.600002 58.8 0" } 
+		KeyValue { "LastCameraPosition" "1015.69 572.535 148.347" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/common/caulk" } 
+	}
+	MapEditTimings
+	{
+		TotalSecondsEdited { 1084419 }
 	}
 	SelectionGroups
 	{
@@ -8996,10 +9000,6 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (speaker_secret)
 		Node { 0 } // entity (atdm_readable_immobile_paper01_16)
 		Node { 0 } // entity (letter_jacobs)
-	}
-	MapEditTimings
-	{
-		TotalSecondsEdited { 1084178 }
 	}
 	SelectionSets
 	{
