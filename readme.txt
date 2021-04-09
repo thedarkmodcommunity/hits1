@@ -16,6 +16,8 @@ Beta testers:
 - nbohr1more
 - Kerry000
 - ate0ate
+- wellingtoncrab
+- prjames
 
 Additional thanks:
 - Dragofer, nborh1more and peter_spy for technical help
