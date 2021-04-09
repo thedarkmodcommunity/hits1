@@ -1,4 +1,4 @@
-$rev = "0.6-beta"
+$rev = "1.0-release"
 $revSuffix="_v$rev"
 
 $devMissionName = 'dmmission1'
