@@ -27,6 +27,7 @@ cosmetic:
 
 other:
 - add brief/debrief videos to git repo
+- clean up menu background image
 
 v0.6-beta:
 
