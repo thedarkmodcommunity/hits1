@@ -6,6 +6,7 @@ bugs:
 
 gameplay:
 - remove loot on Dalton table
+- remove loot bag attached to sleeping merchant in inn
 - lower expert loot goal to 4500
 
 cosmetic:
