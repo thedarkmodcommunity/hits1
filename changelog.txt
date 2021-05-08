@@ -9,6 +9,11 @@ gameplay:
 - remove loot bag attached to sleeping merchant in inn
 - lower expert loot goal to 4500
 
+performance:
+- areaLock several models and func_emitters to stop rendering outside their visleaf
+- remove 2 lamps in staff rooms
+- remove 2 lamps in Percy's ground floor
+
 cosmetic:
 - align ceiling texture in inn kitchen
 - remove redundant pillar outside inn
