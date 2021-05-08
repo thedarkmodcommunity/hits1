@@ -22,6 +22,8 @@ cosmetic:
 - raise Humphrey's bed slightly
 - fix gap in wall in back alley
 - change skin on key for T's front door to make more visible
+- replace texture on staff rooms floor and ceiling
+- replace textures on inn floors
 
 other:
 - add brief/debrief videos to git repo
