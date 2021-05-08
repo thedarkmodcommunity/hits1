@@ -1,3 +1,30 @@
+1.0.3-release:
+
+bugs:
+- prevent frobbing of switch for Ingleby secret room from outside the room
+- prevent retrieval of T's journal through safe door
+
+gameplay:
+- remove loot on Dalton table
+- lower expert loot goal to 4500
+
+cosmetic:
+- align ceiling texture in inn kitchen
+- remove redundant pillar outside inn
+- align Percy bathroom shelf with wall
+- fix misaligned wall model on Ingleby stairs
+- plug bottom of model wall joint on Ingleby stairs
+- push supports back under T's attic window
+- align street texture outside of Percy house
+- align walls to floor in Percy ground floor
+- change texture in top of tunnel burn pit chimney to portal sky
+- raise Humphrey's bed slightly
+- fix gap in wall in back alley
+- change skin on key for T's front door to make more visible
+
+other:
+- add brief/debrief videos to git repo
+
 v0.6-beta:
 
 - move Hales' key to her desk
