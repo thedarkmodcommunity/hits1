@@ -32,6 +32,7 @@ cosmetic:
 
 other:
 - add brief/debrief videos to git repo
+- transfer git repo to thedarkmodcommunity Github org
 - clean up menu background image
 
 v0.6-beta:
