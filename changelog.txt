@@ -7,17 +7,21 @@ bugs:
 gameplay:
 - remove loot on Dalton table
 - remove loot bag attached to sleeping merchant in inn
+- replace cups on T's balcony with cheap loot goblets
 - lower expert loot goal to 4500
 
-performance:
+lighting/performance:
 - areaLock several models and func_emitters to stop rendering outside their visleaf
 - remove 2 lamps in staff rooms
 - remove 2 lamps in Percy's ground floor
+- remove 1 lamp from inn (near front window)
 
 cosmetic:
 - align ceiling texture in inn kitchen
 - remove redundant pillar outside inn
 - align Percy bathroom shelf with wall
+- match ceiling texture in Percy's kitchen/bathoom with lounge room
+- change floor texture in 'staff only' room to boards
 - fix misaligned wall model on Ingleby stairs
 - plug bottom of model wall joint on Ingleby stairs
 - push supports back under T's attic window
@@ -26,7 +30,7 @@ cosmetic:
 - change texture in top of tunnel burn pit chimney to portal sky
 - raise Humphrey's bed slightly
 - fix gap in wall in back alley
-- change skin on key for T's front door to make more visible
+- change skin on key for T's front door to make more visible on guard
 - replace texture on staff rooms floor and ceiling
 - replace textures on inn floors
 
